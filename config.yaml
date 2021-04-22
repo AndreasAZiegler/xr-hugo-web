@@ -1,0 +1,20 @@
+baseURL: "https://www.xrebellion.h/"
+languageCode: "en-us"
+title: "XR Switzerland"
+
+SectionPagesMenu: "main"
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: "EN"
+    weight: 1
+  fr:
+    languageName: "FR"
+    weight: 2
+  de:
+    languageName: "DE"
+    weight: 3
+  it:
+    languageName: "IT"
+    weight: 4
