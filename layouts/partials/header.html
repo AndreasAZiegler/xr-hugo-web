@@ -7,12 +7,16 @@
         <div class="collapse navbar-collapse nav" id="bs-example-navbar-collapse-1">
 
             <ul class="nav navbar-nav">
-              {{ partial "allLanguages.html" . }}
+              {{ partial "i18nlist.html" . }}
             </ul>
             <ul class="nav navbar-nav ml-auto">
               {{ $currentPage := . }}
               {{ range .Site.Menus.main }}
-              <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+              <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }}">
+                <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">
+                  <span>{{ .Name }}</span>
+                </a>
+              </li>
               {{ end }}
             </ul> 
         </div>
