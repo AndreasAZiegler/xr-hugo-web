@@ -20,5 +20,14 @@
               {{ end }}
             </ul> 
         </div>
+
+{{ range site.Menus.main }}
+    {{ .Name }} / {{ .Title }} / {{ .Weight }}
+    <br>
+{{ with .Children }}
+      {{ range . }}{{ .Name }}<br>{{ end }}
+    {{ end }}
+{{ end }}
+    <br>
     </div>
 </nav>

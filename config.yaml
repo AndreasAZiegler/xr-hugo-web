@@ -2,7 +2,7 @@ baseURL: "https://www.xrebellion.h/"
 languageCode: "en-us"
 title: "XR Switzerland"
 
-SectionPagesMenu: "main"
+#SectionPagesMenu: "main"
 
 defaultContentLanguage: en
 languages:
