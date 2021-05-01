@@ -1,9 +1,9 @@
 ---
-title: "10 Principles"
+title: "10 principles"
 menu:
   main:
-    title: "10 principles"
-    parent: "about"
+    enable: "10 principles"
+    parent: "About"
     weight: 30
 date: 2021-04-25T17:09:16+02:00
 draft: false

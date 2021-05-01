@@ -2,8 +2,8 @@
 title: "Our three demands"
 menu:
   main:
-    title: "three demands"
-    parent: "about"
+    title: "Our three demands"
+    parent: "About"
     weight: 20
 date: 2021-04-20T07:17:02+02:00
 draft: false

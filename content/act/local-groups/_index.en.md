@@ -1,9 +1,9 @@
 ---
-title: "Local Groups"
+title: "Local groups"
 menu:
   main:
-    title: "local groups"
-    parent: "act now"
+    name: "Local groups"
+    parent: "Act now"
     weight: 80
 date: 2021-04-25T17:16:02+02:00
 draft: false

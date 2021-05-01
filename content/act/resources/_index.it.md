@@ -1,9 +1,9 @@
 ---
-title: "Resources"
+title: "Risorse"
 menu:
   main:
-    title: "resources"
-    parent: "act now"
+    name: "Risorse"
+    parent: "Agisci ora"
     weight: 90
 date: 2021-04-25T17:16:26+02:00
 draft: false

@@ -1,9 +1,9 @@
 ---
-title: "Press Releases"
+title: "Press releases"
 menu:
   main:
-    title: "press releases"
-    parent: "press"
+    title: "Press releases"
+    parent: "Press"
     weight: 160
 date: 2021-04-25T17:19:02+02:00
 draft: false

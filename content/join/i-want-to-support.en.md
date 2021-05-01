@@ -1,9 +1,9 @@
 ---
-title: "I Want to Support"
+title: "I want to support"
 menu:
   main:
-    title: "i want to support"
-    parent: "join us"
+    name: "I want to support"
+    parent: "Join us"
     weight: 130
 date: 2021-04-25T17:18:20+02:00
 draft: false

@@ -2,8 +2,8 @@
 title: "Resources"
 menu:
   main:
-    title: "resources"
-    parent: "act now"
+    name: "resources"
+    parent: "Act now"
     weight: 90
 date: 2021-04-25T17:16:19+02:00
 draft: false

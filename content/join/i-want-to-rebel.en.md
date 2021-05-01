@@ -1,9 +1,9 @@
 ---
-title: "I Want to Rebel"
+title: "I want to rebel"
 menu:
   main:
-    title: "i want to rebel"
-    parent: "join us"
+    name: "I want to rebel"
+    parent: "Join us"
     weight: 110
 date: 2021-04-25T17:17:42+02:00
 draft: false
