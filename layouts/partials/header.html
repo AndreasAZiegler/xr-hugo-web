@@ -1,4 +1,4 @@
-<nav id="main-nav" class="navbar navbar-default navbar-custom navbar-expand-lg fixed-top sps sps--abv"
+<nav id="main-nav" class="navbar navbar-dark navbar-default navbar-custom navbar-expand-lg fixed-top sps sps--abv white" style="color: #fff; background-color: #14aa37;"
     data-sps-offset="100">
     <div class="container align-items-stretch">
 
@@ -8,7 +8,7 @@
 
           <div class="container">
             <div class="row justify-content-start">
-              <div class="col-4">
+              <div class="col">
                 <ul class="nav navbar-nav">
                   {{ partial "i18nlist.html" . }}
                 </ul>
@@ -16,18 +16,32 @@
             </div>
             <div class="row justify-content-start">
               <div class="col-1"></div>
-              <div class="col-8">
+              <div class="col">
                 <ul class="nav navbar-nav ml-auto">
                   {{ $currentPage := . }}
                   {{ range .Site.Menus.main }}
-                  <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }}">
+                  <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }} active{{ end }} h5 fw-bold">
                     <a class="nav-link" href="{{ .URL }}" title="{{ .Title }}">
                       <span>{{ .Name }}</span>
                     </a>
                   </li>
-                  {{ end }}
-                </ul> 
+                </ul>
               </div>
+              {{ if and (.HasChildren) (or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .)) }}
+              <div class="row justify-content-start">
+                <div class="col-1"></div>
+                <div class="col">
+                  <ul class="sub-menu nav navbar-nav ml-auto">
+                  {{ range .Children }}
+                    <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                      <a href="{{ .URL }}">{{ .Name }}</a>
+                    </li>
+                  {{ end }}
+                  </ul> 
+                </div>
+              </div>
+              {{ end }}
+              {{ end }}
             </div>
           </div>
         </div>
