@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<div class="container pb-5">
+  {{ .Content }}
+</div>
+
+<center>
+  <script src="https://donorbox.org/widget.js" paypalExpress="false"></script>
+  <iframe allowpaymentrequest="" frameborder="0" height="900px" name="donorbox" scrolling="no" seamless="seamless" src="https://donorbox.org/embed/klima" style="max-width: 500px; min-width: 310px; max-height:none!important" width="100%"></iframe>
+</center>
+
+<section class="details" style="margin-top: 30px; margin-bottom: 30px;">
+  <div class="container">
+    <div class="row">
+        <div class="col-md-2">
+          <!-- nothing -->
+        </div>
+        <div class="col-md-7">
+          <div class="card py-md-0 px-md-0 border-0 bg-info text-black rounded-0">
+            <div class="card-body border">
+                <div class="row">
+                  <div class="col-md-3">
+                    Account
+                  </div>
+                  <div class="col-md-9">
+                      Extinction Rebellion Switzerland, 8000 Zürich 
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-3">
+                    IBAN
+                  </div>
+                  <div class="col-md-9 iban">
+              <span>CH54</span> <span>0839</span> <span>0036</span> <span>1439</span> <span>1000</span> <span>5</span>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-3">
+                    BIC
+                  </div>
+                  <div class="col-md-9">
+                    ABSOCH22XXX
+                  </div>
+                </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-3">
+          <!-- nothing -->
+        </div>
+      </div>
+    </div>
+</section>
+
+{{ end }}
