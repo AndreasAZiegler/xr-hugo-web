@@ -1,0 +1,48 @@
+<ul class="list-inline social-buttons">
+    {{ $links := .Params.links }}
+
+    {{ if $links.website }}
+    <li class="list-inline-item"><a href="{{ $links.website }}"><span class="icon icon--xr">{{ partial "svg.html" (dict "svg" "/static/icons/xr-notext.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.diaspora }}
+    <li class="list-inline-item"><a href="{{ $links.diaspora }}"><span class="icon icon--diaspora">{{ partial "svg.html" (dict "svg" "/static/icons/diaspora.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.facebook }}
+    <li class="list-inline-item"><a href="{{ $links.facebook }}"><span class="icon icon--facebook">{{ partial "svg.html" (dict "svg" "/static/icons/facebook.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.mastodon }}
+    <li class="list-inline-item"><a href="{{ $links.mastodon }}"><span class="icon icon--mastodon">{{ partial "svg.html" (dict "svg" "/static/icons/mastodon.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.twitter }}
+    <li class="list-inline-item"><a href="{{ $links.twitter }}"><span class="icon icon--twitter">{{ partial "svg.html" (dict "svg" "/static/icons/twitter.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.peertube }}
+    <li class="list-inline-item"><a href="{{ $links.peertube }}"><span class="icon icon--peertube">{{ partial "svg.html" (dict "svg" "/static/icons/peertube.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.youtube }}
+    <li class="list-inline-item"><a href="{{ $links.youtube }}"><span class="icon icon--youtube">{{ partial "svg.html" (dict "svg" "/static/icons/youtube.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.instagram }}
+    <li class="list-inline-item"><a href="{{ $links.instagram }}"><span class="icon icon--instagram">{{ partial "svg.html" (dict "svg" "/static/icons/instagram.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.telegram }}
+    <li class="list-inline-item"><a href="{{ $links.telegram }}"><span class="icon icon--telegram">{{ partial "svg.html" (dict "svg" "/static/icons/telegram.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if $links.rss }}
+    <li class="list-inline-item"><a href="{{ $links.rss }}"><span class="icon icon--rss">{{ partial "svg.html" (dict "svg" "/static/icons/rss.svg") }}</span></a></li>
+    {{ end }}
+
+    {{ if .Params.email }}
+    <li class="list-inline-item"><a href="mailto:{{ .Params.email }}"><span class="icon icon--email">{{ partial "svg.html" (dict "svg" "/static/icons/mail.svg") }}</span></a></li>
+    {{ end }}
+
+</ul>

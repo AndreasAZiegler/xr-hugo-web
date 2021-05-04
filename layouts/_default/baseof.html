@@ -3,7 +3,8 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="content" style="padding-top:160px">
+        <!-- <div id="content" style="padding-top:160px"> -->
+        <div id="page-content">
         {{- block "main" . }}{{- end }}
         </div>
         {{- partial "footer.html" . -}}

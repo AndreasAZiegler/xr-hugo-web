@@ -1,0 +1,30 @@
+{{ define "main" }}
+
+<h1 class="page-heading">{{.Title}}</h1>
+      {{ .Content }}
+  <section id="branches-list" class="pt-3 pb-3 bg-light-gray">
+    <div class="container">
+      <div class="row">
+        {{ range .Pages }}
+
+          <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 xr-color-box">
+            <div class="card py-md-0 px-md-0 border-0 rounded-0 {{ partial "randomcolor.html" . }}">
+              <div class="card-body">
+                  <h3 class="event-title card-title country-title">
+                      {{ .Title }}
+                  </h3>
+                  <div class="card-links position-relative">
+                    {{ partial "social-buttons.html" .}}
+                  </div>
+                  <div class="text-end position-relative">
+                    {{ .Params.canton }}
+                  </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+
+{{ end }}

@@ -1,0 +1,273 @@
+// Custom Navigation Bar
+
+.navbar-custom {
+  background-color: $gray-base;
+  border-color: transparent;
+  .navbar-brand {
+    color: $theme-primary;
+    @include script-font;
+    &:hover,
+    &:focus,
+    &:active,
+    &.active {
+      color: darken($theme-primary, 10%);
+    }
+    padding: 0;
+    svg{
+      height: 48px;
+      path {
+        fill: #ffffff;
+        @include transition-all;
+      }
+    }
+  }
+  .navbar-collapse {
+    border-color: fade-out(white, .02);
+  }
+  .navbar-toggler {
+    background-color: $theme-primary;
+    border-color: $theme-primary;
+    @include heading-font;
+    color: white;
+    font-size: 12px;
+    &:hover,
+    &:focus {
+      background-color: $theme-primary;
+    }
+  }
+  .nav {
+    li {
+      a {
+        @include heading-font;
+        font-weight: normal;
+        letter-spacing: 1px;
+        color: white;
+        font-size: 14px;
+        padding: 10px 5px;
+        &:hover,
+        &:focus {
+          color: white;
+          background-color: darken($theme-primary, 10%);
+          // color: $theme-primary;
+          // outline: none;
+        }
+      }
+    }
+  }
+  .navbar-nav>.active>a {
+    border-radius: 0;
+    color: $theme-primary;
+    background-color: $gray-base;
+  }
+  .navbar-nav>.active>a:hover,
+  .navbar-nav>.active>a:focus {
+    color: $theme-primary;
+    background-color: $gray-base;
+  }
+  .main-navbar-childs {
+    display: block;
+    li {
+      a {
+        display: block;
+        text-decoration: none;
+      }
+    }
+  }
+}
+
+@media(min-width:768px) {
+  .navbar-custom {
+    background-color: #14aa37;
+    padding: 25px 0;
+    @include transition-all;
+    border: none;
+    .navbar-brand {
+      font-size: 2em;
+      @include transition-all;
+    }
+    .navbar-nav>.active>a {
+      border-radius: 0px;
+    }
+    .main-navbar-childs {
+      display: block;
+    }
+  }
+}
+
+@media(min-width:992px) {
+  .navbar-custom {
+    .main-navbar-childs {
+      display: none;
+    }
+  }
+}
+
+// Navbar Change on Scroll
+
+@media(min-width:768px) {
+  // hide childs when on large screen
+
+  .navbar-custom.affix,
+  .navbar-custom.sps--blw {
+    background-color: #14aa37;
+    padding: 10px 0;
+    .navbar-brand {
+      font-size: 1.5em;
+    }
+    .navbar-nav>.active>a {
+      border-radius: 0;
+      background-color: darken($theme-primary, 10%);
+      color: white;
+    }
+    .navbar-nav>.active>a:hover,
+    .navbar-nav>.active>a:focus {
+      background-color: darken($theme-primary, 10%);
+      color: white;
+    }
+  }
+  .navbar-custom.affix-top,
+  .navbar-custom.sps--abv {
+    background-color: #14aa37;;
+    .navbar-brand {
+      margin-top: -10px;
+      margin-bottom: -10px;
+      svg{
+        height: 70px;
+        &:hover path {
+          fill: $color-xr-green-may;
+        }
+        path {
+          fill: $gray-darker;
+          @include transition-all;
+        }
+      }
+    }
+    .nav {
+      li {
+        a {
+          @include heading-font;
+          font-weight: normal;
+          letter-spacing: 1px;
+          color: $gray-darker;
+          font-size: 14px;
+          padding: 10px 5px;
+          &:hover,
+          &:focus {
+            background-color: darken($theme-primary, 10%);
+            color: white;
+            outline: none;
+          }
+        }
+      }
+    }
+    .navbar-nav>.active>a {
+      border-radius: 0;
+      color: white;
+      background-color: $gray-darker;
+    }
+    .navbar-nav>.active>a:hover,
+    .navbar-nav>.active>a:focus {
+      color: lighten($theme-primary, 30%);
+      background-color: $gray-darker;
+    }
+  }
+}
+
+// .navbar.sub-nav .navbar-nav {
+//   display: inline-block;
+//   float: none;
+// }
+.sub-nav {
+  // @TODO: fixed top
+  top: 100px;
+
+  .container {
+    justify-content: right;
+  }
+  @include media-query($on-laptop) {
+    top: 64px;
+    // position: relative;
+
+  }
+  padding: 0px;
+  @include transition-all;
+  background-color: $color-xr-green-may;
+  &.affix,
+  &.sps--blw {
+    top: 64px;
+    padding: 0;
+    @include transition-all;
+    .container {
+      justify-content: right;
+    }
+    .active>a {
+      border-radius: 0;
+      background-color: darken($theme-primary, 10%);
+      color: white;
+      display: block;
+    }
+    ul  {
+      li.active>a:hover,
+      li.active>a:focus {
+        background-color: darken($theme-primary, 10%);
+        color: white;
+      }
+    }
+  }
+  .navbar-collapse {
+    text-align: right;
+  }
+  .navbar-toggler {
+    background-color: $theme-primary;
+    border-color: $theme-primary;
+    @include heading-font;
+    color: white;
+    font-size: 12px;
+    &:hover,
+    &:focus {
+      background-color: $theme-primary;
+    }
+    float: right;
+  }
+  ul {
+    li {
+      a {
+        @include heading-font;
+        font-weight: normal;
+        letter-spacing: 1px;
+        color: white;
+        font-size: 14px;
+        padding: 5px 5px;
+        &:hover,
+        &:focus {
+          color: white;
+          background-color: darken($theme-primary, 10%);
+          border-bottom: 5px solid $color-xr-pink;
+          // color: $theme-primary;
+          // outline: none;
+        }
+        display: block;
+      }
+    }
+  }
+  .active>a {
+    border-radius: 0;
+    // color: $gray-base;
+    background-color: $theme-primary;
+    border-bottom: 5px solid $color-xr-pink;
+  }
+  .active>a:hover,
+  .active>a:focus {
+    // color: $theme-primary;
+    // background-color: $gray-base;
+    border-bottom: 5px solid $color-xr-pink;
+  }
+}
+// .sub-nav-place-holder {
+//     display: none;
+// }
+@include media-query(992px) {
+  .sub-nav-place-holder {
+    display: none;
+  }
+}

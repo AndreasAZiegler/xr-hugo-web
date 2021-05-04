@@ -1,0 +1,173 @@
+.post-container {
+  // margin-top: 125px;
+  @include media-query($on-laptop) {
+    margin-top: 70px;
+  }
+}
+
+p.post-meta {
+  @include serif-font;
+  font-style: italic;
+  font-weight: 400;
+  text-transform: none;
+  text-align:right;
+}
+
+blockquote {
+  text-align: left;
+  border-left: 3px solid $gray-lighter;
+  padding: 0.5rem 0.5rem 0.5rem 2.5rem;
+  p {
+    margin-top:8px;
+    margin-bottom:8px;
+  }
+}
+
+article.evenement {
+  header {
+    margin-bottom: 50px;
+    .event-date, .event-venue {
+      @include heading-font;
+      font-weight: normal;
+      display: block;
+      font-size: 30px;
+      @include media-query(1024px) {
+        font-size: 20px;
+      }
+      @include media-query($on-laptop) {
+        font-size: 20px;
+      }
+    }
+  }
+}
+
+.xr-color-box {
+  .card {
+    .card-title {
+      font-size: 35px;
+      a {
+        color: #000;
+      }
+      @include media-query($on-large) {
+        font-size: 25px;
+      }
+      @include media-query($on-laptop) {
+        font-size: 25px;
+      }
+    }
+    .card-date {
+      @include heading-font;
+      font-weight: normal;
+      display: block;
+      font-size: 30px;
+      @include media-query(1024px) {
+        font-size: 20px;
+      }
+      @include media-query($on-laptop) {
+        font-size: 20px;
+      }
+    }
+    .card-venue {
+      @include heading-font;
+      font-weight: normal;
+      display: block;
+      font-size: 25px;
+      @include media-query(1024px) {
+        font-size: 18px;
+      }
+      @include media-query($on-laptop) {
+        font-size: 18px;
+      }
+    }
+  }
+}
+
+
+
+.event-button {
+  // margin-bottom: 35px;          //
+}
+
+article.action {
+  header {
+    margin-bottom: 50px;
+    .action-venue, .action-date {
+      margin-top: 20px;
+      @include heading-font;
+      font-weight: normal;
+      display: block;
+      font-size: 2vw;
+      @include media-query(1024px) {
+        font-size: 3vw;
+      }
+      @include media-query($on-laptop) {
+        font-size: 4vw;
+      }
+      @include media-query($on-palm) {
+        font-size: 6vw;
+      }
+    }
+  }
+}
+
+
+
+
+article.evenement, article.action, article.post {
+  div.categories {
+    a {
+      @include heading-font;
+    }
+  }
+  ol.big-numbers-list {
+    padding-left: 50px;
+  }
+}
+
+.img-left {
+  float: left;
+  margin-right: 15px;
+  margin-top: 18px;
+  max-width: 200px;
+  @include media-query($on-palm) {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+  }
+}
+
+#FilterContainer {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.filterDiv {
+  display: none; /* Hidden by default */
+}
+
+/* The "show" class is added to the filtered elements */
+.showpost {
+  display: block;
+}
+
+/* Style the buttons */
+
+#FilterContainer .btn {
+  margin-bottom: 0px;
+  margin-top: 0px;
+  border-radius: 0;
+  font-family: 'FucXedLatin', sans-serif;
+  text-transform: uppercase; }
+
+/* Add a light grey background on mouse-over */
+#FilterContainer .btn:hover {
+  background-color: #ddd;
+}
+
+/* Add a dark background to the active button */
+#FilterContainer .btn.active {
+  background-color: #666;
+  color: white;
+}
+
+

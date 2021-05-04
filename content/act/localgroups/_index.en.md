@@ -1,5 +1,6 @@
 ---
 title: "Local groups"
+type: localgroups
 menu:
   main:
     name: "Local groups"
