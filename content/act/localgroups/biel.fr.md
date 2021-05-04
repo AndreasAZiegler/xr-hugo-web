@@ -1,0 +1,13 @@
+---
+title: "Bienne"
+date: 2021-05-03T20:36:31+02:00
+draft: false
+name: Bienne
+canton: Berne
+city: Bienne
+email: xr-biel-bienne@protonmail.com
+links:
+    others: []
+    facebook:  https://www.facebook.com/XRBielBienne/
+---
+

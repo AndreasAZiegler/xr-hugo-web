@@ -1,0 +1,55 @@
+form {
+  input,
+  select {
+    background-color: $color-xr-white;
+    border-color: $color-xr-black;
+    border-width: 2px;
+    padding: 0.5em 1em;
+    min-width: 13em;
+
+    &::focus {
+      border-color: $color-xr-green-may;
+      border-width: 3px;
+      outline: none;
+    }
+    &::placeholder {
+      color: transparentize($color-xr-black, 0.7);
+    }
+  }
+
+  select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: 0;
+    background: url(../assets/img/icons/arrow-down-white.svg),
+      linear-gradient(to left, $color-xr-black 0, $color-xr-black 100%);
+    background-position: right 0.4375rem top 50%, right top;
+    background-size: 1.875rem auto, 2.9375rem 100%;
+    background-repeat: no-repeat, no-repeat;
+    background-color: $color-xr-white;
+    cursor: pointer;
+  }
+
+  .container .input-wrapper {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+
+    label {
+      font-family: 'FucXedLatin', sans-serif;
+      text-transform: uppercase;
+      font-weight: normal;
+    }
+
+    .label-row {
+      display: flex;
+      flex-direction: row;
+    }
+
+    p.input-info {
+      margin-bottom: 0;
+      opacity: 0.7;
+    }
+  }
+}

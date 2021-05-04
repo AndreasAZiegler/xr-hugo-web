@@ -1,5 +1,6 @@
 ---
 title: "Gruppi locali"
+type: localgroups
 menu:
   main:
     name: "Gruppi locali"
