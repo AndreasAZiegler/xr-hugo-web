@@ -1,0 +1,21 @@
+---
+layout: blogpost
+lang: fr
+title: "#nogoingback "
+slug: nogoingback
+author: xrlausanne
+branch: xrlausanne
+publish_date: 2020-05-09
+time: 12:00
+date: 2020-05-09
+event_loc_country: Switzerland
+categories: blogposts
+published: true
+
+thumb: "/images/news/nogoigback_blog_big.jpg"
+image: "/images/news/nogoigback_blog_big.jpg"
+---
+
+# Pas de retour à la normale, pas de retour à l’anormal !
+
+« La normale », c’est ce système toxique, qui extermine le vivant à une vitesse toujours plus effrénée, au profit d’un très petit nombre de gens – mais aussi, à leur détriment, car les catastrophes écologiques en cours finiront par nous toucher toutes et tous, sans exception. Nous demandons à nos politiques de prendre ENFIN au sérieux le désastre écologique en cours. La crise sanitaire du COVID-19 a suscité des mesures drastiques et un arrêt brutal de la course à la croissance tel que nous n’aurions jamais pu l’imaginer ; pourquoi la catastrophe en cours, bien plus vaste et dévastatrice, est-elle délibérément ignorée ? Il ne s’agit pas de remettre aux mains d’un petit groupe de décideurs le droit d’imposer des décisions liberticides et antidémocratiques (ce que d’aucuns appelleraient de « l’écofascisme »), mais bien au contraire de réaliser enfin une démocratie plus réelle, plus directe et plus représentative. Les Assemblées citoyennes contraignantes apparaissent comme le moyen le plus propice pour permettre à la population de participer vraiment aux processus décisionnels qui la concernent. La crise du COVID-19 l’a montré : l’urgence n’est pas compatible avec notre politique actuelle, puisque la seule option consiste à remettre au Conseil fédéral des pouvoirs immenses, d’où des décisions extrêmement criticables pour une « sortie de crise » qui privilégie, une fois de plus, les actionnaires, les gros patrons, les financiers, les grandes compagnies écocides et néglige les « petites gens », qui permettent à notre société de fonctionner. Il n’y a pas de « sortie de crise ». Il n’y a qu’une traversée, avec des hauts et des bas, de la catastrophe écologique désormais bien réelle, dont la pandémie n’est qu’une des très nombreuses manifestations. Il nous reste à décider si nous voulons saisir cette bifurcation pour aller encore plus vite vers des effondrements systémiques, ou pour aborder une transition écologique, équitable, éthique. Cette transition est plus que jamais nécessaire. Mais elle est aussi plus que jamais possible. Cessons de nous laisser aveugler par une image de la Suisse prospère, travailleuse, à l’abri des malheurs du monde derrière notre forteresse de « neutralité » (en vrai, notre forteresse financière, qui ne tiendra pas longtemps quand les ressources manqueront partout). Certains tabous, telle la pénurie alimentaire qui menace l’ensemble du globe, ne sont absolument pas abordés, comme si nous bénéficiions d’une sorte d’immunité bénie – viendrait-il à l’esprit que les Suisses pourraient un jour avoir faim ? Le 7 mai déjà, la Suisse a épuisé pour l’année ses propres ressources et vit à crédit d’autres pays. Non seulement l’autonomie alimentaire est très loin d’être une possibilité actuelle, mais il semblerait de surcroît que nos politiques ne s’en soucient guère. Mette en place des mesures pour privilégier une agriculture sociale, locale, durable, biologique et saine, semble plus que jamais indispensable, alors que partout dans le monde les pays producteurs réduisent leurs exportations par peur de manquer du fait de la crise… Notre sécurité alimentaire est menacée, alors même que personne n’en parle. Ce n’est qu’un exemple de l’incurie gouvernementale et de la désinformation que nous constatons quotidiennement depuis le début du « déconfinement ». Il est temps d’agir. Si nous devons être « responsables ensemble », soyons-le pour de bon. Responsables. Et ensemble.
