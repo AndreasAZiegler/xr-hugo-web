@@ -29,12 +29,14 @@
                   <p>{{ .Summary | truncate 180 }}</p>
                 </div>
               <div class="card-button">
-                <a class="o-button-black" href="{{ .Permalink }}" class="event-link">{{ with .Site.GetPage "/news" }}{{ .Params.learn_more }}{{end}}</a>
+                <a class="o-button-black" href="{{ .Permalink }}" class="event-link">
+                  {{ with .Site.GetPage "/news" }}{{ .Params.learn_more }}{{end}}
+                </a>
               </div>
             </div>
           </div>
         </div>
-      {{ end}}
+      {{ end }}
     </div>
   </div>
 </section>

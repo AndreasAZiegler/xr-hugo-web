@@ -1,0 +1,85 @@
+{{ define "main" }}
+
+<h1 class="page-heading">{{.Title}}</h1>
+
+<div id="FilterContainer">
+
+  <!-- Get distinct values for used languages, branches, eventtypes -->
+
+  <!-- Branches -->
+  {{ $unique_branches := index .Site.Taxonomies "branches" }}
+  <!-- Eventtypes -->
+  {{ $unique_types := index .Site.Taxonomies "event_types" }}
+
+  <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFilter" aria-expanded="false" aria-controls="collapseFilter" style="font-size : 30px;">
+    Filter
+  </button>
+
+  <div class="collapse" id="collapseFilter">
+      <button class="btn active" onclick="filterSelection('all')">Show all</button>
+      <p>
+        By local group
+        {{ range $unique_branch, $val := $unique_branches }}
+          {{ $branch_name := replace $unique_branch "-" " " }}
+          <button class="btn" onclick="filterSelection('filter_{{ $unique_branch }}')">{{ $branch_name }}</button>
+        {{ end }}
+      </p>
+      <p>
+        By event type
+        {{ range $unique_type, $val := $unique_types }}
+          <button class="btn" onclick="filterSelection('filter_{{ $unique_type }}')">{{ $unique_type }}</button>
+        {{ end }}
+      </p>
+  </div>
+</div>
+
+<section id="calendar" class="evenements">
+  <div class="container">
+    <div class="row">
+      {{ range .Pages }}
+      <div class="filterDiv {{range $event_type := .Params.event_types}}filter_{{$event_type}}{{end}} {{range $branch := .Params.branches}} filter_{{$branch | urlize}}{{end}} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
+        {{ $type := index .Params.event_types 0 }}
+        {{ $bg := "bg-purple" }}
+        {{ if (eq $type "nvda") }}
+          {{ $bg = "bg-blue-baby" }}
+        {{ else if (eq $type "talk") }}
+          {{ $bg = "bg-green-moss" }}
+        {{ else if (eq $type "welcome") }}
+          {{ $bg = "bg-lemon" }}
+        {{ else if (eq $type "action") }}
+          {{ $bg = "bg-pink" }}
+        {{ end }}
+        <div class="card py-md-0 px-md-0 border-0 {{ $bg }} rounded-0">
+          {{ if .Params.thumb }}
+            <a href="{{ .Permalink }}" class="event-link">
+                <img src="{{ .Params.thumb | absURL}}" class="img-fluid mx-auto" />
+            </a>
+          {{ end }}
+          <div class="card-body">
+            <h3 class="card-title event-title">
+              <a href="{{ .Permalink }}" class="event-link {{ $bg }}">
+                {{ .Title }}
+              </a>
+            </h3>
+            <div class="card-date">
+            </div>
+            <div class="card-venue">
+              {{ .Params.event_loc_addressLocality }}
+            </div>
+            <div class="card-excerpt">
+              <p>{{ .Summary | truncate 180 }}</p>
+            </div>
+            <div class="card-button">
+              <a class="o-button-black" href="{{ .Permalink  }}" class="event-link">
+                {{ with .Site.GetPage "/act/events" }}{{ .Params.learn_more }}{{end}}
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>>
+
+{{ end }}
