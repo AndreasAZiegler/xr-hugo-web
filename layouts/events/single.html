@@ -1,0 +1,81 @@
+{{ define "main" }}
+
+<div class="container post-container">
+
+  <article class="action" itemscope itemtype="http://schema.org/event">
+
+    <header class="post-header">
+
+      <h1 class="post-title" itemprop="name">{{ .Title }}</h1>
+
+      {{ if .Params.image }}
+        <img src="{{ .Params.image | absURL }}" class="img-fluid img mx-auto" />
+      {{ end }}
+
+      <div class="action-date" itemprop="startDate" content="{{ .Params.event_date }}">
+        {{ if .Params.date }}
+          {{ .Params.date.Format "2 January 2006" }}
+          {{ if .Params.time }}
+            {{ .Params.time }}
+          {{ else }}
+          {{ end }}
+        {{ end }}
+      </div>
+
+      <div class="action-venue" itemprop="location" itemscope itemtype="http://schema.org/Place">
+        {{ $event_url := print "https://www.openstreetmap.org/search?query=" .Params.event_loc_addressLocality "," .Params.event_loc_country }}
+        {{ if .Params.event_loc_link }}
+          {{ $event_url = print .Params.event_loc_link }}
+        {{ else if (and (.Params.event_loc_lat) (.Params.event_loc_lon)) }}
+          {{ $event_url = print "https://www.openstreetmap.org/node/582619686#map=18/" .Params.event_loc_lat "/" .Params.event_loc_lon }}
+        {{ else if (and (.Params.event_loc_street_name) (.Params.event_loc_street_num)) }}
+          {{ $event_url = print "https://www.openstreetmap.org/search?query=" .Params.event_loc_street_name "," .Params.event_loc_street_num "," .Params.event_loc_addressLocality "," .Params.event_loc_country }}
+        {{ else if .Params.event_loc_name }}
+          {{ $event_url = print "https://www.openstreetmap.org/search?query=" .Params.event_loc_name "," .Params.event_loc_addressLocality "," .Params.event_loc_country }}
+        {{ end }}
+
+        <a href="{{ trim $event_url " " }}" target="_blank">
+
+          {{ if .Params.event_loc_name }}
+            <span itemprop="name">{{ .Params.event_loc_name }}</span>
+          {{ end }}
+          <span class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+            {{ if (and (.Params.event_loc_street_name) (ne .Params.event_loc_street_name "")) }}
+              </br>
+              <span itemprop="streetAddress">{{ .Params.event_loc_street_name }}{{ if .Params.event_loc_street_num }} {{.Params.event_loc_street_num}}{{ end }}
+              </span>
+            {{ end }}
+            {{ if (and (.Params.event_loc_addressLocality) (ne .Params.event_loc_addressLocality "")) }}
+              </br>
+              <span itemprop="addressLocality">{{ .Params.event_loc_addressLocality }}</span>
+            {{ end }}
+            {{ if .Params.event_loc_country }}
+              ,<span itemprop="addressCountry">{{ if (or (eq .Params.event_loc_country "Switzerland") (eq .Params.event_loc_country "switzerland")) }}Switzerland{{ else }} {{.Params.event_loc_country}} {{ end }}</span>
+            {{ end }}
+          </span>
+        </a>
+      </div>
+    </header>
+
+    <div class="post-content">
+      {{ .Content }}
+
+      <p class="post-meta"> 
+        {{ with .Site.GetPage "/act/events" }}{{ .Params.published_on }}{{end}}
+        <time datetime="{{ .Params.date.Format "January 2, 2006" }}" itemprop="datePublished"> 
+          {{ .Params.PublishDate.Format "2 January 2006" }}
+        </time>
+        {{ if .Params.author }} 
+          {{ with .Site.GetPage "/act/events" }}{{ .Params.by }}{{end}}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">{{ .Params.author }}</span>.
+          </span>
+        {{ end }}
+      </p>
+    </div>
+
+  </article>
+
+</div>
+
+{{ end }}
