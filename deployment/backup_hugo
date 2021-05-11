@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Backup development site
+rsync -av --delete /home/hvoajxlo/hugo.xrebellion.ch/ /home/hvoajxlo/backups/hugo/
