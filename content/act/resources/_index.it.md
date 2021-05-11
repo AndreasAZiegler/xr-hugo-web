@@ -1,5 +1,6 @@
 ---
 title: "Risorse"
+type: resources
 menu:
   main:
     name: "Risorse"

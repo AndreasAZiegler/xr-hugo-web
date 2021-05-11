@@ -1,5 +1,4 @@
 ---
-lang: de
 title: Kinderwagen Aktion
 type: events
 slug: kinderwagen-aktion
