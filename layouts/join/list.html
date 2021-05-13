@@ -1,0 +1,6 @@
+{{ define "main" }}
+
+{{ $site := .Site.GetPage "join/i-want-to-rebel" }}
+<meta http-equiv="refresh" content="0; url={{ $site.Permalink }}" />
+
+{{ end }}

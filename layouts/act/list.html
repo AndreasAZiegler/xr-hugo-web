@@ -1,0 +1,6 @@
+{{ define "main" }}
+
+{{ $site := .Site.GetPage "act/events" }}
+<meta http-equiv="refresh" content="0; url={{ $site.Permalink }}" />
+
+{{ end }}
