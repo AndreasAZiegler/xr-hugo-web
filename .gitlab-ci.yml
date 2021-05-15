@@ -5,7 +5,7 @@ image:
 master-build:
   stage: build
   script:
-    - hugo
+    - hugo --help
   artifacts:
     paths:
     - public
@@ -22,14 +22,14 @@ master-deploy:
     # Set up keys
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
-    - echo "$NEW_PRIVATE_KEY" > ~/.ssh/id_rsa
+    - echo "$PRIVATE_KEY" > ~/.ssh/id_rsa
     - chmod 600 ~/.ssh/id_rsa
     # Load key with passphrase
     - eval $(ssh-agent -s)
-    - expect -c 'spawn ssh-add /root/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(NEW_KEY_PASSPHRASE)\r"; expect eof'
+    - expect -c 'spawn ssh-add /root/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
 
     # Set up known hosts
-    - echo "$NEW_KNOWN_HOST" > ~/.ssh/known_hosts
+    - echo "$KNOWN_HOST" > ~/.ssh/known_hosts
     - chmod 644 ~/.ssh/known_hosts
 
   script:
