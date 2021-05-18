@@ -26,11 +26,6 @@ master-deploy:
     - apk add rsync
 
     # Set up keys
-    - mkdir -p /tmp/.ssh
-    - chmod 700 /tmp/.ssh
-    - echo "$PRIVATE_KEY" > /tmp/.ssh/id_rsa
-    - chmod 600 /tmp/.ssh/id_rsa
-
     - mkdir -p /root/.ssh
     - chmod 700 /root/.ssh
     - echo "$PRIVATE_KEY" > /root/.ssh/id_rsa
@@ -38,16 +33,16 @@ master-deploy:
 
     # Load key with passphrase
     - eval $(ssh-agent -s)
-    - expect -c 'spawn ssh-add /tmp/.ssh/id_rsa; expect "Enter passphrase for /tmp/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
+    - expect -c 'spawn ssh-add /root/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
 
     # Set up known hosts
-    - echo "$KNOWN_HOST" > /tmp/.ssh/known_hosts
-    - chmod 644 /tmp/.ssh/known_hosts
-    - cat /tmp/.ssh/known_hosts
+    - echo "$KNOWN_HOST" > /root/.ssh/known_hosts
+    - chmod 644 /root/.ssh/known_hosts
+    - cat /root/.ssh/known_hosts
 
   script:
     # Backup old version
-    - ssh -i /tmp/.ssh/id_rsa -v hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
+    - ssh -v hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
     
     # Transfer files
     - rsync -aq -delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
