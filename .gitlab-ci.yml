@@ -1,5 +1,5 @@
 image:
-  name: klakegg/hugo:alpine-ci 
+  name: klakegg/hugo:ext-alpine-ci 
   entrypoint: ["/bin/sh", "-c"]
   
 master-build:
