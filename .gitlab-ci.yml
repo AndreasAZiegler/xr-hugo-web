@@ -31,7 +31,8 @@ master-deploy:
     - chmod 600 ~/.ssh/id_rsa
     # Load key with passphrase
     - eval $(ssh-agent -s)
-    - expect -c 'spawn ssh-add ~/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
+    #- expect -c 'spawn ssh-add ~/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
+    - ssh-add ~/.ssh/id_rsa
 
     # Set up known hosts
     - echo "$KNOWN_HOST" > ~/.ssh/known_hosts
