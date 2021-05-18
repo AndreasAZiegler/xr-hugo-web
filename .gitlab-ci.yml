@@ -38,11 +38,10 @@ master-deploy:
     # Set up known hosts
     - echo "$KNOWN_HOST" > /root/.ssh/known_hosts
     - chmod 644 /root/.ssh/known_hosts
-    - cat /root/.ssh/known_hosts
 
   script:
     # Backup old version
-    - ssh -v hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
+    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
     
     # Transfer files
     - rsync -aq -delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
