@@ -22,6 +22,9 @@ master-deploy:
     # Install ssh client
     - apk add openssh-client
 
+    # Install rsync
+    - apk add rsync
+
     # Set up keys
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
