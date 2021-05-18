@@ -1,6 +1,6 @@
 image:
   name: klakegg/hugo:alpine-ci 
-  entrypoint: ["hugo-official"]
+  entrypoint: ["/bin/sh", "-c"]
   
 master-build:
   stage: build
