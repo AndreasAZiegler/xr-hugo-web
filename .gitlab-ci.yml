@@ -39,10 +39,10 @@ master-deploy:
     - expect -c 'spawn ssh-add /tmp/.ssh/id_rsa; expect "Enter passphrase for /tmp/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
 
     # Set up known hosts
-    - echo "$KNOWN_HOST" > ~/.ssh/known_hosts
-    - chmod 644 ~/.ssh/known_hosts
+    - echo "$KNOWN_HOST" > /root/.ssh/known_hosts
+    - chmod 644 /root/.ssh/known_hosts
     - ssh-keygen -R 185.165.170.81
-    - cat ~/.ssh/known_hosts
+    - cat /root/.ssh/known_hosts
 
   script:
     # Backup old version
