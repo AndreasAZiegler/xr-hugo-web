@@ -26,6 +26,8 @@ master-deploy:
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
     - echo "$PRIVATE_KEY" > ~/.ssh/id_rsa
+    - ls -lha ~/.ssh
+    - cat ~/.ssh/id_rsa
     - chmod 600 ~/.ssh/id_rsa
     # Load key with passphrase
     - eval $(ssh-agent -s)
