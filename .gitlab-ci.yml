@@ -46,7 +46,7 @@ master-deploy:
 
   script:
     # Backup old version
-    - ssh -v hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
+    - ssh -i /root/.ssh/id_rsa -v hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
     
     # Transfer files
     - rsync -aq -delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
