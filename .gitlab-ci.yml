@@ -19,6 +19,9 @@ master-deploy:
     # Install expect
     - apk add expect
 
+    # Install ssh client
+    - apk add openssh-client
+
     # Set up keys
     - mkdir -p ~/.ssh
     - chmod 700 ~/.ssh
