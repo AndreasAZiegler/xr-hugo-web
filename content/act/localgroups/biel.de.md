@@ -5,7 +5,7 @@ draft: false
 name: Biel
 canton: Bern
 city: Biel
-email: xr-biel-bienne@protonmail.com
+email: xr-bielbienne@riseup.net
 links:
     others: []
     facebook:  https://www.facebook.com/XRBielBienne/

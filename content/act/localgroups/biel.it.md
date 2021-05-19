@@ -5,7 +5,7 @@ draft: false
 name: Bienne
 canton: Berna
 city: Bienne
-email: xr-biel-bienne@protonmail.com
+email: xr-bielbienne@riseup.net
 links:
     others: []
     facebook:  https://www.facebook.com/XRBielBienne/
