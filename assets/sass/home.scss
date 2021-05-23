@@ -11,8 +11,7 @@
 }
 
 header.home-header {
-  // background-image: url('../assets/img/bando/xr-richblack.png');
-  background-image: url('../assets/img/bando/xr-brand3.png');
+  background-image: url('/images/xr-brand3.png');
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center;
@@ -138,7 +137,7 @@ section.home-row-2 {
       }
     }
     .home-row-2-col-2 {
-      background-image: url('../assets/img/common/timer-bg.png');
+      background-image: url('/images/timer-bg.png');
       background-repeat: no-repeat;
       background-attachment: scroll;
       background-position: center;
@@ -334,7 +333,7 @@ section.home-row-6 {
   .home-row-6-col-1 {
     background-color: $color-xr-purple;
     color: $color-xr-purple;
-    background-image: url('../assets/img/common/xr-sablier-rose.png');
+    background-image: url('/images/xr-sablier-rose.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;
@@ -347,7 +346,7 @@ section.home-row-6 {
   .home-row-6-col-2 {
     background-color: $color-xr-lemon;
     color: $color-xr-blue-baby;
-    background-image: url('../assets/img//common/xr-shock-face-blue-baby.png');
+    background-image: url('/images/xr-shock-face-blue-baby.png');
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-position: center;

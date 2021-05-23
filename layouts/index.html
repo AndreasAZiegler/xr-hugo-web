@@ -1,8 +1,12 @@
 {{ define "main" }}
 
-<div class="container pb-5">
-  {{ .Content }}
-</div>
+{{- partial "hero.html" . -}}
+
+{{- partial "3-demands.html" . -}}
+
+{{- partial "heading-for-extinction.html" . -}}
+
+{{- partial "sign-up.html" . -}}
 
 {{ end }}
 
