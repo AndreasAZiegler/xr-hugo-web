@@ -1,0 +1,10 @@
+<section class="home-row-5" id="heading-for-extinction">
+  <div class="container">
+    <div class="row justify-content-center">
+      <h2>{{ .Params.hfe.title }}</h2>
+    </div>
+    <div class="row justify-content-center">
+      {{ partial "youtube-video.html" (dict "url" .Params.hfe.url "width" 560 "height" 315) }}
+    </div>
+  </div>
+</section>
