@@ -5,7 +5,7 @@ image:
 master-build:
   stage: build
   script:
-    - hugo
+    - hugo --minify
   artifacts:
     paths:
     - public
