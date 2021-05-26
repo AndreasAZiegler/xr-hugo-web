@@ -6,9 +6,9 @@ slug: bern-blood
 author: XR Bern
 branch : Switzerland
 publish_date: 2019-08-26
-time: 14:48
-date: '2019-06-06'
-time: '10:00'
+publish_time: 14:48
+date: 2019-06-06
+time: 10:00
 event_loc_name: Bundesplatz
 event_loc_street_name: Bundesplatz
 event_loc_street_num:
