@@ -2,7 +2,7 @@
 layout: blogpost
 lang : en
 title: Our Blood Action and Swarming Action
-slug: our-blood
+slug: bern-blood
 author: XR Bern
 branch : Switzerland
 publish_date: 2019-08-26

@@ -2,7 +2,7 @@
 layout: blogpost
 lang : fr
 title: Berne, du "sang" sur la place fédérale
-slug: our-blood
+slug: bern-blood
 author: Jil Silberstein
 branch : Switzerland
 publishinig_date: 2019-08-26
