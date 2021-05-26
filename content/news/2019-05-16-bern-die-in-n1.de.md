@@ -6,9 +6,9 @@ slug: die-in-bern
 author: XR Schweiz
 branch : Switzerland
 publish_date: 2019-09-06
-time: 17:00
-date: '2019-05-16'
-time: '17:45'
+publish_time: 17:00
+date: 2019-05-16
+time: 17:45
 event_loc: Altstadt Bern, 3011 Bern, Schweiz
 event_loc_name: Altstadt Bern
 event_loc_streetAddress: 
