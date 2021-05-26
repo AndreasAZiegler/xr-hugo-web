@@ -29,7 +29,7 @@ title: LOGOS À LA CRAIE ROSE SUR DES MENHIRS DE CLENDY # REMPLACER 'PLACEHOLDER
 slug: logos-a-la-craie
 author: innu
 publish_date: 2020-01-12
-time: 23:14
+publish_time: 23:14
 branch: Yverdon # GARDER SEULEMENT LA BONNE BRANCHE
 date: 2019-11-24 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)

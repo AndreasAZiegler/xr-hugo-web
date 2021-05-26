@@ -30,7 +30,7 @@ slug: cortege-funebre
 author: innu
 branch: Luzern # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2020-01-12
-time: 23:02
+publish_time: 23:02
 date: 2019-09-14 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT

@@ -30,7 +30,7 @@ slug: grande-parade-et-swarmigs
 author: innu
 branch: Geneva # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2020-01-12
-time: 23:00
+publish_time: 23:00
 date: 2019-09-15 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT

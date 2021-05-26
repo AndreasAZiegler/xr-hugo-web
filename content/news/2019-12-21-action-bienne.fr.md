@@ -30,7 +30,7 @@ slug: pour-finir-en-beaute
 author: Rédaction@innu
 branch: Biel # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2020-01-23
-time: 15:53
+publish_time: 15:53
 date: 2019-12-21 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT

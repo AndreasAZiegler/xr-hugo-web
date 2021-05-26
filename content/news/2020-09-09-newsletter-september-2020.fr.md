@@ -5,8 +5,10 @@ title: "Newsletter Suisse, Septembre 2020: Rise up for Change !"
 slug: newsletter-september-2020
 author: The newsletter team
 branch: XR Switzerland
-publish_date: 2020-09-09 21:39:07 UTC+0200
-date: 2020-09-09 21:39:07 UTC+0200
+publish_date: 2020-09-09
+publish_time: 21:39
+date: 2020-09-09
+time: 21:39
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/rufc.png"

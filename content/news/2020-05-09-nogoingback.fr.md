@@ -6,7 +6,7 @@ slug: nogoingback
 author: xrlausanne
 branch: xrlausanne
 publish_date: 2020-05-09
-time: 12:00
+publish_time: 12:00
 date: 2020-05-09
 event_loc_country: Switzerland
 categories: blogposts

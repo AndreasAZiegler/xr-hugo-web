@@ -30,9 +30,9 @@ slug: zurich-une-limmat-vert
 author: innu
 branch: Zürich # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2019-11-19
-time: 18:00
-date: '2019-09-10'
-time: '10:00'
+publish_time: 18:00
+date: 2019-09-10
+time: 10:00
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT
 event_loc_name: Limmat # REMPLACER 'PLACEHOLDER' AVEC LE NOM DU LIEU OU L'EVENEMENT A LIEU
 event_loc_addressLocality: Zurich # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS LAQUELLE L'EVENEMENT A LIEU

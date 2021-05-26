@@ -30,7 +30,7 @@ slug: chansons
 author: innu
 branch: Valais # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date : 2020-01-12
-time : 22:50
+publish_time : 22:50
 date: 2019-09-12 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT

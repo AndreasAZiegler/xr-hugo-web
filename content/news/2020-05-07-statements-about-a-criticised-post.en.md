@@ -6,7 +6,7 @@ slug: statements0507
 author: xrch
 branch: ch
 publish_date: 2020-05-07
-time: 11:00
+publish_time: 11:00
 date: 2020-05-07
 event_loc_country: Switzerland
 categories: blogposts

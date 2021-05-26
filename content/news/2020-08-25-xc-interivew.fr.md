@@ -6,8 +6,10 @@ title: 'Xavier Company: "Je rejoins l’idée que la survie de nos sociétés, t
 slug: interview-xavier-company
 author: XR
 branch: Lausanne
-publish_date: 2020-08-26 10:04:23 UTC+0200
-date: 2020-08-25 00:00:00 UTC+0200
+publish_date: 2020-08-26
+publish_time: 10:04
+date: 2020-08-25
+time: 00:00
 event_loc_addressLocality: ""
 event_loc_country: Switzerland
 categories: blogposts

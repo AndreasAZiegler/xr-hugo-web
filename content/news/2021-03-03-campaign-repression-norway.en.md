@@ -6,8 +6,10 @@ title: INTERNATIONAL CAMPAIGN BY EXTINCTION REBELLION AGAINST THE SUPRESSION OF
 slug: campaign-repression-norway
 author: XR Switerland
 branch: XR Switzerland
-publish_date: 2021-03-03 21:12:32 UTC+0200
-date: 2021-03-04 10:00:00 UTC+0200
+publish_date: 2021-03-03
+publish_time: 21:12
+date: 2021-03-04
+time: 10:00
 event_loc_country: Switzerland
 categories: blogposts
 image: "/images/news/2021-03-04-campaing-repression-norway.jpg"

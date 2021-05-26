@@ -30,7 +30,7 @@ slug: bloquage-du-terminal
 author: XR Geneva
 branch: Geneva # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2020-01-12
-time: 23:11
+publish_time: 23:11
 date: 2019-11-16 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT

@@ -5,10 +5,10 @@ title: BIENVENUE EN RÉPUBLiQUE DES ÉCOCiDES
 slug: prive-on-arrive
 author: XR Lausanne
 branch: Lausanne
-publish_date: '2020-02-17'
-time: '09:00'
-date: '2020-02-17'
-time: null
+publish_date: 2020-02-17
+publish_time: 09:00
+date: 2020-02-17'
+time: 
 event_loc_name: null
 event_loc_street_name: ''
 event_loc_street_num: ''

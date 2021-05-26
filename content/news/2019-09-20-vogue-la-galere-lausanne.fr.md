@@ -6,9 +6,9 @@ slug: et-vogue
 author: XR Lausanne
 branch : Lausanne
 publish_date: 2019-09-12
-time: 13:40
-date: '2019-09-20'
-time: '10:00'
+publish_time: 13:40
+date: 2019-09-20
+time: 10:00
 event_loc_name: Pont Charles-Bessières
 event_loc_street_name: 
 event_loc_street_num: 

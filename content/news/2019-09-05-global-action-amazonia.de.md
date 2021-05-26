@@ -6,9 +6,9 @@ slug: global-action-day-amazon
 author: XR Bern
 branch : Bern
 publish_date: 2019-08-26
-time: 14:48
-date: '2019-09-05'
-time: '17:00'
+publish_time: 14:48
+date: 2019-09-05
+time: 17:00
 event_loc_name: Bundesplatz
 event_loc_street_name: Bundesplatz
 event_loc_street_num:

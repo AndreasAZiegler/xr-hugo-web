@@ -30,7 +30,7 @@ slug: halte-au-consumerisme
 author: XR Fribourg
 branch: Fribourg # GARDER SEULEMENT LA BONNE BRANCHE
 publish_date: 2020-01-12
-time: 23:18
+publish_time: 23:18
 date: 2019-11-29 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
 time:  # REMPLACER AVEC L'HEURE DE L'EVENEMENT (format : HH-MM-SS)
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT
