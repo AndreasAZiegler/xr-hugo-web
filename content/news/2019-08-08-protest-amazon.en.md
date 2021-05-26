@@ -2,6 +2,7 @@
 layout: blogpost
 lang : en
 title: Protest for the Amazon 8/8 Global Action
+slug: protest-for-the-amazon
 branch : Bern
 publish_date: 2019-08-26
 time: 14:48

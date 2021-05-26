@@ -2,6 +2,7 @@
 layout: blogpost
 lang : fr
 title: "Berne : « SYGENTA, NOUS T’AVONS À L’ŒIL… »"
+slug: berne-syngenta
 branch : Switzerland
 publish_date: 2019-08-26
 time: 14:48

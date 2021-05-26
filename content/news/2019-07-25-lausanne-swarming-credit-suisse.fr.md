@@ -2,6 +2,7 @@
 layout: blogpost
 lang : fr
 title: Swarming Crédit Suisse
+slug: swarming-credit-suisse
 branch : Lausanne
 publish_date: 2019-08-23
 time: 12:48
