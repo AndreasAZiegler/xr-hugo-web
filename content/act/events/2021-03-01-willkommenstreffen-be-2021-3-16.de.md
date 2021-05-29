@@ -5,10 +5,8 @@ slug: Willkommenstreffen-be-2021-3-16
 author: XR Bern
 branches:
 - XR Bern
-publish_date: 2021-03-01
-publish_time: 14:29
-date: 2021-03-16
-time: 19:00
+publishdate: 2021-03-01T14:29:00+0200
+date: 2021-03-16T19:00:00+0200
 event_loc_name: Online
 event_loc_street_name: ""
 event_loc_street_num: ""

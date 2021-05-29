@@ -4,9 +4,7 @@ lang : en
 title: Protest for the Amazon 8/8 Global Action
 slug: protest-for-the-amazon
 branch : Bern
-publish_date: 2019-08-26
-time: 14:48
-blogpost_date: 2019-08-08 10:00:00 UTC+0200
+publishdate: 2019-08-08T10:00:00+0200
 blogpost_loc: Zytglogge – Mac Donalds, Altstadt Bern, 3011 Bern, Schweiz
 blogpost_loc_name: Mac Donalds
 blogpost_loc_street_name: Zytgloggelaube

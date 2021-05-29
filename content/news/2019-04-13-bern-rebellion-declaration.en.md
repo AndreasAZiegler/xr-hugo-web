@@ -3,10 +3,7 @@ title: Declaration of Rebellion For Life
 slug: declaration
 author: XR Switzerland
 branch : Switzerland
-publish_date: 2019-09-06
-publis_time: '17:00'
-date: 2019-04-13
-time: '14:00'
+publishdate: 2019-04-13T14:00:00+0200
 event_loc_name: Bundesplatz
 event_loc_street_name:
 event_loc_street_num:

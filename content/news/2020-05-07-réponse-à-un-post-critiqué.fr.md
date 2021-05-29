@@ -5,12 +5,10 @@ title: Réponse à un post critiqué
 slug: statements0507
 author: xrch
 branch: ch
-publish_date: 2020-05-07
-publish_time: 00:00
-date: 2020-05-07
-time: 11:30
+publishdate: 2020-05-07T00:00:00+0200
 event_loc_country: Switzerland
 published: true
+time: 11:30
 categories: blogposts
 ---
 Chers tous, chères toutes

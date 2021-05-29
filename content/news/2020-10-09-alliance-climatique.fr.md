@@ -6,10 +6,7 @@ title: "Alliance Climatique suisse:             un écosystème de théories du
 slug: alliance-climatique
 author: XR Switzerland
 branch: Switzerland
-publish_date: 2020-10-09
-publish_time: 17:21
-date: 2020-10-09s
-time: 17:21
+publishdate: 2020-10-09T17:21:00+0200
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/alliance_climatique.png"

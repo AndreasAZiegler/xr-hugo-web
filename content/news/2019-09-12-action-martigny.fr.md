@@ -29,10 +29,7 @@ title: CHANSONS SOUS LE SIGNE DE 'REBEL FOR LIFE' # REMPLACER 'PLACEHOLDER' AVEC
 slug: chansons
 author: innu
 branch: Valais # GARDER SEULEMENT LA BONNE BRANCHE
-publish_date : 2020-01-12
-publish_time : 22:50
-date: 2019-09-12 # REMPLACER AVEC LA DATE DE L'EVENEMENT (format : AAAA-MM-JJ)
-time:
+publishdate: 2019-09-12T22:50:00+0200
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT
 event_loc_name:
 event_loc_street_name:

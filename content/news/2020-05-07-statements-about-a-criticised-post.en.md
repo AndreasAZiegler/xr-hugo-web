@@ -5,9 +5,7 @@ title: Statements about a criticised post!
 slug: statements0507
 author: xrch
 branch: ch
-publish_date: 2020-05-07
-publish_time: 11:00
-date: 2020-05-07
+publishdate: 2020-05-07T11:00:00+0200
 event_loc_country: Switzerland
 categories: blogposts
 published: true
