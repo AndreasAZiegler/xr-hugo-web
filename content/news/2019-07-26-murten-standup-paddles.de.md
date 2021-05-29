@@ -4,10 +4,7 @@ lang : de
 title: Stand Up Paddles XR Symbol (Weltweit Zusammenarbeit)
 slug: stand-up-paddles
 branch : Switzerland
-publish_date: 2019-08-26
-publish_time: 14:48
-date: 2019-06-06
-time: 10:00
+publishdate: 2019-07-26T14:48:00+0200
 event_loc_name: Place Fédérale
 event_loc_streetAddress:
 event_loc_addressLocality: Bern

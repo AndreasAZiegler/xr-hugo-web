@@ -5,10 +5,7 @@ title: GT Stratégie - où en sommes-nous ?
 slug: gt-strat-ou-en-sommes-nous
 author: XR Switzerland
 branch: XR Switzerland
-publish_date: 2020-12-03
-publish_time: 09:14
-date: 2020-12-03
-time: 09:14
+publishdate: 2020-12-03T09:14:58+0200
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/strategy-fr.jpg"

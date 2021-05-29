@@ -5,10 +5,7 @@ title: Our Blood Action and Swarming Action
 slug: bern-blood
 author: XR Bern
 branch : Switzerland
-publish_date: 2019-08-26
-publish_time: 14:48
-date: 2019-06-06
-time: 10:00
+publishdate: 2019-06-06T10:00:00+02000
 event_loc_name: Bundesplatz
 event_loc_street_name: Bundesplatz
 event_loc_street_num:

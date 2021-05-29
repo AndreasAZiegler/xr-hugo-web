@@ -5,10 +5,7 @@ title: Berne, du "sang" sur la place fédérale
 slug: bern-blood
 author: Jil Silberstein
 branch : Switzerland
-publish_date: 2019-08-26
-publish_time: 14:48
-date: 2019-04-13
-time: 14:00
+publishdate: 2019-06-06T14:48:00+0200
 event_loc_name: Place Fédérale
 event_loc_street_name: Place Fédérale
 event_loc_street_num:
