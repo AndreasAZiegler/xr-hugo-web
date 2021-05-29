@@ -29,10 +29,7 @@ title: "LANCEMENT DU TOUR XR SUISSE ET « CULTURE REGENERATIVE »" # REMPLACER '
 slug: lancement-du-tour-xr-suisse
 author: Rédaction@innu
 branch: Bern # GARDER SEULEMENT LA BONNE BRANCHE
-publish_date:
-publish_time:
-date: 2019-09-09
-time: 10:00
+publishdate: 2019-09-09T10:00:00+0200
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT
 event_loc_name: Palais Fédéral # REMPLACER 'PLACEHOLDER' AVEC LE NOM DU LIEU OU L'EVENEMENT A LIEU
 event_loc_street_name:  # REMPLACER 'PLACEHOLDER' AVEC LE NOM DE LA RUE OU L'EVENEMENT A LIEU

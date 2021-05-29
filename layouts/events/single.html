@@ -62,8 +62,8 @@
 
       <p class="post-meta"> 
         {{ with .Site.GetPage "/act/events" }}{{ .Params.published_on }}{{end}}
-        <time datetime="{{ .Params.date.Format "January 2, 2006" }}" itemprop="datePublished"> 
-          {{ .Params.PublishDate.Format "2 January 2006" }}
+        <time datetime="{{ .PublishDate.Format "January 2, 2006" }}" itemprop="datePublished"> 
+          {{ .PublishDate.Format "2 January 2006" }}
         </time>
         {{ if .Params.author }} 
           {{ with .Site.GetPage "/act/events" }}{{ .Params.by }}{{end}}

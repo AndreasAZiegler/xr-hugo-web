@@ -1,14 +1,10 @@
 ---
 layout: blogpost
-lang: it
 title: "Newsletter Svizzera, Luglio 2020: No Going Back!"
 slug: newsletter-july-2020
 author: The newsletter team
 branch: XR Switzerland
-publish_date: 2020-07-07
-publish_time: 07:52
-date: 2020-07-07
-time: 07:52
+publishdate: 2020-07-07T07:52:43+0200
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/xr-jamaica-lite.png"

@@ -1,13 +1,10 @@
 ---
 layout: blogpost
-lang: fr
 title: "#nogoingback "
 slug: nogoingback
 author: xrlausanne
 branch: xrlausanne
-publish_date: 2020-05-09
-publish_time: 12:00
-date: 2020-05-09
+publishdate: 2020-05-09T12:00:00+0200
 event_loc_country: Switzerland
 categories: blogposts
 published: true

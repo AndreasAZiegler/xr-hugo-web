@@ -1,0 +1,25 @@
+baseURL: "https://www.xrebellion.ch/"
+languageCode: "en-us"
+title: "XR Switzerland"
+
+taxonomies:
+  category: categories
+  tag: tags
+  branch: branches
+  event_type: event_types
+  resource_type: resource_types
+
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: "EN"
+    weight: 1
+  fr:
+    languageName: "FR"
+    weight: 2
+  de:
+    languageName: "DE"
+    weight: 3
+  it:
+    languageName: "IT"
+    weight: 4

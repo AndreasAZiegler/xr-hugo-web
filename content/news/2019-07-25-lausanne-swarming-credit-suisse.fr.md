@@ -4,9 +4,7 @@ lang : fr
 title: Swarming Crédit Suisse
 slug: swarming-credit-suisse
 branch : Lausanne
-publish_date: 2019-08-23
-time: 12:48
-date: 2019-07-25 10:00:00 UTC+0200
+publishdate: 2019-07-25T10:00:00+0200
 event_loc: Avenue Benjamin-constant, 1000 Lausanne, Suisse
 event_loc_name: Crédit Suisse
 event_loc_street_name: Avenue Benjamin-constant

@@ -1,17 +1,67 @@
 image:
   name: klakegg/hugo:ext-alpine-ci 
   entrypoint: ["/bin/sh", "-c"]
+
+develop-build:
+  stage: build
+  script:
+    - hugo --environment development --minify
+  artifacts:
+    paths:
+    - public
+  only:
+  - develop
+  interruptible: true
   
 master-build:
   stage: build
   script:
-    - hugo --minify
+    - hugo --environment production --minify
   artifacts:
     paths:
     - public
   only:
   - master
   interruptible: true
+
+develop--deploy:
+  stage: deploy
+  before_script:
+    # Install expect
+    - apk add expect
+
+    # Install ssh client
+    - apk add openssh-client
+
+    # Install rsync
+    - apk add rsync
+
+    # Set up keys
+    - mkdir -p /root/.ssh
+    - chmod 700 /root/.ssh
+    - echo "$PRIVATE_KEY" > /root/.ssh/id_rsa
+    - chmod 600 /root/.ssh/id_rsa
+
+    # Load key with passphrase
+    - eval $(ssh-agent -s)
+    - expect -c 'spawn ssh-add /root/.ssh/id_rsa; expect "Enter passphrase for /root/.ssh/id_rsa:"; send "$env(KEY_PASSPHRASE)\r"; expect eof'
+
+    # Set up known hosts
+    - echo "$KNOWN_HOST" > /root/.ssh/known_hosts
+    - chmod 644 /root/.ssh/known_hosts
+
+  script:
+    # Backup old version
+    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_dev'
+    
+    # Transfer files
+    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
+
+    # Move new files into place
+    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_dev'
+
+  only:
+    - develop
 
 master-deploy:
   stage: deploy
@@ -41,13 +91,13 @@ master-deploy:
 
   script:
     # Backup old version
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_hugo'
+    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_main'
     
     # Transfer files
     - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
 
     # Move new files into place
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_hugo'
+    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_main'
 
   only:
     - master

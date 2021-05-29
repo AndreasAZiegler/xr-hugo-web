@@ -6,10 +6,8 @@ author: XR Switzerland
 branches:
 - XR Switzerland
 - Doctors for XR
-publish_date: 2021-03-15
-publish_time: 20:51
-date: 2021-03-15
-time: 20:51
+publishdate: 2021-03-15T20:51:00+0200
+date: 2021-03-15T20:51:00+0200 
 event_loc_country: ""
 event_types:
 - action

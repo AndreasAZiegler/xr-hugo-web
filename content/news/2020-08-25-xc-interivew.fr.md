@@ -1,15 +1,11 @@
 ---
 layout: blogpost
-lang: fr
 title: 'Xavier Company: "Je rejoins l’idée que la survie de nos sociétés, telles
   que nous les connaissons en tout cas, est en jeu ces prochaines années"'
 slug: interview-xavier-company
 author: XR
 branch: Lausanne
-publish_date: 2020-08-26
-publish_time: 10:04
-date: 2020-08-25
-time: 00:00
+publishdate: 2020-08-26T10:04:23+0200
 event_loc_addressLocality: ""
 event_loc_country: Switzerland
 categories: blogposts
