@@ -5,10 +5,7 @@ title: Et vogue la galère
 slug: et-vogue
 author: XR Lausanne
 branch : Lausanne
-publish_date: 2019-09-12
-publish_time: 13:40
-date: 2019-09-20
-time: 10:00
+publishdate: 2019-09-20T13:40:00+0200
 event_loc_name: Pont Charles-Bessières
 event_loc_street_name: 
 event_loc_street_num: 

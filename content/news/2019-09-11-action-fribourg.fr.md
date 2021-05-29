@@ -29,10 +29,7 @@ title: "FRIBOURG : CORTEGE FUNEBRE POUR L’AVENIR" # REMPLACER 'PLACEHOLDER' AV
 slug: fribourt-cortege
 author: innu
 branch: Fribourg # GARDER SEULEMENT LA BONNE BRANCHE
-publish_date: 2019-11-18
-publish_time: 17:34
-date: 2019-09-11
-time: 10:00
+publishdate: 2019-09-11T10:00:00+0200
 event_type: action # GARDEZ SEULEMENT LE BON TYPE D'EVENEMENT
 event_loc_name: Parc du Domino # REMPLACER 'PLACEHOLDER' AVEC LE NOM DU LIEU OU L'EVENEMENT A LIEU
 event_loc_street_name:

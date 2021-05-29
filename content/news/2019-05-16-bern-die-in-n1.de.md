@@ -5,10 +5,7 @@ title: Die-In Nr. 1 Altstadt Bern
 slug: die-in-bern
 author: XR Schweiz
 branch : Switzerland
-publish_date: 2019-09-06
-publish_time: 17:00
-date: 2019-05-16
-time: 17:45
+publishdate: 2019-05-16T17:45:00+02000
 event_loc: Altstadt Bern, 3011 Bern, Schweiz
 event_loc_name: Altstadt Bern
 event_loc_streetAddress: 

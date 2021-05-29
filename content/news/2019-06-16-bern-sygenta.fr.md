@@ -4,9 +4,7 @@ lang : fr
 title: "Berne : « SYGENTA, NOUS T’AVONS À L’ŒIL… »"
 slug: berne-syngenta
 branch : Switzerland
-publish_date: 2019-08-26
-time: 14:48
-date: 2019-06-16 10:00:00 UTC+0200
+publishdate: 2019-06-16T10:00:00+0200
 event_loc: Hotel Astoria, Zieglerstrasse 66, 3007 Bern
 event_loc_name: Hotel Astoria
 event_loc_street_name: Zieglerstrasse 

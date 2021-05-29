@@ -1,14 +1,10 @@
 ---
 layout: blogpost
-lang: fr
 title: SUS AUX INTÉRÉTS PRIVÉS !!!
 slug: prive-geneve
 author: innu
 branch: xr-lausanne
-publish_date: 2020-06-10
-publish_time: 13:11
-date: 2020-02-17
-time: 13:11
+publishdate: 2020-06-10T13:11:37+0200
 event_loc_name: Genève
 event_loc_country: Switzerland
 categories: blogposts

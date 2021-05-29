@@ -1,14 +1,10 @@
 ---
 layout: blogpost
-lang: fr
 title: "Newsletter XR Suisse, juillet 2020 : pas de retour à l'anormal !"
 slug: newsletter-july-2020
 author: The newsletter team
 branch: XR Switzerland
-publish_date: 2020-07-07
-publish_time: 07:17
-date: 2020-07-07
-time: 07:17
+publishdate: 2020-07-07T07:17:23+0200
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/xr-jamaica-lite.png"
