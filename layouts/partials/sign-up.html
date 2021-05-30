@@ -34,7 +34,7 @@
       <select name="cf_region" id="cantons-select">
         <option disabled selected value> </option>
         <optgroup label="{{ with .Site.GetPage "/join" }}{{ .Params.join_us.branch }}{{ end }}">
-          {{ range .Site.Pages }}
+          {{ range .Site.Pages.ByTitle }}
             {{ if in (.Permalink | string) "/localgroups/" }}
               <option value="Branch: {{ .Title }}">{{ .Title }}</option>
             {{ end }}
