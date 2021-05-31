@@ -28,13 +28,16 @@
       </div>
       <div class="input-wrapper">
         <label for="branchcanton">
-          {{with .Site.GetPage "/join"}}{{.Params.join_us.canton_branch}}{{end}}
+          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.canton_branch }}{{ end }}
         </label>
+
       <select name="cf_region" id="cantons-select">
         <option disabled selected value> </option>
-        <optgroup label="{{with .Site.GetPage "/join"}}{{.Params.join_us.branch}}{{end}}">
-          {{ range where .Site.Pages "localgroups" .Section }}
-            <option value="Branch: {{ .Title }}">{{ .Title }}</option>
+        <optgroup label="{{ with .Site.GetPage "/join" }}{{ .Params.join_us.branch }}{{ end }}">
+          {{ range .Site.Pages.ByTitle }}
+            {{ if in (.Permalink | string) "/localgroups/" }}
+              <option value="Branch: {{ .Title }}">{{ .Title }}</option>
+            {{ end }}
           {{ end }}
         </optgroup>
       </select>
@@ -42,7 +45,7 @@
 
       <div class="input-wrapper">
         <label for="captcha">
-          {{with .Site.GetPage "/join"}}{{.Params.join_us.enter_captcha}}{{end}}
+          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.enter_captcha }}{{ end }}
         </label>
         <input type="text" name="cf_captcha" required id="captcha" />
       </div>
@@ -55,7 +58,7 @@
       </div>
       <div class="button-wrapper">
         <button type="submit" value="Submit" class="page-scroll o-button-pink">
-          {{with .Site.GetPage "/join"}}{{.Params.join_us.submit}}{{end}}
+          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.submit }}{{ end }}
         </button>
       </div>
 
