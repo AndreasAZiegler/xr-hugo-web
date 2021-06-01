@@ -1,10 +1,12 @@
-{{ $redirect_to :=  "/join-success" | absURL }}
+{{ $redirect_to_success :=  "/join-success" | absURL }}
+{{ $redirect_to_captcha_failed :=  "/join-captcha-failed" | absURL }}
+
 
 <section class="join-us bg-blue">
   {{ $contact_script := resources.Get "php/contact.php" }}
   <form action="{{ $contact_script.Permalink }}" method="post">
-    <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-    <input type='hidden' name='cf_redirect_to' value='{{ $redirect_to }}' />
+    <input type='hidden' name='cf_redirect_to_success' value='{{ $redirect_to_success }}' />
+    <input type='hidden' name='cf_redirect_to_captcha_failed' value='{{ $redirect_to_captcha_failed }}' />
     <div class="container join-title">
       <h2>{{with .Site.GetPage "/join"}}{{.Params.join_us.title}}{{end}}</h2>
       <p>{{with .Site.GetPage "/join"}}{{.Params.join_us.intro}}{{end}}</p>
