@@ -9,6 +9,8 @@ event_loc_country: Switzerland
 categories: blogposts
 thumb: /images/news/header.png
 published: true
+aliases:
+  - "/de/blogposts/2021/05/23/newsletter-may-2021/"
 ---
 *(Bitte leiten sie diesen Newsletter an alle Ihre Kontakte weiter, die daran interessiert sein könnten ! Um sich anzumelden, um beim nächsten Mal Ihr eigenes Exemplar zu erhalten, melden sie sich via [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net) an)*
 
