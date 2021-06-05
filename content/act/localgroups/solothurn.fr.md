@@ -1,5 +1,6 @@
 ---
 title: "Soleure"
+lang: fr
 date: 2021-05-04T17:39:36+02:00
 draft: false
 name: Soleure

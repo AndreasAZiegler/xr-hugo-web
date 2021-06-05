@@ -1,5 +1,6 @@
 ---
 title: "Valais"
+lang: en
 date: 2021-05-04T17:42:00+02:00
 draft: false
 name: Valais

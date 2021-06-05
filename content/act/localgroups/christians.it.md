@@ -1,5 +1,6 @@
 ---
 title: "Azione Cristiana per il Clima"
+lang: it
 date: 2021-05-03T20:38:00+02:00
 draft: false
 name: Azione Cristiana per il Clima

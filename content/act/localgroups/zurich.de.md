@@ -1,5 +1,6 @@
 ---
 title: "Zürich"
+lang: de
 date: 2021-05-03T15:08:55+02:00
 draft: false
 name: Zürich

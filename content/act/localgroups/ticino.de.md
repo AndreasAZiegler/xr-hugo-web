@@ -1,5 +1,6 @@
 ---
 title: "Tessin"
+lang: de
 date: 2021-05-04T17:40:46+02:00
 draft: false
 name: Tessin

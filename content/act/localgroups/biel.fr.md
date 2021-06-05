@@ -1,5 +1,6 @@
 ---
 title: "Bienne"
+lang: fr
 date: 2021-05-03T20:36:31+02:00
 draft: false
 name: Bienne

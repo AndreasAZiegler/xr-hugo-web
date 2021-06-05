@@ -1,5 +1,6 @@
 ---
 title: "Lausanne"
+lang: de
 date: 2021-05-04T17:32:00+02:00
 draft: false
 name: Lausanne

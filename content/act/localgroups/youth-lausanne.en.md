@@ -1,5 +1,6 @@
 ---
 title: "XR Youth Lausanne"
+lang: en
 date: 2021-05-04T18:01:25+02:00
 draft: false
 name: XR Youth Lausanne

@@ -1,5 +1,6 @@
 ---
 title: "Action Chrétienne pour le Climat"
+lang: fr
 date: 2021-05-03T20:37:57+02:00
 draft: false
 name: Action Chrétienne pour le Climat

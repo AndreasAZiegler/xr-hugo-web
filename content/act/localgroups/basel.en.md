@@ -1,5 +1,6 @@
 ---
 title: "Basel"
+lang: en
 date: 2021-05-03T15:27:20+02:00
 draft: false
 name: Basel

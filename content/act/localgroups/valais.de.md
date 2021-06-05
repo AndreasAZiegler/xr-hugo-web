@@ -1,5 +1,6 @@
 ---
 title: "Wallis"
+lang: de
 date: 2021-05-04T17:42:03+02:00
 draft: false
 name: Wallis

@@ -1,5 +1,6 @@
 ---
 title: "Geneva (English)"
+lang: en
 date: 2021-05-04T17:25:23+02:00
 draft: false
 name: Geneva (English-speaking branch)
