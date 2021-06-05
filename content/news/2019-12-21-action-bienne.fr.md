@@ -40,7 +40,7 @@ categories: blogposts
 
 
 image:
-thumb: "/images/news/2019-12-21-action-bienne.jpg"
+thumb: "/media/news/2019-12-21-action-bienne.jpg"
 
 published: true
 ---

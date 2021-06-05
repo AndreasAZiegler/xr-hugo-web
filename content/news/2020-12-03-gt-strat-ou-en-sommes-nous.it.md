@@ -8,7 +8,7 @@ branch: XR Switzerland
 publishdate: 2020-12-03T09:20:40+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: "/images/news/strategy-it.jpg"
+thumb: "/media/news/strategy-it.jpg"
 published: true
 ---
  **Una riunione alla settimana, lunghe discussioni, vari interventi di espert\*, aperitivi online, un’analisi precisa delle decine di contributi de\* ribell*: il parto della nostra strategia, seppur lento, è per il momento indolore.**

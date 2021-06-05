@@ -8,8 +8,8 @@ publishdate: 2020-06-10T13:11:37+0200
 event_loc_name: Genève
 event_loc_country: Switzerland
 categories: blogposts
-image: "/images/news/2020-02-17-prive-geneve.jpg"
-thumb: "/images/news/2020-02-17-prive-geneve.jpg"
+image: "/media/news/2020-02-17-prive-geneve.jpg"
+thumb: "/media/news/2020-02-17-prive-geneve.jpg"
 published: true
 ---
 Au terme d’une mise au point de plusieurs mois, Extinction Rebellion déclenchait ce lundi sa plus massive et ambitieuse opération jamais montée en Suisse – délaissant (temporairement) le secteur bancaire pour se tourner vers quatre géants du trading et du courtage maritime basées à Genève ou Lausanne. Quatre géants aux activités aussi discrètes que redoutables. 

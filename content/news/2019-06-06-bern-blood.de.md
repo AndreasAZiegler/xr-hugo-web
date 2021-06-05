@@ -17,8 +17,8 @@ event_loc_lat: 46.94709
 event_loc_lon: 7.44415
 categories: blogposts
 
-image: "/images/news/2019-06-06-bern-blood-image.jpg"
-thumb: "/images/news/2019-06-06-bern-blood-thumb.jpg"
+image: "/media/news/2019-06-06-bern-blood-image.jpg"
+thumb: "/media/news/2019-06-06-bern-blood-thumb.jpg"
 image-credit: minxnation
 
 published: true

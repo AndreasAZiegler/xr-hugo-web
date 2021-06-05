@@ -9,7 +9,7 @@ branch: Switzerland
 publishdate: 2020-10-09T17:21:00+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: "/images/news/alliance_climatique.png"
+thumb: "/media/news/alliance_climatique.png"
 published: true
 ---
 Le 14 septembre 2020 à Berne s’est déroulée une réunion stratégique de l’Alliance climatique Suisse, regroupant la majeure partie des organisations, mouvements et partis agissant en Suisse pour le climat. Les résultats de cette réunion très courte (2h) peuvent être consultés *[ici](https://docs.google.com/document/d/1jCBJaKGI1QNWgxQ6cI_o-U5MOy1ghsz4D5CLCFLRo60/edit)*. Parmi la cinquantaine de personnes, deux rebelles étaient présent-es : on vous raconte !

@@ -15,8 +15,8 @@ event_loc_postalCode: ""
 event_loc_country: Switzerland
 event_types:
 - talk
-image: /images/events/xr-newcomer.jpg
-thumb: /images/events/xr-newcomer.jpg
+image: /media/events/xr-newcomer.jpg
+thumb: /media/events/xr-newcomer.jpg
 published: true
 ---
 Die Rebellion muss weitergehen! Komm und lerne Extinction Rebellion (XR) Bern an einem Willkommenstreffen für interessierte Menschen kennen ♥
