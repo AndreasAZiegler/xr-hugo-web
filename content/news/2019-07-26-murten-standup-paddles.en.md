@@ -16,8 +16,8 @@ event_loc_lat: 46.94709
 event_loc_lon: 7.44415
 categories: blogposts
 author: xr-bern
-thumb: "/images/news/2019-06-07-26-murten-standup-paddles-thumb.jpg"
-image: "/images/news/2019-06-07-26-murten-standup-paddles-top.jpg"
+thumb: "/media/news/2019-06-07-26-murten-standup-paddles-thumb.jpg"
+image: "/media/news/2019-06-07-26-murten-standup-paddles-top.jpg"
 image-credit:
 gallery:
     - ""

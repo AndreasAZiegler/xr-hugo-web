@@ -35,7 +35,7 @@ event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUE
 categories: 
 - blogposts
 
-image: /static/images/news/2019-07-13-action-zurich.jpeg
+image: /media/news/2019-07-13-action-zurich.jpeg
 
 
 # LES LIGNES SUIVANTES SONT OPTIONNELLES, VOUS POUVEZ SUPPRIMER CELLES QUI NE VOUS INTERESSE PAS

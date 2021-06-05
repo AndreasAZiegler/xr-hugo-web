@@ -38,8 +38,8 @@ event_loc_addressLocality: Fribourg # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-11-29-action-fribourg.jpg"
-thumb: "/images/news/2019-11-29-action-fribourg.jpg"
+image: "/media/news/2019-11-29-action-fribourg.jpg"
+thumb: "/media/news/2019-11-29-action-fribourg.jpg"
 ---
 
 Ce vendredi, dès 17 :00 et pour deux heures, afin de protester contre cette marée noire consumériste que constitue pour la planète la promotion du « Black Friday », une poignée de rebelles fribourgeois s’enchaînaient à des caddies de Fribourg-Centre – bloquant ainsi l’entrée principale de ce centre commercial.

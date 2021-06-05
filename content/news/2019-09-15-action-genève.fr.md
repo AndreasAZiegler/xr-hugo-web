@@ -38,8 +38,8 @@ event_loc_addressLocality: Genève # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS 
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image : "/images/news/2019-09-15-action-geneve.jpg"
-thumb : "/images/news/2019-09-15-action-geneve.jpg"
+image : "/media/news/2019-09-15-action-geneve.jpg"
+thumb : "/media/news/2019-09-15-action-geneve.jpg"
 
 published: true
 ---

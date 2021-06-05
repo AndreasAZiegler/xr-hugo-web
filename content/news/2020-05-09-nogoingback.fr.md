@@ -9,8 +9,8 @@ event_loc_country: Switzerland
 categories: blogposts
 published: true
 
-thumb: "/images/news/nogoigback_blog_big.jpg"
-image: "/images/news/nogoigback_blog_big.jpg"
+thumb: "/media/news/nogoigback_blog_big.jpg"
+image: "/media/news/nogoigback_blog_big.jpg"
 ---
 
 # Pas de retour à la normale, pas de retour à l’anormal !
