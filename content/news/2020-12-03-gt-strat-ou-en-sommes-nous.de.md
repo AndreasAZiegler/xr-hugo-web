@@ -8,7 +8,7 @@ branch: XR Switzerland
 publishdate: 2020-12-03T09:18:08+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: "/images/news/strategy-de.jpg"
+thumb: "/media/news/strategy-de.jpg"
 published: true
 ---
 **Ein Treffen pro Woche, lange Diskussionen, Expertenbeiträge, Online-Aperitifs, eine genaue Analyse von Dutzenden von Rebellenbeiträgen: Die Umsetzung unserer Strategie geht zwar langsam voran, ist aber im Moment schmerzfrei. Damit Ihr wisst, wo wir stehen, eine kurze Zusammenfassung.**

@@ -38,8 +38,8 @@ event_loc_addressLocality: Neuchâtel # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DA
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-11-28-action-neuchatel.jpg"
-thumb: "/images/news/2019-11-28-action-neuchatel.jpg"
+image: "/media/news/2019-11-28-action-neuchatel.jpg"
+thumb: "/media/news/2019-11-28-action-neuchatel.jpg"
 ---
 
 Banques, constructeurs d’automobiles et autres annonceurs le long de la voie publique auront, dans la nuit de mercredi à jeudi, fait les frais d’une protestation qui va croissant. Ayant, le 13 septembre dernier et dans le cadre du « tour suisse XR », fait parler d’eux en bloquant deux carrefours du centre-ville, les rebelles neuchâtelois décidaient en effet de placarder quelques 800 affiches à même les espaces réservés à la publicité.

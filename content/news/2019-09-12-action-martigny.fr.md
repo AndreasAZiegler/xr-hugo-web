@@ -39,8 +39,8 @@ event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUE
 event_loc_postalCode:
 categories: blogposts
 
-image: "/images/news/2019-09-12-action-martigny/thumb.jpg"
-thumb: "/images/news/2019-09-12-action-martigny/thumb.jpg"
+image: "/media/news/2019-09-12-action-martigny/thumb.jpg"
+thumb: "/media/news/2019-09-12-action-martigny/thumb.jpg"
 
 published: true
 ---

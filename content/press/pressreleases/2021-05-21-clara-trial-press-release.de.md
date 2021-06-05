@@ -7,7 +7,7 @@ branch: XR Switzerland
 publishdate: 2021-05-21T16:00:00+0200
 event_loc_country: Switzerland
 image: ""
-pdf: "/pdfs/pressreleases/XR_Medienmitteilung_Claras_Trial_210521_DE.pdf"
+pdf: "/media/pressreleases/XR_Medienmitteilung_Claras_Trial_210521_DE.pdf"
 thumb: 
 published: true
 ---

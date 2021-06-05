@@ -8,8 +8,8 @@ branch: XR Switzerland
 publishdate: 2021-03-03T21:12:32+0200
 event_loc_country: Switzerland
 categories: blogposts
-image: "/images/news/2021-03-04-campaing-repression-norway.jpg"
-thumb: "/images/news/2021-03-04-campaing-repression-norway.jpg"
+image: "/media/news/2021-03-04-campaing-repression-norway.jpg"
+thumb: "/media/news/2021-03-04-campaing-repression-norway.jpg"
 published: true
 ---
 ### On the 4th of March at 10 AM , Extinction Rebellion Zürich demonstrates at the Norwegian Consulate in Zürich, Bahnhofstrasse 70.

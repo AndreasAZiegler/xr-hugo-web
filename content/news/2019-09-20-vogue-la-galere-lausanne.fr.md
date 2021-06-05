@@ -17,8 +17,8 @@ event_loc_link: https://www.openstreetmap.org/#map=19/46.52113/6.63651
 event_loc_lat: 46.52113
 event_loc_lon: 6.63651
 categories: blogposts
-image: "/images/news/2019-09-20-vogue-la-galere-lausanne.png"
-thumb: "/images/news/2019-09-20-vogue-la-galere-lausanne.png"
+image: "/media/news/2019-09-20-vogue-la-galere-lausanne.png"
+thumb: "/media/news/2019-09-20-vogue-la-galere-lausanne.png"
 
 published: true
 ---

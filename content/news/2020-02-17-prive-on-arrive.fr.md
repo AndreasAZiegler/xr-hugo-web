@@ -14,8 +14,8 @@ event_loc_addressRegion: ''
 event_loc_postalCode: ''
 event_loc_country: Switzerland
 categories: blogposts
-image: "/images/news/2020-02-17-prive-on-arrive.jpg"
-thumb: "/images/news/2020-02-17-prive-on-arrive.jpg"
+image: "/media/news/2020-02-17-prive-on-arrive.jpg"
+thumb: "/media/news/2020-02-17-prive-on-arrive.jpg"
 published: true
 ---
 

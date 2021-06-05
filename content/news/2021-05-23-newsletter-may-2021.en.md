@@ -7,7 +7,7 @@ branch: XR Switzerland
 publishdate: 2021-05-23T16:33:46+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: /images/news/header.png
+thumb: /media/news/header.png
 published: true
 aliases:
   - "/blogposts/2021/05/23/newsletter-may-2021/"

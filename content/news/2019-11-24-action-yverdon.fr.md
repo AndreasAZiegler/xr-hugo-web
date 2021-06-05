@@ -38,8 +38,8 @@ event_loc_addressLocality: Yverdon # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS 
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-11-24-action-yverdon.jpg"
-thumb: "/images/news/2019-11-24-action-yverdon.jpg"
+image: "/media/news/2019-11-24-action-yverdon.jpg"
+thumb: "/media/news/2019-11-24-action-yverdon.jpg"
 ---
 
 Fondée deux mois plus tôt, la section yverdonnoise d’Extinction Rebellion avait hâte de sortir du bois. Si bien que ce dimanche, elle passait à l’action à même le site archéologique de Clendy le long duquel s’alignent, selon deux rangs, 45 menhirs rescapés de l’époque néolithique… certains d’entre eux épousant des formes humaines.

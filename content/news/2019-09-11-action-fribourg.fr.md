@@ -39,7 +39,7 @@ event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUE
 event_loc_postalCode:
 categories: blogposts
 
-image: "/images/news/2019-09-11-action-fribourg.jpeg"
+image: "/media/news/2019-09-11-action-fribourg.jpeg"
 thumb:
 
 published: true

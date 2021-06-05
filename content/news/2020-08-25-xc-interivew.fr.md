@@ -9,8 +9,8 @@ publishdate: 2020-08-26T10:04:23+0200
 event_loc_addressLocality: ""
 event_loc_country: Switzerland
 categories: blogposts
-image: "/images/news/2020-08-26-interview-xavier-company.jpg"
-thumb: "/images/news/2020-08-26-interview-xavier-company.jpg"
+image: "/media/news/2020-08-26-interview-xavier-company.jpg"
+thumb: "/media/news/2020-08-26-interview-xavier-company.jpg"
 published: true
 ---
 **Pourquoi les autorités politiques n'agissent pas face à l'urgence climatique qui menace gravement nos sociétés? Nous réalisons une série d'interview pour comprendre la position d'acteurs-trices locaux sur cette thématique. Premier entretien avec Xavier Company, coprésident des Vert-e-s lausannois-e-s, conseiller communal et candidat déclaré à la municipalité de Lausanne.**
