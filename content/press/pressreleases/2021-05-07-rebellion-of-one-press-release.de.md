@@ -7,7 +7,7 @@ branch: XR Switzerland
 publishdate: 2021-05-0718:42:09+0200
 event_loc_country: Switzerland
 image: ""
-pdf: '/pdfs/pressreleases/Press_Release_Rebellion-of-one_Switzerland_DE.pdf'
-thumb: /images/pressreleases/ro1.jpg
+pdf: '/media/pressreleases/Press_Release_Rebellion-of-one_Switzerland_DE.pdf'
+thumb: /media/pressreleases/ro1.jpg
 published: true
 ---

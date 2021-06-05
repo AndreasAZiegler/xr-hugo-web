@@ -7,7 +7,7 @@ branch: XR Switzerland
 publishdate: 2021-05-07T18:42:09+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: /images/news/ro1.jpg
+thumb: /media/news/ro1.jpg
 published: true
 ---
 ## Es ist Zeit zu handeln!

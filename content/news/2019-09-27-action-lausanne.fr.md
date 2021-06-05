@@ -38,8 +38,8 @@ event_loc_addressLocality: Lausanne # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-09-27-action-lausanne.jpg"
-thumb: "/images/news/2019-09-27-action-lausanne.jpg"
+image: "/media/news/2019-09-27-action-lausanne.jpg"
+thumb: "/media/news/2019-09-27-action-lausanne.jpg"
 ---
 
 Cet autre vendredi, entre 3500 et 4000 militants issus d’Extinction Rebellion, Grève féministe, Grève du climat, Chailly 2002 et Jardin aux mille mains entendaient envoyer aux responsables politiques suisses un nouveau message fort. Dans cet esprit, dès 10:00, bardé de drapeaux, pancartes et banderoles (« Il est l’heure, la planète se meurt », « On vaut mieux que vos discours hypocrites », etc.), le cortège dans lequel prenait place Jacques Dubochet, prix Nobel de chimie 2017, s’ébranlait de la gare de Lausanne pour prendre la direction d’Ouchy. S’ensuivait une scission en deux groupes : tandis que le premier progressait vers les pyramides de Vidy, point de chute de la manifestation, le second, répondant à l’appel d’XR, poursuivait sur l’avenue de Rhodanie en sorte d’aller bloquer le giratoire de la Maladière. Toutefois, à une centaine de mètres de l’objectif visé, les rebelles se voyaient stoppés net, sommés de se disperser puis délogés par des forces de l’ordre mieux préparées et équipées que lors des précédents blocages.

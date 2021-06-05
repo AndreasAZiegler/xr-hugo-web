@@ -7,10 +7,10 @@ branch: XR Switzerland
 publishdate: 2020-09-09T21:45:07+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: "/images/news/rufc.png"
+thumb: "/media/news/rufc.png"
+image: "/media/news/rufc.png"
 published: true
 ---
-![](/images/news/rufc.png)
 
 # NEWSLETTER SVIZZERA, SETTEMBRE 2020 : Rise Up for Change!
 

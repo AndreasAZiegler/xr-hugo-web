@@ -36,7 +36,7 @@ event_loc_addressLocality: Zurich # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS L
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-09-10-action-zurich.jpeg"
+image: "/media/news/2019-09-10-action-zurich.jpeg"
 thumb:
 
 published: true

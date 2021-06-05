@@ -18,7 +18,7 @@ event_loc_lon: 6.63554
 categories:
 - blogposts
 author: Jil Silberstein
-image: "/images/news/2019-07-25-lausanne-swarming-credit-suisse.jpeg"
+image: "/media/news/2019-07-25-lausanne-swarming-credit-suisse.jpeg"
 image-credit: 
 gallery:
     - ""

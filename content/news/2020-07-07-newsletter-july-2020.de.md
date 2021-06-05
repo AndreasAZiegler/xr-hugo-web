@@ -7,10 +7,10 @@ branch: XR Switzerland
 publishdate: 2020-07-07T18:09:23+0200
 event_loc_country: Switzerland
 categories: blogposts
-thumb: "/images/news/xr-jamaica-lite.png"
+thumb: "/media/news/xr-jamaica-lite.png"
+image: "/media/news/xr-jamaica-lite.png"
 published: true
 ---
-![](/images/news/xr-jamaica-lite.png)
 
 *(Bitte leiten sie diesen Newsletter an alle Ihre Kontakte weiter, die daran interessiert sein könnten ! Um sich anzumelden, um beim nächsten Mal Ihr eigenes Exemplar zu erhalten, melden sie sich via [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net) an)*
 

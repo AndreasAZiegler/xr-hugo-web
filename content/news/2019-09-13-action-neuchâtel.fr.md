@@ -38,8 +38,8 @@ event_loc_addressLocality: Neuchâtel # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DA
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-09-13-action-neuchatel.jpg"
-thumb: "/images/news/2019-09-13-action-neuchatel.jpg"
+image: "/media/news/2019-09-13-action-neuchatel.jpg"
+thumb: "/media/news/2019-09-13-action-neuchatel.jpg"
 
 published: true
 ---

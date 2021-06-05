@@ -38,8 +38,8 @@ event_loc_addressLocality: Lausanne # REMPLACER 'PLACEHOLDER' AVEC LA VILLE DANS
 event_loc_country: Switzerland # REMPLACER 'PLACEHOLDER' AVEC LE PAYS DANS LAQUELLE L'EVENEMENT A LIEU
 categories: blogposts
 
-image: "/images/news/2019-12-14-action-lausanne-image.jpg"
-thumb: "/images/news/2019-12-14-action-lausanne-thumb.jpg"
+image: "/media/news/2019-12-14-action-lausanne-image.jpg"
+thumb: "/media/news/2019-12-14-action-lausanne-thumb.jpg"
 ---
 
 Avaient-ils, ce samedi, prévu d’occuper la place Saint-François ? La rapide mis en place d’un dispositif de police les faisait vite opter pour un « plan B » – soit le blocage de la rue Centrale. Aussitôt dit, aussitôt fait : quelque 500 rebelles se faisaient fort de reconvertir une artère volontiers fréquentée par les automobiles en « nouvelle zone piétonne ». De sorte que, six heures durant s’y succédaient percussions, danses, chants de Noël détournés, silences appuyés, discours et slogans.

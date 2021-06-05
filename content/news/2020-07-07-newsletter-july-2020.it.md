@@ -8,9 +8,9 @@ publishdate: 2020-07-07T07:52:43+0200
 event_loc_country: Switzerland
 categories: blogposts
 thumb: "/images/news/xr-jamaica-lite.png"
+image: "/images/news/xr-jamaica-lite.png"
 published: true
 ---
-![](/images/news/xr-jamaica-lite.png)
 
 *(pf, mandate questa newsletter a tutti i vostri contatti che potrebbero essere interessati! Per iscrivervi alle prossime newsletter, scrivete a [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net))*
 

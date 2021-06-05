@@ -43,8 +43,8 @@ categories: blogposts
 # LES LIGNES SUIVANTES SONT OPTIONNELLES, VOUS POUVEZ SUPPRIMER CELLES QUI NE VOUS INTERESSE PAS
 
 
-image: /images/news/2019-04-15-action-lausanne.jpeg
-thumb: /images/news/2019-04-15-action-lausanne.jpeg
+image: /media/news/2019-04-15-action-lausanne.jpeg
+thumb: /media/news/2019-04-15-action-lausanne.jpeg
 
 published: true
 ---
