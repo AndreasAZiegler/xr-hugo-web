@@ -146,7 +146,6 @@ collections:
         default: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "local_groups"
-    identifier_field: slug
     label: "Local groups"
     folder: "content/act/localgroups"
     create: true
@@ -240,7 +239,6 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
 
   - name: "resources"
-    identifier_field: slug
     label: "Resources"
     folder: "content/act/resources"
     create: true
