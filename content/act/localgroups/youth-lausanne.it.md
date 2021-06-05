@@ -1,5 +1,6 @@
 ---
 title: "Youth Valais"
+lang: it
 date: 2021-05-04T18:01:16+02:00
 draft: false
 name: XR Youth Lausanne

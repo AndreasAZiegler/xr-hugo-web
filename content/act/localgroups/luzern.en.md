@@ -1,5 +1,6 @@
 ---
 title: "Lucerne"
+lang: en
 date: 2021-05-04T17:33:15+02:00
 draft: false
 name: Lucerne

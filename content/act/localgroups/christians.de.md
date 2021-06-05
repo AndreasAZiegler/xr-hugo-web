@@ -1,5 +1,6 @@
 ---
 title: "Christliche Klima-Aktion"
+lang: de
 date: 2021-05-03T20:37:55+02:00
 draft: false
 name: Christliche Klima-Aktion

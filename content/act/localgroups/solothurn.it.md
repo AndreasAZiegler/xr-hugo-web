@@ -1,5 +1,6 @@
 ---
 title: "Soletta"
+lang: it
 date: 2021-05-04T17:39:40+02:00
 draft: false
 name: Soletta

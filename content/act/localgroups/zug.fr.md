@@ -1,5 +1,6 @@
 ---
 title: "Zoug"
+lang: fr
 date: 2021-05-04T19:36:41+02:00
 draft: false
 name: Zoug

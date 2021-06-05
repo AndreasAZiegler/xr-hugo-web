@@ -1,5 +1,6 @@
 ---
 title: "Queer Rebels"
+lang: en
 draft: false
 name: Queer Rebels
 links:

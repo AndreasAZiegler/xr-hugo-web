@@ -1,5 +1,6 @@
 ---
 title: "Solothurn"
+lang: en
 date: 2021-05-04T17:39:32+02:00
 draft: false
 name: Solothurn

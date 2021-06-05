@@ -1,5 +1,6 @@
 ---
 title: "Jura"
+lang: de
 date: 2021-05-04T17:30:47+02:00
 draft: false
 name: Jura

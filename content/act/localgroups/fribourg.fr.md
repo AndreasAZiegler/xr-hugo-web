@@ -1,5 +1,6 @@
 ---
 title: "Fribourg"
+lang: fr
 date: 2021-05-03T20:42:37+02:00
 draft: false
 name: Fribourg

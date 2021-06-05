@@ -1,5 +1,6 @@
 ---
 title: "Genf"
+lang: de
 date: 2021-05-03T20:44:07+02:00
 draft: false
 name: Genf

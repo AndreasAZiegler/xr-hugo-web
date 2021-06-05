@@ -1,5 +1,6 @@
 ---
 title: Anmelde Liste
+lang: de
 type: resources
 document: /media/resources/E-Mail-Liste.pdf
 link: 
