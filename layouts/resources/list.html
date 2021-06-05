@@ -22,11 +22,20 @@
                         <img src="{{ .Params.thumb }}" class="img-fluid mx-auto" />
                     </a>
                   {{ end }}
-                  <a href="{{ .Params.document | absURL }}" class="event-link">
-                    <h3 class="event-title card-title country-title ">
-                        {{ .Title }}
-                    </h3>
-                  </a>
+
+                  {{ if .Params.document }}
+                    <a href="{{ .Params.document | absURL }}" class="event-link">
+                      <h3 class="event-title card-title country-title ">
+                          {{ .Title }}
+                      </h3>
+                    </a>
+                  {{ else if .Params.link }}
+                    <a href="{{ urls.Parse .Params.link }}" class="event-link">
+                      <h3 class="event-title card-title country-title ">
+                          {{ .Title }}
+                      </h3>
+                    </a>
+                  {{ end }}
                 </a>
               </div>
             </div>

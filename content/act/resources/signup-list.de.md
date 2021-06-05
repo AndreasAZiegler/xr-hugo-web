@@ -2,6 +2,7 @@
 title: Anmelde Liste
 type: resources
 document: /pdfs/resources/E-Mail-Liste.pdf
+link: 
 resource_types:
 - outreach
 thumb: /images/resources/anmelde-liste.jpeg
