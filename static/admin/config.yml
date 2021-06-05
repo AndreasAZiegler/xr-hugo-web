@@ -257,6 +257,12 @@ collections:
         widget: "string"
         required: true
         hint: "If you're creating the post via the Netlify CMS you must set the `slug` parameter, it must be the same for every translation of the post, otherwise you will have duplicates."
+      - label: "Type of resource"
+        name: "resource_types"
+        widget: "select"
+        multiple: true
+        options: ["intern", "outreach", "self-organization-system", "action", "legal", "media", "technical", "regenerative-culture"]
+        required: true
       - label: "Thumb"
         name: "thumb"
         widget: "file"
