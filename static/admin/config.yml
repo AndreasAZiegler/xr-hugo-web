@@ -7,7 +7,7 @@ backend:
   app_id: e610c2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings
   base_url: https://code.organise.earth
   auth_endpoint: oauth/authorize # This line should *not* be indented
-media_folder: static/images/news
+media_folder: static/media
 collections:
   - name: "events"
     identifier_field: slug
@@ -80,11 +80,15 @@ collections:
         name: "image"
         widget: "file"
         required: false
+        media_library:
+          media_folder: events
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: true
         hint: "This image will be shown on the event page and on top of the event itself."
+        media_library:
+          media_folder: events
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -125,11 +129,15 @@ collections:
         name: "image"
         widget: "file"
         required: false
+        media_library:
+          media_folder: news
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: false
         hint: "This image will be shown on the event page and on top of the event itself."
+        media_library:
+          media_folder: news
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -138,6 +146,7 @@ collections:
         default: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: "local_groups"
+    identifier_field: slug
     label: "Local groups"
     folder: "content/act/localgroups"
     create: true
@@ -175,6 +184,7 @@ collections:
           - {label: "Twitter", name: "twitter", widget: "string", required: false}
           - {label: "Instagram", name: "instagram", widget: "string", required: false}
   - name: "press_releases"
+    identifier_field: slug
     label: "Press releases"
     folder: "content/press/pressreleases"
     create: true
@@ -200,15 +210,21 @@ collections:
         name: "image"
         widget: "file"
         required: false
+        media_library:
+          media_folder: pressreleases
       - label: "Pdf"
         name: "pdf"
         widget: "file"
         required: false
+        media_library:
+          media_folder: pressreleases
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: false
         hint: "This image will be shown on the event page and on top of the event itself."
+        media_library:
+          media_folder: pressreleases
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -216,3 +232,43 @@ collections:
         required: false
         default: true
       - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: "resourcees"
+    identifier_field: slug
+    label: "Resources"
+    folder: "content/act/resources"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}.{{lang}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "resources"}
+      - {label: "Titel", name: "title", widget: "string"}
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        required: true
+        hint: "If you're creating the post via the Netlify CMS you must set the `slug` parameter, it must be the same for every translation of the post, otherwise you will have duplicates."
+      - label: "Thumb"
+        name: "thumb"
+        widget: "file"
+        required: false
+        hint: "This image will be shown on the event page and on top of the event itself."
+        media_library:
+          media_folder: resources
+      - label: "Document"
+        name: "document"
+        widget: "file"
+        required: false
+        hint: "Either use a document or a link"
+        media_library:
+          media_folder: resources
+      - label: "Link"
+        name: "link"
+        widget: "string"
+        required: false
+        hint: "Either use a link or a document."
+      - label: 'Published'
+        name: 'published'
+        hint: "Set this to false to unpublish a post"
+        widget: "boolean"
+        required: false
+        default: true
