@@ -1,5 +1,6 @@
 ---
 title: "Ticino"
+lang: it
 date: 2021-05-04T17:40:52+02:00
 draft: false
 name: Ticino

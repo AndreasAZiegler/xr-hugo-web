@@ -1,5 +1,6 @@
 ---
 title: "Neuchatel"
+lang: en
 date: 2021-05-04T17:34:54+02:00
 draft: false
 name: Neuchatel

@@ -1,5 +1,6 @@
 ---
 title: "Biel/Bienne"
+lang: en
 date: 2021-05-03T20:36:26+02:00
 draft: false
 name: Biel/Bienne

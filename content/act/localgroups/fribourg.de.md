@@ -1,5 +1,6 @@
 ---
 title: "Freiburg"
+lang: de
 date: 2021-05-03T20:42:35+02:00
 draft: false
 name: Freiburg

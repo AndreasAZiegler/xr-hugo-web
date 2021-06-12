@@ -1,9 +1,9 @@
 ---
-title: "Fair un don"
+title: "Faire un don"
 type: donate
 menu:
   main:
-    name: "Fair un don"
+    name: "Faire un don"
     weight: 190
 date: 2021-04-23T17:55:29+02:00
 draft: false

@@ -1,5 +1,6 @@
 ---
 title: "Doctors for XR"
+lang: fr
 date: 2021-05-03T20:41:16+02:00
 draft: false
 name: Doctors for XR

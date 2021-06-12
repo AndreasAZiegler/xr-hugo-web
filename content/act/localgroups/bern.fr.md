@@ -1,5 +1,6 @@
 ---
 title: "Berne"
+lang: fr
 date: 2021-05-03T20:35:04+02:00
 draft: false
 name: Berne
