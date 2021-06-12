@@ -13,8 +13,8 @@
 header.home-header {
   background-image: url('/images/xr-brand3.png');
   background-repeat: no-repeat;
-  background-attachment: scroll;
-  background-position: center;
+  background-attachment: fixed;
+  background-position: top center;
   @include background-cover;
   text-align: center;
   color: white;
