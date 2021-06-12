@@ -1,8 +1,16 @@
-var map = L.map('map').setView([46.8, 8.5], 7.5);
+var map = L.map('map').setView([46.8, 8.5], 7);
 
 
-map.scrollWheelZoom.disable()
-
+if (screen.width > 800) {
+       map.setView([46.8, 8.5], 7)
+	   map.scrollWheelZoom.disable()
+} else if (screen.width < 400) {
+       map.setView([46.8, 8.5], 5.5)
+	   map.scrollWheelZoom.enabled()
+} else {
+       map.setView([46.8, 8.5], 7)
+	   map.scrollWheelZoom.enabled()
+}
 
 var watercolor = L.tileLayer('https://stamen-tiles-{s}.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.{ext}', {
 	attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a> &mdash; Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
@@ -134,49 +142,30 @@ marker21.bindPopup("<b> XR Geneva </b><br> English-speaking branch 	<br>			    	
 var marker1 = L.marker([46.5182, 6.6296],{icon:xrIcon}).addTo(map);
 marker1.bindPopup("<b> XR Lausanne </b>	<br>																												<a href=https://xrlausanne.ch target=_blank> <img src=/images/map/xr.svg > </a>																					  <a href=https://www.facebook.com/xrlausanne/ target=_blank> <img src=/images/map/fb.svg > </a>																	  <a href=https://www.instagram.com/xrlausanne/ target=_blank> <img src=/images/map/fb.svg > </a>																	  <a href=https://twitter.com/xrlausanne target=_blank> <img src=/images/map/twitter.svg > </a>																	  <a href=https://https://t.me/xrlausanne target=_blank> <img src=/images/map/telegram.svg ></a>																	  <a href=mailto:xr-lausanne@riseup.net target=_blank> <img src=/images/map/mail.svg > </a> ");
 
+var marker24 = L.marker([46.7, 7.3],{icon:xrIcon}).addTo(map);
+marker24.bindPopup("<b> XR Queer Rebels </b><br>								    																				 <a href=https://www.facebook.com/XRqueerrebels target=_blank> <img src=/images/map/fb.svg > </a>");
 
 marker1.on('mouseover', function(event){  marker1.openPopup(); });
-
-marker2.on('mouseover', function(event){  marker2.openPopup();	});
-
+marker2.on('mouseover', function(event){  marker2.openPopup(); });
 marker3.on('mouseover', function(event){ marker3.openPopup(); });
-
 marker4.on('mouseover', function(event){ marker4.openPopup(); });
-
 marker5.on('mouseover', function(event){  marker5.openPopup(); });
-
 marker6.on('mouseover', function(event){ marker6.openPopup(); });
-
 marker7.on('mouseover', function(event){ marker7.openPopup(); });
-
 marker8.on('mouseover', function(event){  marker8.openPopup(); });
-
 marker9.on('mouseover', function(event){ marker9.openPopup(); });
-
 marker10.on('mouseover', function(event){ marker10.openPopup();});
-
 marker11.on('mouseover', function(event){ marker11.openPopup(); });
-
 marker12.on('mouseover', function(event){	  marker12.openPopup();	});
-
 marker13.on('mouseover', function(event){	  marker13.openPopup();	});
-
 marker14.on('mouseover', function(event){  marker14.openPopup();});
-
 marker15.on('mouseover', function(event){	  marker15.openPopup();});
-
 marker16.on('mouseover', function(event){  marker16.openPopup();	});
-
 marker17.on('mouseover', function(event){	  marker17.openPopup();});
-
 marker18.on('mouseover', function(event){  marker18.openPopup();});
-
 marker19.on('mouseover', function(event){marker19.openPopup();});
-
 marker20.on('mouseover', function(event){ marker20.openPopup();});
-
 marker21.on('mouseover', function(event){marker21.openPopup();});
-
 marker22.on('mouseover', function(event){marker22.openPopup();});
-
 marker23.on('mouseover', function(event){marker23.openPopup();});
+marker24.on('mouseover', function(event){marker24.openPopup();});
