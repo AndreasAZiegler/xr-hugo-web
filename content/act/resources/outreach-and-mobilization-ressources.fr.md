@@ -5,6 +5,6 @@ title: Outreach and mobilization ressources
 slug: outreach-landing-page
 resource_types:
   - outreach
-document: /static/media/landingpage.pdf
+document: /media/resources/landingpage.pdf
 published: true
 ---
