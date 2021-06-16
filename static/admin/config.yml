@@ -277,7 +277,7 @@ collections:
         required: false
         hint: "Either use a document or a link"
         media_library:
-          media_folder: resources
+          media_folder: /static/media/resources
       - label: "Link"
         name: "link"
         widget: "string"
