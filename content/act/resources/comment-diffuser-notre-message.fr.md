@@ -5,6 +5,6 @@ title: Comment diffuser notre message
 slug: message-tutorial
 resource_types:
   - outreach
-document: /static/media/comment_message.pdf
+document: /media/resources/comment_message.pdf
 published: true
 ---

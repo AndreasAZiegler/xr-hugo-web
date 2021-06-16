@@ -5,6 +5,6 @@ title: Cercled d'engagement
 slug: circles-of-engagement
 resource_types:
   - outreach
-document: /static/media/circlesofengagement_fr.pdf
+document: /media/resources/circlesofengagement_fr.pdf
 published: true
 ---
