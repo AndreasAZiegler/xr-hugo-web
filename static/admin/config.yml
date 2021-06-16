@@ -7,7 +7,7 @@ backend:
   app_id: e610c2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings
   base_url: https://code.organise.earth
   auth_endpoint: oauth/authorize # This line should *not* be indented
-media_folder: static/media
+media_folder: media
 collections:
   - name: "events"
     identifier_field: slug
