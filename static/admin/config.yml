@@ -1,7 +1,7 @@
 backend:
   name: gitlab
   repo: xr-switzerland/hugo-web # Path to your GitLab repository
-  branch: master # Branch to update
+  branch: NETLIFY_BRANCH # Branch to update (replaced during CI)
   auth_type: implicit # Required for implicit grant
   api_root: https://code.organise.earth/api/v4
   app_id: e610c2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings

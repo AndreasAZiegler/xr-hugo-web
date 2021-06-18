@@ -1,9 +1,11 @@
 image:
-  name: klakegg/hugo:ext-alpine-ci 
+  name: klakegg/hugo:ext-alpine-ci
   entrypoint: ["/bin/sh", "-c"]
 
 develop-build:
   stage: build
+  before_script:
+    - sed -i "s|NETLIFY_BRANCH|develop|g" static/admin/config.yml
   script:
     - hugo --environment development --minify
   artifacts:
@@ -12,9 +14,11 @@ develop-build:
   only:
   - develop
   interruptible: true
-  
+
 master-build:
   stage: build
+  before_script:
+    - sed -i "s|NETLIFY_BRANCH|master|g" static/admin/config.yml
   script:
     - hugo --environment production --minify
   artifacts:
@@ -53,7 +57,7 @@ develop--deploy:
   script:
     # Backup old version
     - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_dev'
-    
+
     # Transfer files
     - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
 
@@ -92,7 +96,7 @@ master-deploy:
   script:
     # Backup old version
     - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_main'
-    
+
     # Transfer files
     - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
 
