@@ -3,9 +3,7 @@ title: Kinderwagen Aktion
 type: events
 slug: kinderwagen-aktion
 author: XR Switzerland
-branches:
-- XR Switzerland
-- Doctors for XR
+branch: Doctors for XR
 publishdate: 2021-03-15T20:51:00+0200
 date: 2021-03-15T20:51:00+0200 
 event_loc_country: ""

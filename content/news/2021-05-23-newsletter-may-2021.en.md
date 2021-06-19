@@ -3,7 +3,7 @@ layout: blogpost
 title: "Newsletter Switzerland, May 2021: The Warm Up Is Over"
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-23T16:33:46+0200
 event_loc_country: Switzerland
 categories: blogposts

@@ -3,8 +3,7 @@ title: Willkommenstreffen XR Bern 16.3.2021
 type: events
 slug: Willkommenstreffen-be-2021-3-16
 author: XR Bern
-branches:
-- XR Bern
+branch: Bern
 publishdate: 2021-03-01T14:29:00+0200
 date: 2021-03-16T19:00:00+0200
 event_loc_name: Online

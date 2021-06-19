@@ -4,7 +4,7 @@ lang: fr
 title: Réponse à un post critiqué
 slug: statements0507
 author: xrch
-branch: ch
+branch: Switzerland
 publishdate: 2020-05-07T00:00:00+0200
 event_loc_country: Switzerland
 published: true

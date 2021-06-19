@@ -4,7 +4,7 @@ lang: de
 title: Arbeitsgruppe Strategie - wo stehen wir?
 slug: gt-strat-ou-en-sommes-nous
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2020-12-03T09:18:08+0200
 event_loc_country: Switzerland
 categories: blogposts
