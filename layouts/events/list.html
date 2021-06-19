@@ -7,7 +7,7 @@
   <!-- Get distinct values for used languages, branches, eventtypes -->
 
   <!-- Branches -->
-  {{ $unique_branches := index .Site.Taxonomies "branches" }}
+  {{ $unique_branches := index .Site.Taxonomies "branch" }}
   <!-- Eventtypes -->
   {{ $unique_types := index .Site.Taxonomies "event_types" }}
 
@@ -21,7 +21,7 @@
         By local group
         {{ range $unique_branch, $val := $unique_branches }}
           {{ $branch_name := replace $unique_branch "-" " " }}
-          <button class="btn" onclick="filterSelection('filter_{{ $unique_branch }}')">{{ $branch_name }}</button>
+          <button class="btn" onclick="filterSelection('branch_{{ $unique_branch | urlize }}')">{{ $branch_name }}</button>
         {{ end }}
       </p>
       <p>
@@ -37,7 +37,7 @@
   <div class="container">
     <div class="row">
       {{ range .Pages }}
-      <div class="filterDiv {{range $event_type := .Params.event_types}}filter_{{$event_type}}{{end}} {{range $branch := .Params.branches}} filter_{{$branch | urlize}}{{end}} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
+      <div class="filterDiv {{range $event_type := .Params.event_types}}filter_{{$event_type}}{{end}} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
         {{ $type := index .Params.event_types 0 }}
         {{ $bg := "bg-purple" }}
         {{ if (eq $type "nvda") }}
