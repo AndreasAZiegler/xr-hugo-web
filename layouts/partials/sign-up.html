@@ -3,68 +3,22 @@
 
 
 <section class="join-us bg-blue">
-  {{ $contact_script := resources.Get "php/contact.php" }}
-  <form action="{{ $contact_script.Permalink }}" method="post">
-    <input type='hidden' name='cf_redirect_to_success' value='{{ $redirect_to_success }}' />
-    <input type='hidden' name='cf_redirect_to_captcha_failed' value='{{ $redirect_to_captcha_failed }}' />
-    <div class="container join-title">
-      <h2>{{with .Site.GetPage "/join"}}{{.Params.join_us.title}}{{end}}</h2>
-      <p>{{with .Site.GetPage "/join"}}{{.Params.join_us.intro}}{{end}}</p>
-    </div>
-    <div class="container form-wrapper">
-      <div class="input-wrapper">
-        <div class="label-row">
-          <label for="name">
-            {{with .Site.GetPage "/join"}}{{.Params.join_us.name}}{{end}}
-          </label>
-          <p class="input-info">/{{with .Site.GetPage "/join"}}{{.Params.join_us.pseudo}}{{end}}</p>
-        </div>
-        <input type="text" name="cf_name" required id="input-name" />
-        
-      </div>
-      <div class="input-wrapper">
-        <label for="email">
-          Email
-        </label>
-        <input type="email" name="cf_email" required id="input-email" />
-      </div>
-      <div class="input-wrapper">
-        <label for="branchcanton">
-          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.canton_branch }}{{ end }}
-        </label>
+  <div class="container join-title">
+    <h2>{{with .Site.GetPage "/join"}}{{.Params.join_us.title}}{{end}}</h2>
+    <p>{{with .Site.GetPage "/join"}}{{.Params.join_us.intro}}{{end}}</p>
+  </div>
 
-      <select name="cf_region" id="cantons-select">
-        <option disabled selected value> </option>
-        <optgroup label="{{ with .Site.GetPage "/join" }}{{ .Params.join_us.branch }}{{ end }}">
-          {{ range .Site.Pages.ByTitle }}
-            {{ if in (.Permalink | string) "/localgroups/" }}
-              <option value="Branch: {{ .Title }}">{{ .Title }}</option>
-            {{ end }}
-          {{ end }}
-        </optgroup>
-      </select>
-      </div>  
+  {{ $formPath := "the-rebellion-has-begun-join-us" }}
+  {{ if (eq .Site.Language.Lang "de") }}
+    {{ $formPath = "der-aufstand-hat-begonnen-mach-mit" }} }
+  {{ else if (eq .Site.Language.Lang "fr") }}
+    {{ $formPath = "la-rebellion-a-commence-rejoins-nous" }} }
+  {{ else if (eq .Site.Language.Lang "it") }}
+    {{ $formPath = "la-ribellione-e-iniziata-unisciti-a-noi" }} }
+  {{ end }}
 
-      <div class="input-wrapper">
-        <label for="captcha">
-          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.enter_captcha }}{{ end }}
-        </label>
-        <input type="text" name="cf_captcha" required id="captcha" />
-      </div>
-      <div class="input-wrapper">
-        <label for="captcha">
-          Captcha Code
-        </label>
-        {{ $captcha_script := resources.Get "php/captcha.php" }}
-        <img src="{{ $captcha_script.Permalink }}" alt="PHP Captcha">
-      </div>
-      <div class="button-wrapper">
-        <button type="submit" value="Submit" class="page-scroll o-button-pink">
-          {{ with .Site.GetPage "/join" }}{{ .Params.join_us.submit }}{{ end }}
-        </button>
-      </div>
-
-    </div>
-
-  </form>
+  <script src="https://actionnetwork.org/widgets/v4/form/{{ $formPath }}?format=js&source=widget&clear_id=true&can_widget_id=an-signup"></script>
+  <div id="an-signup" class="container form-signup">
+    <!-- Form placeholder -->
+  </div>
 </section>

@@ -36,10 +36,13 @@
 
 // Global Components
 
+html {
+  font-size: 125%;
+}
+
 body {
   overflow-x: hidden;
   @include body-font;
-  font-size: 20px;
 }
 
 .text-muted {
