@@ -6,5 +6,6 @@ slug: test
 resource_types:
   - intern
 thumb: /media/resources/wallpaper.jpg
-published: false
+document: /media/resources/wallpaper.jpg
+published: true
 ---
