@@ -12,8 +12,7 @@ event_loc_street_num: ""
 event_loc_addressLocality: ""
 event_loc_postalCode: ""
 event_loc_country: Switzerland
-event_types:
-- talk
+event_type: talk
 image: /media/events/xr-newcomer.jpg
 thumb: /media/events/xr-newcomer.jpg
 published: true

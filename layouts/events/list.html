@@ -9,7 +9,7 @@
   <!-- Branches -->
   {{ $unique_branches := index .Site.Taxonomies "branch" }}
   <!-- Eventtypes -->
-  {{ $unique_types := index .Site.Taxonomies "event_types" }}
+  {{ $unique_types := index .Site.Taxonomies "event_type" }}
 
   <button class="btn" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFilter" aria-expanded="false" aria-controls="collapseFilter" style="font-size : 30px;">
     Filter
@@ -27,7 +27,7 @@
       <p>
         By event type
         {{ range $unique_type, $val := $unique_types }}
-          <button class="btn" onclick="filterSelection('filter_{{ $unique_type }}')">{{ $unique_type }}</button>
+          <button class="btn" onclick="filterSelection('event_type_{{ $unique_type }}')">{{ $unique_type }}</button>
         {{ end }}
       </p>
   </div>
@@ -37,8 +37,8 @@
   <div class="container">
     <div class="row">
       {{ range .Pages }}
-      <div class="filterDiv {{range $event_type := .Params.event_types}}filter_{{$event_type}}{{end}} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
-        {{ $type := index .Params.event_types 0 }}
+      <div class="filterDiv event_type_{{ .Params.event_type }} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
+        {{ $type := .Params.event_type }}
         {{ $bg := "bg-purple" }}
         {{ if (eq $type "nvda") }}
           {{ $bg = "bg-blue-baby" }}

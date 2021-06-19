@@ -6,7 +6,7 @@ taxonomies:
   category: categories
   tag: tags
   branch: branch
-  event_type: event_types
+  event_type: event_type
   resource_type: resource_types
 
 defaultContentLanguage: en

@@ -7,8 +7,7 @@ branch: Doctors for XR
 publishdate: 2021-03-15T20:51:00+0200
 date: 2021-03-15T20:51:00+0200 
 event_loc_country: ""
-event_types:
-- action
+event_type: action
 categories: events
 image: /media/events/kinderwagen-action.jpg
 thumb: /media/events/kinderwagen-action.jpg
