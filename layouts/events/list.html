@@ -62,6 +62,7 @@
               </a>
             </h3>
             <div class="card-date">
+              {{ .Params.date.Format "02.01.2006" }}
             </div>
             <div class="card-venue">
               {{ .Params.event_loc_addressLocality }}
