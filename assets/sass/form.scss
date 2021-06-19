@@ -7,11 +7,15 @@ form {
     padding: 0.5em 1em;
     min-width: 13em;
 
-    &::focus {
-      border-color: $color-xr-green-may;
-      border-width: 3px;
-      outline: none;
+    &[type="checkbox"] {
+      min-width: initial;
     }
+
+    &:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px $color-xr-green-may;
+    }
+
     &::placeholder {
       color: transparentize($color-xr-black, 0.7);
     }
