@@ -41,17 +41,28 @@
           {{ end }}
           <span class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
             {{ if (and (.Params.event_loc_street_name) (ne .Params.event_loc_street_name "")) }}
-              </br>
               <span itemprop="streetAddress">{{ .Params.event_loc_street_name }}{{ if .Params.event_loc_street_num }} {{.Params.event_loc_street_num}}{{ end }}
               </span>
             {{ end }}
-            {{ if (and (.Params.event_loc_addressLocality) (ne .Params.event_loc_addressLocality "")) }}
-              </br>
-              <span itemprop="addressLocality">{{ .Params.event_loc_addressLocality }}</span>
+
+            {{/* Locality & country line */}}
+            {{ if or
+              (and (.Params.event_loc_addressLocality) (ne .Params.event_loc_addressLocality ""))
+              (and (.Params.event_loc_country) (ne .Params.event_loc_country ""))
+            }}
+              <br />
+              {{- if (and (.Params.event_loc_addressLocality) (ne .Params.event_loc_addressLocality "")) }}
+                <span itemprop="addressLocality">{{ .Params.event_loc_addressLocality }}</span>
+                {{- if and (.Params.event_loc_country) (ne .Params.event_loc_country "") -}}
+                  ,
+                {{- end -}}
+              {{- end }}
+              {{ if and (.Params.event_loc_country) (ne .Params.event_loc_country "") -}}
+                <span itemprop="addressCountry">{{ if (or (eq .Params.event_loc_country "Switzerland") (eq .Params.event_loc_country "switzerland")) }}Switzerland{{ else }} {{.Params.event_loc_country}} {{ end }}</span>
+              {{ end -}}
             {{ end }}
-            {{ if .Params.event_loc_country }}
-              ,<span itemprop="addressCountry">{{ if (or (eq .Params.event_loc_country "Switzerland") (eq .Params.event_loc_country "switzerland")) }}Switzerland{{ else }} {{.Params.event_loc_country}} {{ end }}</span>
-            {{ end }}
+
+
           </span>
         </a>
       </div>
