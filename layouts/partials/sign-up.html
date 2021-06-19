@@ -8,16 +8,7 @@
     <p>{{with .Site.GetPage "/join"}}{{.Params.join_us.intro}}{{end}}</p>
   </div>
 
-  {{ $formPath := "the-rebellion-has-begun-join-us" }}
-  {{ if (eq .Site.Language.Lang "de") }}
-    {{ $formPath = "der-aufstand-hat-begonnen-mach-mit" }} }
-  {{ else if (eq .Site.Language.Lang "fr") }}
-    {{ $formPath = "la-rebellion-a-commence-rejoins-nous" }} }
-  {{ else if (eq .Site.Language.Lang "it") }}
-    {{ $formPath = "la-ribellione-e-iniziata-unisciti-a-noi" }} }
-  {{ end }}
-
-  <script src="https://actionnetwork.org/widgets/v4/form/{{ $formPath }}?format=js&source=widget&clear_id=true&can_widget_id=an-signup"></script>
+  <script src="{{with .Site.GetPage "/join"}}{{.Params.join_us.form_uri}}{{end}}?format=js&source=widget&clear_id=true&can_widget_id=an-signup"></script>
   <div id="an-signup" class="container form-signup">
     <!-- Form placeholder -->
   </div>

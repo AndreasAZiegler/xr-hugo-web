@@ -9,5 +9,6 @@ draft: false
 join_us:
   title: La ribellione e iniziata, unisciti a noi !
   intro: Benvenuto a bordo! Dopo la tua registrazione, sarete contattati da un membro di XR che vi spiegherà come fare.
+  form_uri: https://actionnetwork.org/widgets/v4/form/la-ribellione-e-iniziata-unisciti-a-noi
 ---
 
