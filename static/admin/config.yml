@@ -1,13 +1,13 @@
 backend:
   name: gitlab
   repo: xr-switzerland/hugo-web # Path to your GitLab repository
-  branch: master # Branch to update
-  auth_type: implicit # Required for implicit grant
+  branch: NETLIFY_BRANCH # Branch to update (replaced during CI)
+  auth_type: pkce
   api_root: https://code.organise.earth/api/v4
   app_id: e610c2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings
   base_url: https://code.organise.earth
   auth_endpoint: oauth/authorize # This line should *not* be indented
-media_folder: static/media
+media_folder: /static/media
 public_folder: /media
 collections:
   - name: "events"
@@ -81,15 +81,15 @@ collections:
         name: "image"
         widget: "file"
         required: false
-        media_library:
-          media_folder: events
+        media_folder: '{{media_folder}}/events'
+        public_folder: '{{public_folder}}/events'
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: true
         hint: "This image will be shown on the event page and on top of the event itself."
-        media_library:
-          media_folder: events
+        media_folder: '{{media_folder}}/events'
+        public_folder: '{{public_folder}}/events'
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -130,15 +130,15 @@ collections:
         name: "image"
         widget: "file"
         required: false
-        media_library:
-          media_folder: news
+        media_folder: '{{media_folder}}/news'
+        public_folder: '{{public_folder}}/news'
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: false
         hint: "This image will be shown on the event page and on top of the event itself."
-        media_library:
-          media_folder: news
+        media_folder: '{{media_folder}}/news'
+        public_folder: '{{public_folder}}/news'
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -216,21 +216,21 @@ collections:
         name: "image"
         widget: "file"
         required: false
-        media_library:
-          media_folder: pressreleases
+        media_folder: '{{media_folder}}/pressreleases'
+        public_folder: '{{public_folder}}/pressreleases'
       - label: "Pdf"
         name: "pdf"
         widget: "file"
         required: false
-        media_library:
-          media_folder: pressreleases
+        media_folder: '{{media_folder}}/pressreleases'
+        public_folder: '{{public_folder}}/pressreleases'
       - label: "Thumb"
         name: "thumb"
         widget: "file"
         required: false
         hint: "This image will be shown on the event page and on top of the event itself."
-        media_library:
-          media_folder: pressreleases
+        media_folder: '{{media_folder}}/pressreleases'
+        public_folder: '{{public_folder}}/pressreleases'
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
@@ -269,15 +269,15 @@ collections:
         widget: "file"
         required: false
         hint: "This image will be shown on the event page and on top of the event itself."
-        media_library:
-          media_folder: resources
+        media_folder: '{{media_folder}}/resources'
+        public_folder: '{{public_folder}}/resources'
       - label: "Document"
         name: "document"
         widget: "file"
         required: false
         hint: "Either use a document or a link"
-        media_library:
-          media_folder: /static/media/resources
+        media_folder: '{{media_folder}}/resources'
+        public_folder: '{{public_folder}}/resources'
       - label: "Link"
         name: "link"
         widget: "string"
