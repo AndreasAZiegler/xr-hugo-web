@@ -8,13 +8,13 @@ branch: "XR Switzerland "
 publishdate: 2021-06-20T17:33:08+0200
 published: true
 ---
-**Act now for live** 
-
 ## **Generaldirektor verkündet Aufforderung von “Doctors for Extinction Rebellion” an Generalversammlung der WHO in Genf**
 
-https://fb.watch/5_3-qY8yD5/
 
-<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdoctors4xr.ch%2Fvideos%2F202152785094106%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdoctors4xr.ch%2Fvideos%2F202152785094106%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
 
 “Die Gesundheit der Menschen und die unseres Planeten sind miteinander verbunden und wir sollten jetzt für das Leben handeln - im Sinne eines Notfalls.” Mit diesen Worten richtete sich Dr. Tedros Adhanom Ghebreyesus, Generaldirektor der WHO an die Gesundheitsminister der Mitgliedstaaten zum Abschluss der 74. Weltgesundheitsversammlung 29.05.2021 nachdem er die Forderungen von Doctors for Extinction Rebellion ([www.actnow4life.com](www.actnow4life.com)) vorgelesen hat. 
 
