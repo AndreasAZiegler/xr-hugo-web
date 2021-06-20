@@ -6,13 +6,13 @@ slug: doctors4extinctionrebellion
 author: XR Switzerland
 branch: "XR Switzerland "
 publishdate: 2021-06-20T17:33:08+0200
-published: true
+published: false
 ---
 ## **Generaldirektor verkündet Aufforderung von “Doctors for Extinction Rebellion” an Generalversammlung der WHO in Genf**
 
 
 
-“Die Gesundheit der Menschen und die unseres Planeten sind miteinander verbunden und wir sollten jetzt für das Leben handeln - im Sinne eines Notfalls.” Mit diesen Worten richtete sich Dr. Tedros Adhanom Ghebreyesus, Generaldirektor der WHO an die Gesundheitsminister der Mitgliedstaaten zum Abschluss der 74. Weltgesundheitsversammlung 29.05.2021 nachdem er die Forderungen von Doctors for Extinction Rebellion ([www.actnow4life.com](www.actnow4life.com)) vorgelesen hat. 
+“Die Gesundheit der Menschen und die unseres Planeten sind miteinander verbunden und wir sollten jetzt für das Leben handeln - im Sinne eines Notfalls.” Mit diesen Worten richtete sich Dr. Tedros Adhanom Ghebreyesus, Generaldirektor der WHO an die Gesundheitsminister der Mitgliedstaaten zum Abschluss der 74. Weltgesundheitsversammlung 29.05.2021 nachdem er die Forderungen von Doctors for Extinction Rebellion ([www.actnow4life.com](https://www.actnow4life.com/)) vorgelesen hat. 
 
 
 
