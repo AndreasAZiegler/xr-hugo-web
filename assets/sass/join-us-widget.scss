@@ -36,7 +36,12 @@
   input[type="email"],
   select {
     width: 100%;
+  }
 
+  input[type="text"],
+  input[type="email"],
+  input[type="checkbox"],
+  select {
     &:focus {
       box-shadow: 0 0 0 2px $color-xr-white;
     }
@@ -78,6 +83,15 @@
       font-family: "FucXedLatin", sans-serif;
       font-weight: normal;
       text-transform: uppercase;
+    }
+
+    .check_radio_field {
+      label {
+        font-family: "Crimson Text", serif;
+        font-size: 1rem;
+        text-transform: none;
+        text-shadow: 0px 0px 3px #3860aa;
+      }
     }
 
     @include media-query-min($on-laptop) {
