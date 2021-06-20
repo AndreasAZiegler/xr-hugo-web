@@ -71,6 +71,14 @@
     <div class="post-content">
       {{ .Content }}
 
+      {{ if .Params.external_url }}
+        <p>
+          {{ with .Site.GetPage "/act/events" }}{{ .Params.see_also }}{{ end }}:
+          <br />
+          <a href="{{ .Params.external_url }}" target="_blank">{{ .Params.external_url }}</a>
+        </p>
+      {{ end }}
+
       <p class="post-meta"> 
         {{ with .Site.GetPage "/act/events" }}{{ .Params.published_on }}{{end}}
         <time datetime="{{ .PublishDate.Format "January 2, 2006" }}" itemprop="datePublished">

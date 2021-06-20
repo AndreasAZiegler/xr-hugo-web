@@ -90,6 +90,11 @@ collections:
         hint: "This image will be shown on the event page and on top of the event itself."
         media_folder: '{{media_folder}}/events'
         public_folder: '{{public_folder}}/events'
+      - label: 'External URL'
+        name: 'external_url'
+        widget: 'string'
+        pattern: ['^https?://.+\.[^.]', 'Must start with "http(s)://"']
+        required: false
       - label: 'Published'
         name: 'published'
         hint: "Set this to false to unpublish a post"
