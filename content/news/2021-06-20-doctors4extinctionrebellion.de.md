@@ -1,7 +1,7 @@
 ---
 type: blogpost
 lang: de
-title: Doctors4ExtinctionRebellion
+title: Doctors 4 Extinction Rebellion
 slug: doctors4extinctionrebellion
 author: XR Switzerland
 branch: "XR Switzerland "
