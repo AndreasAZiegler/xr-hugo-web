@@ -15,9 +15,7 @@ published: false
 “Die Gesundheit der Menschen und die unseres Planeten sind miteinander verbunden und wir sollten jetzt für das Leben handeln - im Sinne eines Notfalls.” Mit diesen Worten richtete sich Dr. Tedros Adhanom Ghebreyesus, Generaldirektor der WHO an die Gesundheitsminister der Mitgliedstaaten zum Abschluss der 74. Weltgesundheitsversammlung 29.05.2021 nachdem er die Forderungen von Doctors for Extinction Rebellion ([www.actnow4life.com](https://www.actnow4life.com/)) vorgelesen hat. 
 
 
-
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdoctors4xr.ch%2Fvideos%2F202152785094106%2F&show_text=true&width=560&t=0" width="560" height="429" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-
 
 
 *Doctors For Extinction Rebellion* forderten mit Hilfe von Dr. Tedros die Gesundheitsbehörden weltweit dazu auf, den Verlust von Klima und Biodiversität als gesundheitliche Priorität zu betrachten. Jahr für Jahr, Deklaration für Deklaration warnen multilaterale Institutionen - darunter die WHO - wie sehr der Klimawandel und der Verlust der biologischen Vielfalt die Gesundheit der Menschen weltweit gefährden. Die globale Erwärmung ist mehr als eine Bedrohung, sie ist bereits eine Realität. Medizinische Fachkräfte sind an vorderster Front mit den Folgen der Klimaverschlechterung für ihre Patienten konfrontiert. *Doctors For Extinction Rebellion* sehen immer mehr Atemwegs- und Herz-Kreislauf-Erkrankungen aufgrund von verschmutzter Luft, Verlust von Arbeitstagen und Todesfälle aufgrund von Hitzewellen, Über- und Unterernährung aufgrund des Mangels an qualitativ hochwertigen Lebensmitteln sowie Durchfall und Vergiftungen aufgrund von verschmutztem Trinkwasser.
