@@ -6,7 +6,8 @@ slug: doctors4extinctionrebellion
 author: XR Switzerland
 branch: "XR Switzerland "
 publishdate: 2021-06-20T17:33:08+0200
-published: false
+thumb: /media/news/doctors4extinctionrebellion.jpg
+published: true
 ---
 ## **Generaldirektor verkündet Aufforderung von “Doctors for Extinction Rebellion” an Generalversammlung der WHO in Genf**
 
@@ -29,4 +30,3 @@ Der gesamte Brief, inklusive aller Unterschriften ist [hier ](https://actnow4lif
 Professor Valerie D'Acremont, eine Spezialistin für Infektionskrankheiten und eine der Mitbegründerinnen von Doctors for Extinction Rebellion Switzerland, übergab dem Generaldirektor im Vorfeld der Weltgesundheitsversammlung einen von über 1000 Gesundheitsexperten unterzeichneten Brief zusammen mit einer großen Sanduhr, dem Symbol von Extinction Rebellion. Um der Forderung Nachdruck zu verleihen, wurden sie unter anderem unterstützt durch Dr. Richard Horton, Herausgeber des Lancet, Dr. James Hospedales, ehemaliger Leiter der Caribbean Public Health Association,  Dr. David Johnson, Chief Medical Officer von Dominica, sowie Dr. Maria Neira, Direktorin für öffentliche Gesundheit, Umwelt und Soziales bei der WHO.
 
 <iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fdoctors4xr.ch%2Fvideos%2F339816337505213%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
-https://fb.watch/5_5rQGk4ie/
