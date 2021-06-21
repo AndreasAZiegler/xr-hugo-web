@@ -39,7 +39,6 @@
 #main li a{
   font-size: 20px;
   padding: 10px;
-  padding-top: 16px;
   margin: 5px;
 }
 
@@ -54,8 +53,6 @@
 #main li:last-child a{
 	color:white !important;
 	background-color: black;
-	padding-top: 10px;
-	margin-top:10px;
 }
 
 #main li:last-child a:hover{
@@ -116,6 +113,7 @@
 }
 
 .navbar-nav{
+	padding: 5px 0;
 	flex-direction: row;
 }
 
