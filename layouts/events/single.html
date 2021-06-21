@@ -72,6 +72,14 @@
     </header>
 
     <div class="post-content">
+      {{ if .Params.online_meeting_url }}
+        <p>
+          {{ with .Site.GetPage "/act/events" }} {{ .Params.online }} {{ end }}:
+          <br />
+          <a href="{{ .Params.online_meeting_url }}" target="_blank">{{ .Params.online_meeting_url }}</a>
+        </p>
+      {{ end }}
+
       {{ .Content }}
 
       {{ if .Params.external_url }}
