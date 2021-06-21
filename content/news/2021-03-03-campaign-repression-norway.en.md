@@ -4,7 +4,7 @@ title: INTERNATIONAL CAMPAIGN BY EXTINCTION REBELLION AGAINST THE SUPRESSION OF
   CLIMATE ACTIVISM IN NORWAY
 slug: campaign-repression-norway
 author: XR Switerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-03-03T21:12:32+0200
 event_loc_country: Switzerland
 categories: blogposts

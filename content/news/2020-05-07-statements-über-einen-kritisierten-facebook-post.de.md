@@ -4,7 +4,7 @@ lang: de
 title: Statements über einen kritisierten (Facebook) Post
 slug: statements0507
 author: xrch
-branch: ch
+branch: Switzerland
 publishdate: 2020-05-07T11:35:00+0200
 event_loc_country: Switzerland
 categories: blogposts

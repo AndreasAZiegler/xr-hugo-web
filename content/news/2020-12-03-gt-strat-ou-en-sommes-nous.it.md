@@ -4,7 +4,7 @@ lang: it
 title: GL Strategia – a che punto siamo?
 slug: gt-strat-ou-en-sommes-nous
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2020-12-03T09:20:40+0200
 event_loc_country: Switzerland
 categories: blogposts

@@ -3,7 +3,7 @@ layout: blogpost
 title: Rebellion of One
 slug: rebellion-of-one
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-07T18:42:0+0200
 event_loc_country: Switzerland
 categories: blogposts

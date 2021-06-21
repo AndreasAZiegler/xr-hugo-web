@@ -3,7 +3,7 @@ layout: blogpost
 title: "NEWSLETTER SVIZZERA, SETTEMBRE 2020 : Il Tempo Del Riscaldamento È Finito"
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-23T20:04:16+0200
 event_loc_country: Switzerland
 categories: blogposts

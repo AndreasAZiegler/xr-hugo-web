@@ -5,8 +5,8 @@ title: "XR Switzerland"
 taxonomies:
   category: categories
   tag: tags
-  branch: branches
-  event_type: event_types
+  branch: branch
+  event_type: event_type
   resource_type: resource_types
 
 defaultContentLanguage: en

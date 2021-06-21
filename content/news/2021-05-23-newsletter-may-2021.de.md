@@ -3,7 +3,7 @@ layout: blogpost
 title: "Newsletter Schweiz, Sep 2020: Die Aufwärmphase Ist Vorbei"
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-23T20:13:22+0200
 event_loc_country: Switzerland
 categories: blogposts

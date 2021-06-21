@@ -3,7 +3,7 @@ layout: blogpost
 title: "Newsletter Switzerland, July 2020: No Going Back!"
 slug: newsletter-july-2020
 author: The newsletter team
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2020-07-07T09:56:55+0200
 event_loc_country: Switzerland
 categories: blogposts
