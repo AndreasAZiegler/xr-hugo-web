@@ -12,13 +12,13 @@ published: false
 ---
 #  COMMUNIQUÉ REBELLION D\'AUTOMNE 
 
-Les **médias** suisses-allemands étaient trop **impatients** ! ![😍](media/image1.png){width="0.16666666666666666in" height="0.16666666666666666in"}
+Les **médias** suisses-allemands étaient trop **impatients** ! ![😍](media/image1.png)
 
 La NZZ et d\'autres journaux n\'ont pas pu résister à l\'envie d\'annoncer la rébellion d\'automne avant tous leurs concurrents, **3 jours avant l\'embargo**. Qu\'ont ils annoncés? Qu\'Extinction Rebellion sera contraint de bloquer Zürich en automne pour une durée indéterminée si le Conseil fédéral ne dit pas la vérité sur l\'ampleur et l\'horreur de la crise climatique d\'ici là.
 
-Malheureusement, en divulguant cette information, ils ont forcé la ville de Zürich et le Conseil fédéral à l\'apprendre par voie de presse. Pas très courtois, surtout quand de sympathiques rebelles avaient prévu de les contacter directement pour en discuter tranquillement avant que l\'info ne devienne publique ![😕](media/image3.png){width="0.16666666666666666in" height="0.16666666666666666in"}.
+Malheureusement, en divulguant cette information, ils ont forcé la ville de Zürich et le Conseil fédéral à l\'apprendre par voie de presse. Pas très courtois, surtout quand de sympathiques rebelles avaient prévu de les contacter directement pour en discuter tranquillement avant que l\'info ne devienne publique !😕.
 
-Puisque les médias ont avancé le calendrier de deux jours, et que l\'équipe médiatique bénévole de la rébellion d\'automne n\'est pas follement en avance, donnez- nous quelques heures de plus, avant que nous puissions vous expliquer exactement ce qui se passe ![😉](media/image2.png){width="0.16666666666666666in" height="0.16666666666666666in"}.
+Puisque les médias ont avancé le calendrier de deux jours, et que l\'équipe médiatique bénévole de la rébellion d\'automne n\'est pas follement en avance, donnez- nous quelques heures de plus, avant que nous puissions vous expliquer exactement ce qui se passe !😉
 
 **Mais déjà en quelques mots :** Nous sommes dans la merde !
 
