@@ -8,7 +8,7 @@ date: 2021-04-23T17:50:08+02:00
 draft: false
 join_us:
   title: La rébellion a commencé, rejoins-nous !
-  intro: Bienvenue à bord! Après votre inscription vous serez contacté.e par un ou une rebelle, qui vous accueillera.
+  intro: Bienvenue à bord ! Après votre inscription vous serez contacté.e par un ou une rebelle, qui vous accueillera.
   form_uri: https://actionnetwork.org/widgets/v4/form/la-rebellion-a-commence-rejoins-nous
 ---
 
