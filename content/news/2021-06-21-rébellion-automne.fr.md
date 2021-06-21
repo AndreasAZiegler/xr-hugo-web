@@ -7,7 +7,7 @@ author: media
 branch: national
 publishdate: 2021-06-21T23:32:57+0200
 image: /media/news/c-est-la-merde.jpg
-published: false
+published: true
 ---
 #  COMMUNIQUÉ REBELLION D\'AUTOMNE 
 
