@@ -1,3 +1,6 @@
+@import "variables.scss";
+@import "mixins.scss";
+
 .join-us {
   padding-top: 80px;
   padding-bottom: 80px;
@@ -5,50 +8,124 @@
   background-attachment: scroll;
   background-position: center;
   background-size: 80%;
+  background-repeat: no-repeat;
+
   @include media-query-min($on-laptop) {
     background-size: 60%;
-    background-repeat: no-repeat;
   }
 
-  .container.join-title {
-    margin-bottom: 32px;
+  a {
+    color: $color-xr-white;
+  }
+
+  .join-title {
     p {
+      margin-bottom: 0;
+      text-shadow: 0px 0px 3px #3860aa;
+    }
+  }
+}
+
+.form-signup {
+  li {
+    margin-bottom: 1rem;
+    list-style: none;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  select {
+    width: 100%;
+  }
+
+  input[type="text"],
+  input[type="email"],
+  input[type="checkbox"],
+  select {
+    &:focus {
+      box-shadow: 0 0 0 2px $color-xr-white;
+    }
+  }
+
+
+  input[type="submit"],
+  .share_button {
+    @extend .o-button-pink;
+
+    &:hover {
+      background-color: $color-xr-red;
+    }
+
+    &:focus {
+      box-shadow: 0 0 0 2px $color-xr-white;
+    }
+  }
+
+  .hide {
+    display: none !important;
+  }
+
+  .form_builder_output {
+    width: 100%;
+  }
+
+  #can_embed_form_inner {
+    h2, h4 {
+      display: none;
+    }
+  }
+
+  #form_col1 {
+    margin-bottom: 1rem;
+
+    label {
+      display: block;
+      font-family: "FucXedLatin", sans-serif;
+      font-weight: normal;
+      text-transform: uppercase;
+    }
+
+    .check_radio_field {
+      label {
+        font-family: "Crimson Text", serif;
+        font-size: 1rem;
+        text-transform: none;
+        text-shadow: 0px 0px 3px #3860aa;
+      }
+    }
+
+    @include media-query-min($on-laptop) {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+  }
+
+  #form_col2 {
+    text-align: right;
+  }
+
+  #d_sharing {
+    margin-top: 1rem;
+  }
+
+  #can_thank_you {
+    h1 {
+      font-size: 1.5rem;
+    }
+
+    h4 {
+      font-family: "Crimson Text", serif;
+      font-size: 1rem;
+      text-transform: none;
       text-shadow: 0px 0px 3px #3860aa;
     }
   }
 
-  .container.form-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-
-  .input-wrapper {
-    width: 100%;
-    @include media-query-min($on-laptop) {
-      width: auto;
-    }
-  }
-
-  .button-wrapper {
-    margin-bottom: 16px;
-    display: flex;
-    align-items: flex-end;
-  }
-}
-
-section.join-success {
-  min-height: calc(100vh - 206px);
-  display: flex;
-  /* justify-content: center; */
-  align-items: center;
-
-  .container {
-    margin-top: -100px;
-  }
-
-  h3,
-  p {
-    text-align: center;
+  .ajax-loading,
+  .can_thank_you-block,
+  #action_info,
+  #logo_wrap, {
+    display: none;
   }
 }

@@ -3,7 +3,7 @@ type: pressreleases
 title: "Medienmitteilung: Rebellion of One"
 slug: rebellion-of-one-press-release
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-0718:42:09+0200
 event_loc_country: Switzerland
 image: ""

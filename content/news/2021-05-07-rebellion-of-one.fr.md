@@ -3,7 +3,7 @@ layout: blogpost
 title: Rebellion of One / Des individus isolés s’assoient sur des routes
 slug: rebellion-of-one
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-07T17:54:59+0200
 event_loc_country: Switzerland
 categories: blogposts

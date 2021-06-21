@@ -3,7 +3,7 @@ layout: blogpost
 title: "Newsletter Suisse, Mai 2021: L’Échauffement Est Fini"
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: XR Switzerland
+branch: Switzerland
 publishdate: 2021-05-23T16:50:14+0200
 event_loc_country: Switzerland
 categories: blogposts

@@ -3,7 +3,7 @@ layout: blogpost
 title: "#nogoingback "
 slug: nogoingback
 author: xrlausanne
-branch: xrlausanne
+branch: Lausanne
 publishdate: 2020-05-09T12:00:00+0200
 event_loc_country: Switzerland
 categories: blogposts
