@@ -38,7 +38,11 @@
 
           {{ if .Params.event_loc_name }}
             <span itemprop="name">{{ .Params.event_loc_name }}</span>
+            {{- if and (.Params.event_loc_country) (ne .Params.event_loc_country "") -}}
+              ,
+            {{- end -}}
           {{ end }}
+
           <span class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
             {{ if (and (.Params.event_loc_street_name) (ne .Params.event_loc_street_name "")) }}
               <span itemprop="streetAddress">{{ .Params.event_loc_street_name }}{{ if .Params.event_loc_street_num }} {{.Params.event_loc_street_num}}{{ end }}
@@ -61,7 +65,6 @@
                 <span itemprop="addressCountry">{{ if (or (eq .Params.event_loc_country "Switzerland") (eq .Params.event_loc_country "switzerland")) }}Switzerland{{ else }} {{.Params.event_loc_country}} {{ end }}</span>
               {{ end -}}
             {{ end }}
-
 
           </span>
         </a>
