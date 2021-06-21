@@ -334,13 +334,6 @@ icon-location {
   // max-width: 900px;
 }
 
-#page-content {
-  padding-top: 100px;
-  @include media-query($on-laptop) {
-    padding-top: 0px;
-  }
-}
-
 img.culture-regeneratrice-img {
   float: left;
   margin: 0 15px 0 0;
