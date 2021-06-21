@@ -6,7 +6,8 @@ slug: rébellion automne
 author: media
 branch: national
 publishdate: 2021-06-21T23:32:57+0200
-image: /media/news/c-est-la-merde.jpg
+image: ""
+thumb: /media/news/c-est-la-merde.jpg
 published: false
 ---
 #  COMMUNIQUÉ REBELLION D\'AUTOMNE 
