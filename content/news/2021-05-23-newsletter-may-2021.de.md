@@ -1,16 +1,17 @@
 ---
+branch: Switzerland
 layout: blogpost
-title: "Newsletter Schweiz, Sep 2020: Die Aufwärmphase Ist Vorbei"
+lang: de
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: Switzerland
-publishdate: 2021-05-23T20:13:22+0200
-event_loc_country: Switzerland
-categories: blogposts
-thumb: /media/news/header.png
 published: true
+event_loc_country: Switzerland
+title: "Newsletter Schweiz, Sep 2020: Die Aufwärmphase Ist Vorbei"
+thumb: /media/news/header.png
+categories: blogposts
+publishdate: 2021-05-23T20:13:22+0200
 aliases:
-  - "/de/blogposts/2021/05/23/newsletter-may-2021/"
+  - /de/blogposts/2021/05/23/newsletter-may-2021/
 ---
 *(Bitte leiten sie diesen Newsletter an alle Ihre Kontakte weiter, die daran interessiert sein könnten ! Um sich anzumelden, um beim nächsten Mal Ihr eigenes Exemplar zu erhalten, melden sie sich via [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net) an)*
 
@@ -66,7 +67,7 @@ Cati, Mélanie, Niko, Paolo & Samuel, Translation Team
 
 Jeder Monat, der verstreicht, bringt neue Schäden für das Klima und die Ökosysteme, die unsere Existenz auf diesem Planeten ermöglichen. Die Treibhausgasemissionen in der Schweiz steigen weiter an, und die Biodiversitätsziele werden immer wieder verfehlt. Durch ihre Untätigkeit bringt die Regierung die Bevölkerung in große Gefahr. Es ist das ureigenste Recht und die unabdingbare Pflicht der Bevölkerung, sich aufzulehnen.
 
-Am Mitte Juni werden wir dem Bundesrat ein Ultimatum stellen. Er hat bis Ende September Zeit, die Wahrheit zu sagen. Die Wahrheit über den existenziellen Charakter der Bedrohung, der wir ausgesetzt sind. Die Wahrheit über die Notwendigkeit, innerhalb weniger Jahre Klimaneutralität zu erreichen, um Millionen von Menschenleben zu retten. Die Wahrheit darüber, dass Politiker*innen nicht in der Lage sein werden, uns durch diese gewaltige Herausforderung zu führen, sondern stattdessen von den Menschen geführt werden müssen, die in Bürgerversammlungen versammelt sind.
+Am Mitte Juni werden wir dem Bundesrat ein Appell stellen. Er hat bis Ende September Zeit, die Wahrheit zu sagen. Die Wahrheit über den existenziellen Charakter der Bedrohung, der wir ausgesetzt sind. Die Wahrheit über die Notwendigkeit, innerhalb weniger Jahre Klimaneutralität zu erreichen, um Millionen von Menschenleben zu retten. Die Wahrheit darüber, dass Politiker*innen nicht in der Lage sein werden, uns durch diese gewaltige Herausforderung zu führen, sondern stattdessen von den Menschen geführt werden müssen, die in Bürgerversammlungen versammelt sind.
 
 Leider ist es gut möglich, dass der Bundesrat unsere Forderungen für eine lebenswerte Zukunft nicht beachtet...
 
@@ -118,15 +119,15 @@ Wir hoffen, bis Oktober einen Rhythmus von einer nationalen Aktion pro Monat bei
 
 In der Zwischenzeit spielen lokale Aktionen jeglicher Art eine wichtige Rolle, wenn es darum geht, mit lokalen Gemeinschaften zu sprechen, die neuen Rebellen zu trainieren, die Bindungen von Bezugsgruppen zu stärken und mit Taktiken zu experimentieren, die bei der Rebellion im Oktober verwendet werden können.
 
-### Ultimatum an den Bundesrat || Mitte Juni
+### Appell an den Bundesrat || Mitte Juni
 
 ![](/assets/img/posts/ultimatum.png)
 
 Nach Juni gibt es kein Zurück mehr: Wir werden uns voll und ganz für eine Rebellion im Herbst einsetzen! Es sei denn, der Bundesrat entscheidet sich, endlich so zu handeln, als ob die Wahrheit wahr wäre, die Klimaneutralität für 2025 anzustreben und eine Bürgerversammlung einzuberufen!
 
-Das Ultimatum wird an diesem Tag offiziell verkündet werden, zusammen mit einer kleinen, aber aufopferungsvollen Aktion, die zeigt, dass die Rebellen sowohl freundlich als auch furchtlos sind.
+Das Appell wird an diesem Tag offiziell verkündet werden, zusammen mit einer kleinen, aber aufopferungsvollen Aktion, die zeigt, dass die Rebellen sowohl freundlich als auch furchtlos sind.
 
-Das Ultimatum wird mit der Veröffentlichung eines offenen Briefes stattfinden, der gewaltlosen zivilen Ungehorsam als legitime Aktionsform angesichts der Krise, in der wir uns befinden, unterstützt. Seien Sie am Mitte Juni bereit, diesen Brief weit und breit zu verbreiten, das Ziel ist es, damit so viel öffentliche Unterstützung wie möglich im Vorfeld zum Oktober zu gewinnen.
+Das Appell wird mit der Veröffentlichung eines offenen Briefes stattfinden, der gewaltlosen zivilen Ungehorsam als legitime Aktionsform angesichts der Krise, in der wir uns befinden, unterstützt. Seien Sie am Mitte Juni bereit, diesen Brief weit und breit zu verbreiten, das Ziel ist es, damit so viel öffentliche Unterstützung wie möglich im Vorfeld zum Oktober zu gewinnen.
 
 Um eine maximale Wirkung zu erzielen, wird der offene Brief bereits bei Veröffentlichung von einer Auswahl bekannter Persönlichkeiten aus den verschiedensten Bereichen unterzeichnet sein. Solltest du eine Verbindung zu solchen "Big Shots" haben, wende dich bitte an [media@xrebellion](mailto:media@xrebellion)
 
