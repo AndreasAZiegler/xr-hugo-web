@@ -95,6 +95,11 @@ collections:
         widget: 'string'
         pattern: ['^https?://.+\.[^.]', 'Must start with "http(s)://"']
         required: false
+      - label: 'Online registration URL'
+        name: 'online_registration_url'
+        widget: 'string'
+        pattern: ['^https?://.+\.[^.]', 'Must start with "http(s)://"']
+        required: false
       - label: 'External URL'
         name: 'external_url'
         widget: 'string'

@@ -80,6 +80,14 @@
         </p>
       {{ end }}
 
+      {{ if .Params.online_registration_url }}
+        <p>
+          {{ with .Site.GetPage "/act/events" }} {{ .Params.online_registration }} {{ end }}:
+          <br />
+          <a href="{{ .Params.online_registration_url }}" target="_blank">{{ .Params.online_registration_url }}</a>
+        </p>
+      {{ end }}
+
       {{ .Content }}
 
       {{ if .Params.external_url }}

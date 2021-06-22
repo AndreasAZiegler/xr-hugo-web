@@ -9,6 +9,7 @@ menu:
 date: 2021-04-25T17:15:51+02:00
 learn_more: En savoir plus
 online: En ligne
+online_registration: Inscription en ligne
 see_also: Voir également
 published_on: Publié le
 by: par
