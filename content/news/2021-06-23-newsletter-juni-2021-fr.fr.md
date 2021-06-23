@@ -1,7 +1,7 @@
 ---
 type: blogpost
 lang: fr
-title: "Newsletter Schweiz, juni 2021 : "
+title: Newsletter juin 2021
 slug: newsletter-juni-2021-fr
 author: Newsletter team
 branch: XR switzerland
