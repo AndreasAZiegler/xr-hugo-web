@@ -10,7 +10,7 @@ image: /media/news/slogande-wahrheit.jpg
 thumb: /media/news/slogande-wahrheit.jpg
 published: true
 ---
-# ** Letzter Aufruf vor der Rebellion!**
+# **Letzter Aufruf vor der Rebellion!**
 
 ## Redaktion
 
