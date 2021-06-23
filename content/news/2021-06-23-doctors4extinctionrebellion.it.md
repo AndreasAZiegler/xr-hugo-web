@@ -9,6 +9,8 @@ publishdate: 2021-06-23T20:46:21+0200
 thumb: /media/news/doctors4extinctionrebellion.jpg
 published: true
 ---
+# **Il direttore generale annuncia l'appello dei “Medici per Extinction Rebellion” all'Assemblea Generale dell'OMS a Ginevra**
+
 **Il direttore generale annuncia l\'appello dei "Medici per Extinction Rebellion" all\'Assemblea Generale dell\'OMS a Ginevra**
 
 https://fb.watch/5_3-qY8yD5/
