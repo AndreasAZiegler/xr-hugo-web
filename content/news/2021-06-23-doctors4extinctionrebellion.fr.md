@@ -9,6 +9,10 @@ publishdate: 2021-06-23T20:44:13+0200
 thumb: /media/news/doctors4extinctionrebellion.jpg
 published: true
 ---
+# **Le Directeur général relaie l'appel lancé par “Doctors for Extinction Rebellion” à l'Assemblée générale de l'OMS à Genève**
+
+https://fb.watch/5_3-qY8yD5/
+
 **Le Directeur général relaie l\'appel lancé par "Doctors for Extinction Rebellion" à l\'Assemblée générale de l\'OMS à Genève**
 
 https://fb.watch/5_3-qY8yD5/
