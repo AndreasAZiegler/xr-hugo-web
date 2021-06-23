@@ -55,7 +55,7 @@ Table des matières :
 
 ### Qu'est-ce qu'une assemblée citoyenne ?
 
-Les assemblées citoyennes s'inscrivent dans le cadre de la démocratie participative, tout en en constituant la forme la plus poussée, celle de la démocratie délibérative. Il s'agit d'un processus par lequel les citoyennes et citoyens prennent des décisions politiques sur des thématiques d'intérêt public, par exemple la justice climatique et sociale. Ses membres, siégeant dans cet organe décisionnel temporaire aux côtés du parlement et du gouvernement, sont tiré·e·s au sort de manière aléatoire afin de constituer un panel représentatif de la société. Au cours de cette mission, les participant·e·s s'informent en profondeur sur les sujets à traiter, écoutent des expert·e·s et diverses parties prenantes. Puis, ils/elles délibèrent collectivement pour finalement émettre des recommandations et prendre des décisions (légalement contraignantes) qui seront ensuite mises en œuvre par les autorités.
+Les assemblées citoyennes s'inscrivent dans le cadre de la démocratie participative, tout en en constituant la forme la plus poussée, celle de la **démocratie délibérative**. Il s'agit d'un processus par lequel les **citoyennes et citoyens prennent des décisions politiques** sur des thématiques d'intérêt public, par exemple la justice climatique et sociale. Ses membres, siégeant dans cet **organe décisionnel temporaire** aux côtés du parlement et du gouvernement, sont tiré·e·s au sort de manière aléatoire afin de constituer un **panel représentatif de la société**. Au cours de cette mission, les participant·e·s s'informent en profondeur sur les sujets à traiter, écoutent des expert·e·s et diverses parties prenantes. Puis, ils/elles délibèrent collectivement pour finalement émettre des **recommandations** et prendre des **décisions** (légalement contraignantes) **qui seront ensuite mises en œuvre par les autorités**.
 
 ### Pourquoi avons-nous besoin d'une assemblée citoyenne ?
 
@@ -97,7 +97,9 @@ De plus amples informations sur [la composition d'une assemblée citoyenne](http
 
 - Voir la [conférence sur les assemblées citoyennes (français)](https://www.youtube.com/watch?v=cYFAitDNNVU), par [XR Lausanne](https://xrlausanne.ch)
 
-- Lire le [guide des assemblées citoyennes (PDF, français)](https://xrlausanne.ch/wp-content/uploads/XR-Guide-to-AC-FR-Suisse-Web.pdf), par le groupe Assemblées Citoyennes XR Suisse
+- Lire le [Guide des assemblées citoyennes (PDF, français)](https://xrlausanne.ch/wp-content/uploads/XR-Guide-to-AC-FR-Suisse-Web.pdf), par le groupe Assemblées Citoyennes XR Suisse
+
+- Lire l'article [L'assemblée citoyenne au cœur des revendications d'XR (français)](https://rebellion.global/fr/blog/2021/01/05/citizens-assembly-climate-change), par Neil Simpson
 
 - Voir la vidéo [Why XR demands a citizens' assembly on climate and ecological justice (anglais)](https://www.youtube.com/watch?v=WTILQFaREZ4), par [XR UK](https://extinctionrebellion.uk)
 
