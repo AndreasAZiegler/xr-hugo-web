@@ -1,5 +1,5 @@
 ---
-title: "10 principles"
+title: "privacy-policy"
 menu:
   main:
     enable: "privacy-policy"
