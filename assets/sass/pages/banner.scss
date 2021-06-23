@@ -1,0 +1,30 @@
+.banner {
+  background-color: $color-xr-red;
+  width: 100%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  padding: 28px 0 0 20px;
+
+  h1, a {
+    color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+}
+
+.blink_me {
+  animation: blinker 1s linear infinite;
+}
+
+@keyframes blinker {
+  0% {
+    opacity: 0.3;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.3;
+  }
+}

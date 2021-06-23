@@ -1,5 +1,10 @@
 <!-- Hero -->
 <!-- Header -->
+<script src="/js/clock.js"></script>
+<div>
+    <div class="timeto">{{ .Params.petition.time | safeHTML }}</div>
+    <div id="clock"></div>
+</div>
 <header class="home-header">
     <div class="container intro-text">
 	      <h2 class="intro-heading">{{ .Params.petition.heading | safeHTML }}</h2>
