@@ -236,3 +236,31 @@ background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg
 	 margin-right:  0px;
 }
 
+.footer-nav {
+	padding: 0;
+	margin: 0;
+	font-family: "FucXedLatin", sans-serif;
+	font-size: 0.8rem;
+
+	li {
+		display: inline;
+		list-style: none;
+	}
+
+	a {
+		padding: 0 0.5rem;
+		display: inline-block;
+		color: $color-xr-white;
+		text-decoration: none;
+		transition: color 0.3s ease;
+
+		&:hover {
+			color: $color-xr-green-may;
+		}
+
+		&:focus {
+			text-decoration: underline;
+		}
+	}
+}
+
