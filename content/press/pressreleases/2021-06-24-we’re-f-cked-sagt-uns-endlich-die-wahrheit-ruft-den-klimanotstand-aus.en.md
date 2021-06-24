@@ -1,7 +1,7 @@
 ---
 type: pressreleases
 lang: en
-title: "We’re f!cked: Sagt uns endlich die Wahrheit, ruft den Klimanotstand aus!"
+title: "We’re f!cked: Finally tell us the truth, declare a climate emergency!"
 slug: "We’re f!cked: Sagt uns endlich die Wahrheit, ruft den Klimanotstand aus!"
 author: XR Switzerland
 branch: XR Switzerland
