@@ -1,15 +1,14 @@
 ---
-title: "Protection des Données"
 lang: fr
+title: Protection des Données
 slug: privacy-policy
 menu:
   footer:
-    name: "Protection des Données"
+    name: Protection des Données
     weight: 10
 published: true
 ---
-
-Extinction Rébellion Suisse attache une grande importance au traitement responsable des données personnelles. Extinction Rébellion Suisse se conforme à la loi fédérale sur la protection des données et fournit des informations transparentes et véridiques sur la collecte et l’utilisation des données personnelles dans la présente politique de confidentialité - publiée sur le site web sous la rubrique "Privacy-policy". Tout changement sera communiqué ici immédiatement.
+Extinction Rébellion Suisse attache une grande importance au traitement responsable des données personnelles. Extinction Rébellion Suisse se conforme à la loi fédérale sur la protection des données et fournit des informations transparentes et véridiques sur la collecte et l’utilisation des données personnelles dans la présente politique de confidentialité - publiée sur le site web sous la rubrique "legal/privacy-policy". Tout changement sera communiqué ici immédiatement.
 
 ## Généralités : Données à caractère personnel
 
@@ -21,8 +20,8 @@ Toute personne qui nous fournit une adresse électronique peut recevoir des info
 
 ## Droit à l’information
 
-Nous serons heureux de vous fournir des informations écrites sur vos données stockées et de les corriger ou de les supprimer sur demande. Veuillez nous contacter par e-mail à l’adresse suivante : contact[at]xrebellion.ch.
+Nous serons heureux de vous fournir des informations écrites sur vos données stockées et de les corriger ou de les supprimer sur demande. Veuillez nous contacter par e-mail à l’adresse suivante : contact\[at]xrebellion.ch.
 
 ## Déclaration de consentement
 
-En utilisant les offres susmentionnées d'Extinction Rebellion Suisse, vous acceptez le traitement des données collectées à votre sujet de la manière et aux fins décrites. Extinction Rebellion Suisse se tient à votre disposition pour toute question ou information complémentaire sur la politique de protection des données : contact[at]xrebellion.ch
+En utilisant les offres susmentionnées d'Extinction Rebellion Suisse, vous acceptez le traitement des données collectées à votre sujet de la manière et aux fins décrites. Extinction Rebellion Suisse se tient à votre disposition pour toute question ou information complémentaire sur la politique de protection des données : contact\[at]xrebellion.ch
