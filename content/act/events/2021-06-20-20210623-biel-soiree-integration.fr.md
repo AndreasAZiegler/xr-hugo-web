@@ -7,7 +7,8 @@ author: XR Biel
 branch: Biel
 publishdate: 2021-06-20T07:00:00+0200
 date: 2021-06-23T19:00:00+0200
-event_loc_street_name: La Tuilerie, Ziegeleiweg
+event_loc_name: La Tuilerie
+event_loc_street_name: Ziegeleiweg
 event_loc_street_num: 15
 event_loc_addressLocality: Bienne
 event_loc_addressRegion: Bern

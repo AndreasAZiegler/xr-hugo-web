@@ -1,16 +1,17 @@
 ---
+branch: Switzerland
 layout: blogpost
-title: "Newsletter Switzerland, May 2021: The Warm Up Is Over"
+lang: en
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: Switzerland
-publishdate: 2021-05-23T16:33:46+0200
-event_loc_country: Switzerland
-categories: blogposts
-thumb: /media/news/header.png
 published: true
+event_loc_country: Switzerland
+title: "Newsletter Switzerland, May 2021: The Warm Up Is Over"
+thumb: /media/news/header.png
+categories: blogposts
+publishdate: 2021-05-23T16:33:46+0200
 aliases:
-  - "/blogposts/2021/05/23/newsletter-may-2021/"
+  - /blogposts/2021/05/23/newsletter-may-2021/
 ---
 *(please transfer this newsletter to all your contacts who could be interested ! To sign-up to receive your own copy next time, write to [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net))*
 
@@ -118,15 +119,15 @@ We hope to keep a rhythm of one national action a month until October, to build 
 
 In the meanwhile, local actions of any scope have an important role to play in terms of talking to local communities, training the new rebels, strengthening the bonds of affinity groups, and experimenting with tactics that can be used in the October rebellion.
 
-### Ultimatum to the Federal Council || mid-June
+### Appeal to the Federal Council || mid-June
 
 ![](/assets/img/posts/ultimatum.png)
 
 After mid-June, there’ll be no coming back: we’ll be fully committed to a rebellion in Autumn! Unless, of course, the Federal Council decides to finally act as if the truth is real, aim for carbon neutrality in 2025, and convene a Citizens Assembly! 
 
-The ultimatum will be issued officially on that date, along with a small-scale but high sacrifice action, showing that rebels are both friendly and fearless.
+The appeal will be issued officially on that date, along with a small-scale but high sacrifice action, showing that rebels are both friendly and fearless.
 
-The ultimatum will be accompanied by the publication of an open letter endorsing non-violent civil disobedience as a legitimate form of action in the face of the crisis we are in. Be ready in mid-June to spread that letter far and wide, the goal is to use it to gain as much public support as possible in the run up to October. 
+The appeal will be accompanied by the publication of an open letter endorsing non-violent civil disobedience as a legitimate form of action in the face of the crisis we are in. Be ready in mid-June to spread that letter far and wide, the goal is to use it to gain as much public support as possible in the run up to October. 
 
 For maximum impact, the open letter will be already signed upon release by a selection of well-loved personalities from diverse backgrounds. Should you have any link to such ‘big shots’, please get in touch with [media@xrebellion](mailto:media@xrebellion)
 

@@ -4,7 +4,7 @@ date: 2021-04-20T07:24:57+02:00
 draft: false
 petition:
   time: Zeit bis zur Rebellion
-  heading: Wir<br />wollen<br />leben
+  heading: Wir wollen<br />leben
   button: Unterschreiben Sie die Petition
   link: https://act.campax.org/petitions/wir-stecken-in-der-scheisse-sagt-die-wahrheit-uber-die-klimakrise-und-okologischen-kollaps
 hero:
