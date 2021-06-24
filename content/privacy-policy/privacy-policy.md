@@ -5,7 +5,7 @@ menu:
     enable: "privacy-policy"
     parent: "privacy-policy"
     weight: 30
-date: 2021-06-24T17:09:16+02:00
+date: 2021-06-24T17:00:00+02:00
 draft: false
 ---
 
