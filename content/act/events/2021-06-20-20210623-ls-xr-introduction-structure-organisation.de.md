@@ -7,7 +7,8 @@ author: XR Lausanne
 branch: Lausanne
 publishdate: 2021-06-20T07:00:00+0200
 date: 2021-06-23T18:00:00+0200
-event_loc_street_name: Espace Dickens, Avenue Charles Dickens
+event_loc_name: Espace Dickens
+event_loc_street_name: Avenue Charles Dickens
 event_loc_street_num: 6
 event_loc_addressLocality: Lausanne
 event_loc_addressRegion: Vaud
@@ -17,7 +18,7 @@ event_type: welcome
 image: /media/events/so-xr-structure-organisation.jpg
 thumb: /media/events/thumb/so-xr-structure-organisation.jpg
 external_url: https://www.facebook.com/events/167121958646697
-published: true
+published: false
 ---
 ## INSCRIPTIONS
 <https://framaforms.org/structure-et-organisation-introduction-a-xr-23-juin-2021-1619881595>

@@ -38,7 +38,11 @@
 
           {{ if .Params.event_loc_name }}
             <span itemprop="name">{{ .Params.event_loc_name }}</span>
+            {{- if and (.Params.event_loc_country) (ne .Params.event_loc_country "") -}}
+              ,
+            {{- end -}}
           {{ end }}
+
           <span class="address" itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
             {{ if (and (.Params.event_loc_street_name) (ne .Params.event_loc_street_name "")) }}
               <span itemprop="streetAddress">{{ .Params.event_loc_street_name }}{{ if .Params.event_loc_street_num }} {{.Params.event_loc_street_num}}{{ end }}
@@ -62,13 +66,28 @@
               {{ end -}}
             {{ end }}
 
-
           </span>
         </a>
       </div>
     </header>
 
     <div class="post-content">
+      {{ if .Params.online_meeting_url }}
+        <p>
+          {{ with .Site.GetPage "/act/events" }} {{ .Params.online }} {{ end }}:
+          <br />
+          <a href="{{ .Params.online_meeting_url }}" target="_blank">{{ .Params.online_meeting_url }}</a>
+        </p>
+      {{ end }}
+
+      {{ if .Params.online_registration_url }}
+        <p>
+          {{ with .Site.GetPage "/act/events" }} {{ .Params.online_registration }} {{ end }}:
+          <br />
+          <a href="{{ .Params.online_registration_url }}" target="_blank">{{ .Params.online_registration_url }}</a>
+        </p>
+      {{ end }}
+
       {{ .Content }}
 
       {{ if .Params.external_url }}

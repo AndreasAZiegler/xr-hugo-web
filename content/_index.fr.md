@@ -4,7 +4,7 @@ date: 2021-04-20T07:24:55+02:00
 draft: false
 petition:
   time: temps jusqu'à la rébellion
-  heading: Nous<br />voulons<br />vivre
+  heading: Nous voulons<br />vivre
   button: Signer la pétition
   link: https://act.campax.org/petitions/on-est-dans-la-merde-dites-la-verite-sur-l-urgence-climatique-et-ecologique
 hero:

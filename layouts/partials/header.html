@@ -7,10 +7,8 @@
       <a class="navbar-brand" href="{{.Site.BaseURL}}"> {{ partial "svg.html" (dict "svg" "/static/images/xr-withtext.svg") }}</a>
      </div>
 
-     <div class="lang-ph">
-        <ul class="nav navbar-nav">
-            {{ partial "i18nlist.html" . }}
-        </ul>
+     <div class="lang-ph align-items-center">
+       {{ partial "i18nlist.html" . }}
      </div>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -27,9 +25,7 @@
 
             <div class="row" id="top">
               <div class="col">
-                <ul class="nav navbar-nav">
-                  {{ partial "i18nlist.html" . }}
-                </ul>
+                {{ partial "i18nlist.html" . }}
               </div>
               <div class="col">
                   <ul class="nav navbar-nav justify-content-end">

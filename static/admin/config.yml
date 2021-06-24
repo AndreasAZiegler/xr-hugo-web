@@ -10,6 +10,40 @@ backend:
 media_folder: /static/media
 public_folder: /media
 collections:
+  - name: "legal"
+    identifier_field: "slug"
+    label: "Legal"
+    folder: "content/legal"
+    slug: "{{slug}}.{{lang}}"
+    create: true
+    fields:
+      - name: "type"
+        label: "Layout"
+        widget: "hidden"
+        default: "legal"
+      - name: "lang"
+        label: "Language"
+        widget: "select"
+        multiple: false
+        options: ["en", "fr", "de", "it"]
+        required: true
+      - label: "Title"
+        name: "title"
+        widget: "string"
+      - name: "slug"
+        label: "Slug"
+        widget: "string"
+        required: true
+        hint: "If you're creating the post via the Netlify CMS you must set the `slug` parameter, it must be the same for every translation of the post, otherwise you will have duplicates."
+      - name: 'body'
+        label: 'Body'
+        widget: 'markdown'
+      - name: "published"
+        label: "Published"
+        hint: "Set this to false to unpublish a post"
+        widget: "boolean"
+        required: false
+        default: true
   - name: "events"
     identifier_field: slug
     label: "Events"
@@ -24,7 +58,7 @@ collections:
         multiple: false
         options: ["en", "fr", "de", "it"]
         required: true
-      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - label: "Slug"
         name: "slug"
         widget: "string"
@@ -90,6 +124,16 @@ collections:
         hint: "This image will be shown on the event page and on top of the event itself."
         media_folder: '{{media_folder}}/events'
         public_folder: '{{public_folder}}/events'
+      - label: 'Online meeting URL'
+        name: 'online_meeting_url'
+        widget: 'string'
+        pattern: ['^https?://.+\.[^.]', 'Must start with "http(s)://"']
+        required: false
+      - label: 'Online registration URL'
+        name: 'online_registration_url'
+        widget: 'string'
+        pattern: ['^https?://.+\.[^.]', 'Must start with "http(s)://"']
+        required: false
       - label: 'External URL'
         name: 'external_url'
         widget: 'string'
@@ -116,7 +160,7 @@ collections:
         multiple: false
         options: ["en", "fr", "de", "it"]
         required: true
-      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - label: "Slug"
         name: "slug"
         widget: "string"
@@ -202,7 +246,7 @@ collections:
         multiple: false
         options: ["en", "fr", "de", "it"]
         required: true
-      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - label: "Slug"
         name: "slug"
         widget: "string"
@@ -257,7 +301,7 @@ collections:
         multiple: false
         options: ["en", "fr", "de", "it"]
         required: true
-      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string"}
       - label: "Slug"
         name: "slug"
         widget: "string"

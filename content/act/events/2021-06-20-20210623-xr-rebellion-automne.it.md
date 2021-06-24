@@ -7,7 +7,8 @@ author: XR Switzerland
 branch: Switzerland
 publishdate: 2021-06-21T06:00:00+0200
 date: 2021-06-23T19:00:00+0200
-event_loc_street_name: Centre Fried, Rue Guillaume Techtermann
+event_loc_name: Centre Fries
+event_loc_street_name: Rue Guillaume Techtermann
 event_loc_street_num: 8
 event_loc_addressLocality: Fribourg
 event_loc_addressRegion: Fribourg
@@ -17,7 +18,7 @@ event_type: talk
 image: /media/events/rebellion-automne-20210623.jpg
 thumb: /media/events/thumb/rebellion-automne-20210623.jpg
 external_url: https://www.facebook.com/events/248047533757586
-published: true
+published: false
 ---
 Présentation de la stratégie nationale d'XR Suisse
 

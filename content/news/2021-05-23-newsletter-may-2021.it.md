@@ -1,16 +1,17 @@
 ---
+branch: Switzerland
 layout: blogpost
-title: "NEWSLETTER SVIZZERA, SETTEMBRE 2020 : Il Tempo Del Riscaldamento È Finito"
+lang: it
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: Switzerland
-publishdate: 2021-05-23T20:04:16+0200
-event_loc_country: Switzerland
-categories: blogposts
-thumb: /media/news/header.png
 published: true
+event_loc_country: Switzerland
+title: "NEWSLETTER SVIZZERA, SETTEMBRE 2020 : Il Tempo Del Riscaldamento È Finito"
+thumb: /media/news/header.png
+categories: blogposts
+publishdate: 2021-05-23T20:04:16+0200
 aliases:
-  - "/it/blogposts/2021/05/23/newsletter-may-2021/"
+  - /it/blogposts/2021/05/23/newsletter-may-2021/
 ---
 *(pf, mandate questa newsletter a tutti i vostri contatti che potrebbero essere interessati! Per iscrivervi alle prossime newsletter, scrivete a [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net))*
 
@@ -118,15 +119,15 @@ Speriamo di riuscire a mantenere il ritmo di un’azione nazionale al mese fino 
 
 Nel frattempo, le azioni locali di qualsiasi portata hanno un ruolo importante per parlare alle comunità locali, formare i nuovi ribelli, rafforzare i legami di affinità.
 
-### Ultimatum al Consiglio Federale || metà giugno
+### Appello al Consiglio Federale || metà giugno
 
 ![](/assets/img/posts/ultimatum.png)
 
 Dopo la metà di giugno, non ci sarà nessuna possibilità di tornare indietro: saremo completamente impegnati per la ribellione in autunno! A meno che, ovviamente, il Consiglio Federale non decida di agire finalmente come se la verità fosse reale, puntando alla neutralità di carbonio nel 2025 e convocando un’Assemblea dei Cittadini!
 
-L’ultimatum sarà ufficialmente presentato in quella data grazie ad un'azione su piccola scala ma di grande sacrificio, dimostrando che i ribelli sono amichevoli ma anche impavidi e coraggiosi.
+L’appello sarà ufficialmente presentato in quella data grazie ad un'azione su piccola scala ma di grande sacrificio, dimostrando che i ribelli sono amichevoli ma anche impavidi e coraggiosi.
 
-L’ultimatum sarà accompagnato dalla pubblicazione di una lettera aperta che approva la disobbedienza civile non violenta come forma legittima di azione di fronte alla crisi in cui ci troviamo. Siate pronti a metà giugno a diffondere la lettere in lungo ed in largo. L’obiettivo è quello di usarla per ottenere il maggior sostegno pubblico possibile in vista di ottobre.
+L’appello sarà accompagnato dalla pubblicazione di una lettera aperta che approva la disobbedienza civile non violenta come forma legittima di azione di fronte alla crisi in cui ci troviamo. Siate pronti a metà giugno a diffondere la lettere in lungo ed in largo. L’obiettivo è quello di usarla per ottenere il maggior sostegno pubblico possibile in vista di ottobre.
 
 Per avere il massimo impatto, al momento della consegna, la lettera aperta sarà già stata firmata da una selezione di personalità molto amate e di diversa provenienza. Se avete qualche collegamento con queste persone conosciute e famose, vi preghiamo di mettervi in contatto con [media@xrebellion.ch](mailto:media@xrebellion.ch).
 

@@ -1,16 +1,17 @@
 ---
+branch: Switzerland
 layout: blogpost
-title: "Newsletter Suisse, Mai 2021: L’Échauffement Est Fini"
+lang: fr
 slug: newsletter-may-2021
 author: XR Switzerland
-branch: Switzerland
-publishdate: 2021-05-23T16:50:14+0200
-event_loc_country: Switzerland
-categories: blogposts
-thumb: /media/news/header.png
 published: true
+event_loc_country: Switzerland
+title: "Newsletter Suisse, Mai 2021: L’Échauffement Est Fini"
+thumb: /media/news/header.png
+categories: blogposts
+publishdate: 2021-05-23T16:50:14+0200
 aliases:
-  - "/fr/blogposts/2021/05/23/newsletter-may-2021/"
+  - /fr/blogposts/2021/05/23/newsletter-may-2021/
 ---
 *(transmettez cette newsletter à toutes vos relations qui pourraient être intéressées ! Pour s’inscrire aux prochaines, écrire à [xr-switzerland-subscribe@lists.riseup.net](mailto:xr-switzerland-subscribe@lists.riseup.net))*
 
@@ -66,7 +67,7 @@ Cati, Mélanie, Niko, Paolo & Samuel, pour la traduction
 
 Chaque mois qui passe apporte de nouveaux dégâts au climat et aux écosystèmes qui soutiennent notre existence sur cette planète. Les émissions suisses de gaz à effet de serre ne cessent d'augmenter et les objectifs en matière de biodiversité ne sont pas atteints. En n'agissant pas, le gouvernement met la population en grand danger. C'est le droit sacré et le devoir indispensable de la population de se rebeller.
 
-À la mi-juin, nous enverrons un ultimatum au Conseil fédéral. Ce dernier aura jusqu'à la fin du mois de septembre pour dire la vérité. La vérité sur la nature existentielle de la menace à laquelle nous sommes confrontés. La vérité sur la nécessité d'atteindre la neutralité carbone en quelques années pour épargner des millions de vies. La vérité sur le fait que les politicien·nes seront incapables de nous guider dans cet effort colossal, mais qu'ils et elles doivent être dirigé·es par le peuple, réuni en assemblées de citoyens.
+À la mi-juin, nous enverrons un appel au Conseil fédéral. Ce dernier aura jusqu'à la fin du mois de septembre pour dire la vérité. La vérité sur la nature existentielle de la menace à laquelle nous sommes confrontés. La vérité sur la nécessité d'atteindre la neutralité carbone en quelques années pour épargner des millions de vies. La vérité sur le fait que les politicien·nes seront incapables de nous guider dans cet effort colossal, mais qu'ils et elles doivent être dirigé·es par le peuple, réuni en assemblées de citoyens.
 
 Malheureusement, il est fort possible que le Conseil fédéral ne tienne pas compte de nos demandes pour un avenir vivable... 
 
@@ -119,15 +120,15 @@ Nous espérons maintenir un rythme d'une action nationale par mois jusqu'en octo
 
 En attendant, les actions locales de toute envergure ont un rôle important à jouer pour parler aux communautés locales, former les nouveaux et nouvelles rebelles, renforcer les liens des groupes d'affinité et expérimenter des tactiques qui pourront être utilisées lors de la rébellion d'octobre.
 
-## Ultimatum au Conseil Fédéral || mi-juin
+## Appel au Conseil Fédéral || mi-juin
 
 ![](/assets/img/posts/ultimatum.png)
 
 Après la mi-juin, il n'y aura plus de retour en arrière : nous serons pleinement engagé·es pour une rébellion en automne ! Sauf, bien sûr, si le Conseil fédéral décide enfin de faire comme si la vérité était réelle, de viser la neutralité carbone en 2025 et de convoquer une Assemblée Citoyenne ! 
 
-L'ultimatum sera lancé officiellement à cette date, accompagné d’une action de petite taille mais à fort sacrifice, montrant que les rebelles sont à la fois sympathiques et intrépides.
+L'appel sera lancé officiellement à cette date, accompagné d’une action de petite taille mais à fort sacrifice, montrant que les rebelles sont à la fois sympathiques et intrépides.
 
-L'ultimatum sera accompagné de la publication d'une lettre ouverte soutenant la désobéissance civile non violente comme une forme d'action légitime face à la crise que nous traversons. Soyez prêts et prêtes dès la mi-juin à diffuser cette lettre à grande échelle, l'objectif étant de l'utiliser pour obtenir le plus grand soutien public possible d'ici le mois d'octobre. 
+L'appel sera accompagné de la publication d'une lettre ouverte soutenant la désobéissance civile non violente comme une forme d'action légitime face à la crise que nous traversons. Soyez prêts et prêtes dès la mi-juin à diffuser cette lettre à grande échelle, l'objectif étant de l'utiliser pour obtenir le plus grand soutien public possible d'ici le mois d'octobre. 
 
 Pour un impact maximal, la lettre ouverte sera signée dès sa publication par une sélection de personnalités populaires d'horizons divers. Si vous avez un lien avec de telles personnalités, veuillez contacter [media@xrebellion](mailto:media@xrebellion).
 
