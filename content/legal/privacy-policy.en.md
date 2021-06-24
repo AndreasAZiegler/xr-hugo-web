@@ -1,5 +1,5 @@
 ---
-lang: it
+lang: en
 title: Privacy policy
 slug: privacy-policy
 menu:
