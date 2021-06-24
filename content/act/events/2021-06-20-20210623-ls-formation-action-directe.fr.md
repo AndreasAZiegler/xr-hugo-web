@@ -18,7 +18,7 @@ event_type: nvda
 image: /media/events/formation-action-directe.jpg
 thumb: /media/events/thumb/formation-action-directe.jpg
 external_url: https://www.facebook.com/events/723735748294958
-published: true
+published: false
 ---
 Formation à l'Espace Dickens, salle 1
 

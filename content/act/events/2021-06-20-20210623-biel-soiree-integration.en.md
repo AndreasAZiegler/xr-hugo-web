@@ -18,6 +18,6 @@ event_type: welcome
 image: /media/events/soiree-integration-integrations-abend.jpg
 thumb: /media/events/thumb/soiree-integration-integrations-abend.jpg
 external_url: https://www.facebook.com/events/184611366937672
-published: true
+published: false
 ---
 Viens découvrir comment t'impliquer dans la rébellion !

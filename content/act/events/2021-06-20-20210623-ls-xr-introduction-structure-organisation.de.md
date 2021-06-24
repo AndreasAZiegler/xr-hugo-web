@@ -18,7 +18,7 @@ event_type: welcome
 image: /media/events/so-xr-structure-organisation.jpg
 thumb: /media/events/thumb/so-xr-structure-organisation.jpg
 external_url: https://www.facebook.com/events/167121958646697
-published: true
+published: false
 ---
 ## INSCRIPTIONS
 <https://framaforms.org/structure-et-organisation-introduction-a-xr-23-juin-2021-1619881595>

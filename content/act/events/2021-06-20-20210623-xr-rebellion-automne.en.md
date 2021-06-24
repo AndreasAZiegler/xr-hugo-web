@@ -18,7 +18,7 @@ event_type: talk
 image: /media/events/rebellion-automne-20210623.jpg
 thumb: /media/events/thumb/rebellion-automne-20210623.jpg
 external_url: https://www.facebook.com/events/248047533757586
-published: true
+published: false
 ---
 Présentation de la stratégie nationale d'XR Suisse
 

@@ -18,7 +18,7 @@ event_type: talk
 image: /media/events/urgence-climatique-agissons.jpg
 thumb: /media/events/thumb/urgence-climatique-agissons.jpg
 external_url: https://www.facebook.com/events/4074612229285889
-published: true
+published: false
 ---
 INSCRIPTIONS :\
 <https://framaforms.org/conference-urgence-climatique-agissons-maintenant-ensemble-23-juin-2021-1621780255>
