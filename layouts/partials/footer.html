@@ -1,7 +1,16 @@
 <footer>
 
   <div class="row footer-text">
-    <div class="col-12 col-md text-center text-md-left nav-link text-white"></div>
+    <div class="container text-center text-md-right nav-link text-white">
+      <ul class="footer-nav">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.footer }}
+        <li class="nav-item">
+          <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </div>
   </div>
 
   <!-- JavaScript and dependencies -->

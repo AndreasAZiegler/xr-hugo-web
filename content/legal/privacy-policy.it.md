@@ -1,15 +1,13 @@
 ---
-title: "privacy-policy"
+title: "Politica sulla privacy"
+lang: it
+slug: privacy-policy
 menu:
-  main:
-    enable: "privacy-policy"
-    parent: "privacy-policy"
-    weight: 30
-date: 2021-06-24T17:00:00+02:00
-draft: false
+  footer:
+    name: "Politica sulla privacy"
+    weight: 10
+published: true
 ---
-
-# Privacy Policy / Protection des Données / Datenschutz
 
 Extinction Rébellion Suisse attache une grande importance au traitement responsable des données personnelles. Extinction Rébellion Suisse se conforme à la loi fédérale sur la protection des données et fournit des informations transparentes et véridiques sur la collecte et l’utilisation des données personnelles dans la présente politique de confidentialité - publiée sur le site web sous la rubrique "Privacy-policy". Tout changement sera communiqué ici immédiatement.
 

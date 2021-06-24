@@ -1,3 +1,6 @@
+@import "variables.scss";
+@import "mixins.scss";
+
 // Handy Utility classes
 
 // Background color classes
@@ -31,4 +34,11 @@
 
 .bg-yellow.bg-yellow.bg-yellow {
   background-color: $color-xr-yellow;
+}
+
+// Text positioning
+.text-md-right {
+  @include media-query-min($on-laptop) {
+    text-align: right !important;
+  }
 }
