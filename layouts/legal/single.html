@@ -1,0 +1,18 @@
+{{ define "main" }}
+
+<div class="container post-container">
+
+  <article class="pb-5 pt-md-5" itemscope itemtype="http://schema.org/Legislation">
+    <header>
+      <h1 class="mb-3" itemprop="name">{{ .Title }}</h1>
+    </header>
+
+    <section>
+      {{ .Content }}
+    </section>
+  </article>
+</div>
+
+{{- partial "sign-up.html" . -}}
+
+{{ end }}
