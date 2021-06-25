@@ -8,8 +8,6 @@ menu:
 date: 2021-06-22T15:00:00+0200
 draft: false
 ---
-# Les assemblées citoyennes
-
 La troisième revendication d'Extinction Rebellion est de demander aux gouvernements (au niveau local, cantonal et fédéral) de créer et de se laisser guider par une assemblée citoyenne sur la justice climatique et écologique. Cette structure permettrait à la population de peser réellement sur les décisions liées à la sortie de la crise écologique et d'amener davantage de justice sociale dans le futur.
 
 > _Le vote constitue un effacement, une simplification à l'extrême de ce qu'est la participation politique.\
