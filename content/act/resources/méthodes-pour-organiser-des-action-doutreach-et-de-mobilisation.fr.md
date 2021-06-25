@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Méthodes pour organiser des action d'outreach et de mobilisation
+title: Méthodes pour organiser des actions d'outreach et de mobilisation
 slug: organize-outreach-tutorial
 resource_types:
   - outreach

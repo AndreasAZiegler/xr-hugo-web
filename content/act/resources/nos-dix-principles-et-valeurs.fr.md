@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Nos dix principles et valeurs
+title: Nos dix principes et valeurs
 slug: principles-and-values
 resource_types:
   - outreach
