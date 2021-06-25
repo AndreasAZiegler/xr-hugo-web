@@ -145,6 +145,14 @@ marker1.bindPopup("<b> XR Lausanne </b>	<br>																												<a href=
 var marker24 = L.marker([46.7, 7.3],{icon:xrIcon}).addTo(map);
 marker24.bindPopup("<b> XR Queer Rebels </b><br>								    																				 <a href=https://www.facebook.com/XRqueerrebels target=_blank> <img src=/images/map/fb.svg > </a>");
 
+var marker25 = L.marker([46.325, 6.947],{icon:xrIcon}).addTo(map);
+marker25.bindPopup(
+  '<b>XR Chablais</b><br />'
+  + '<a href="mailto:xr-chablais@protonmail.com">'
+  + '<img src="/images/map/mail.svg" alt="e-mail" />'
+  + '</a>'
+);
+
 marker1.on('mouseover', function(event){  marker1.openPopup(); });
 marker2.on('mouseover', function(event){  marker2.openPopup(); });
 marker3.on('mouseover', function(event){ marker3.openPopup(); });
@@ -169,3 +177,4 @@ marker21.on('mouseover', function(event){marker21.openPopup();});
 marker22.on('mouseover', function(event){marker22.openPopup();});
 marker23.on('mouseover', function(event){marker23.openPopup();});
 marker24.on('mouseover', function(event){marker24.openPopup();});
+marker25.on('mouseover', function(event){marker25.openPopup();});
