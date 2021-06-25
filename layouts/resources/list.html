@@ -2,49 +2,57 @@
 
 <h1 class="page-heading" id="resources-header">{{.Title}}</h1>
 
-<section id="resources-list" class="pt-3 pb-3 bg-light-gray">
   <div class="container">
+<div class="accordion-wrap">
     {{ $unique_resource_types := index .Site.Taxonomies "resource_types" }}
-
     {{ range $unique_resource_type, $val := $unique_resource_types }}
-    <h2> {{ $unique_resource_type }}</h2>
-    <div class="row">
+
+
+<div class="accordion " id="accordion">
+  <div class="accordion-item">
+    <h2 class="accordion-header" id="heading">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_resource_type }}" >
+        {{ $unique_resource_type }}
+      </button>
+    </h2>
+    <div id="collapse{{ $unique_resource_type }}" class="collapse" aria-labelledby="heading{{ $unique_resource_type }}">
+      <div class="accordion-body">
+          <ul>
       {{ range .Pages }}
         {{ if in .Params.resource_types $unique_resource_type }}
-          {{ $randomcolor:= partial "randomcolor.html" . }}
 
-          <div data-id="{{ .Title }}" class="col-sm-12 col-md-6 col-lg-6 col-xl-6 xr-color-box">
-            <div class="card py-md-0 px-md-0 border-0 {{ $randomcolor }} rounded-0">
-              <div class="card-body">
-                <a href="{{ .Permalink }}">
-                  {{ if .Params.thumb }}
-                    <a href="{{ .Params.document | absURL }}" class="event-link">
-                        <img src="{{ .Params.thumb }}" class="img-fluid mx-auto" />
-                    </a>
-                  {{ end }}
+                <li>
 
                   {{ if .Params.document }}
-                    <a href="{{ .Params.document | absURL }}" class="event-link">
-                      <h3 class="event-title card-title country-title ">
-                          {{ .Title }}
-                      </h3>
+                    <a href="{{ .Params.document | absURL }}">
+                       {{ .Title }} 
                     </a>
                   {{ else if .Params.link }}
-                    <a href="{{ urls.Parse .Params.link }}" class="event-link">
-                      <h3 class="event-title card-title country-title ">
-                          {{ .Title }}
-                      </h3>
+                    <a href="{{ urls.Parse .Params.link }}">
+                      {{ .Title }} 
                     </a>
                   {{ end }}
-                </a>
-              </div>
-            </div>
-          </div>
+                </li>
+
         {{ end }}
       {{ end }}
+          </ul>
+      </div>
     </div>
+  </div>
+
+
+</div>
     {{ end }}
   </div>
-</section>
-
+</div>
 {{ end }}
+
+
+
+
+
+
+
+
+
