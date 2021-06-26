@@ -116,6 +116,6 @@ Allez, terminons avec une autre note positive car oui, il y a encore du boulot, 
 \
 Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **Belgique** d'être condamnée pour une politique négligente au niveau climatique. Bien sûr, il aurait été préférable que ces pays n'aient pas eu lieu d'être condamnés, car cela aurait signifié qu'ils respectaient les différents **engagements** en matière de problématique climatique\... Mais, le mal étant fait, c'est absolument nécessaire que ces manquements soient reconnus et condamnés.\
 \
-[[https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016]{.ul}](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)
+[https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)
 
 ##   
