@@ -10,7 +10,7 @@ image: /media/news/slogande-wahrheit.jpg
 thumb: /media/news/slogande-wahrheit.jpg
 published: true
 ---
-# ** Ultima chiamata prima della ribellione!**
+# Ultima chiamata prima della ribellione!
 
 ## **Editoriale**
 
