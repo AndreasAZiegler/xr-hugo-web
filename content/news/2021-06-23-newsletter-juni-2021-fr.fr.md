@@ -51,8 +51,8 @@ Ensuite, **rejoignez** les rebelles. Que vous ayez beaucoup ou peu de temps, que
 
 Pour vous aider à **trouver un rôle**, vous pouvez regarder dans [cet organigramme](https://app.holaspirit.com/public/extinction-rebellion-ch#u0LPpo-xr-ch-anchor-circle) : il est construit en cercles. Chaque cercle possède sa propre page d\'accueil, qui résume son mandat ainsi que ses rôles.
 
-**De plus, l\'équipe de mobilisation est là pour vous soutenir !\
-**[massmobilizationch\@riseup.net]
+**De plus, l\'équipe de mobilisation est là pour vous soutenir !**
+[massmobilizationch\@riseup.net]
 (mailto:massmobilizationch@riseup.net)
 
 Si vous êtes déjà un·e **rebelle engagé·e** et que vous faites de la mobilisation dans votre région, alors vous pouvez trouver [ici](https://drive.google.com/file/d/1w2BoUTFCkLoq1OdOyKBUvfMKlKuE1P-Y/view) des **guides** sur la façon de le faire. Ces guides ne sont pas LA VÉRITÉ sur l\'art de la mobilisation mais peuvent vraiment aider à bien démarrer. Nous cherchons également à **obtenir des retours** de la part de toutes celles et ceux qui expérimentent la mobilisation afin que nous puissions nous améliorer ensemble. Si vous voulez en savoir plus, nous vous encourageons à regarder ces vidéos pour vous inspirer : [ici](https://www.youtube.com/watch?v=yQGAiRn-mi0) et [ici](https://www.youtube.com/watch?v=qohmdl5744g)
