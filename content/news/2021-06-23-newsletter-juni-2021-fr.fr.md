@@ -6,12 +6,13 @@ slug: newsletter-juni-2021-fr
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:13:58+0200
-image: /media/news/slogande-wahrheit.jpg
-thumb: /media/news/slogande-wahrheit.jpg
+image: /media/news/we-want-to-live.png
+thumb: /media/news/we-want-to-live.png
 published: true
 ---
-# Dernier appel avant la rébellion !
+![](static/media/we-want-to-live.png)
 
+# Dernier appel avant la rébellion !
 
 Ça y est ! L'[appel](https://drive.google.com/file/d/1QPUKbzHI3FG7xSHlK79vnVu_ut7kWRti/view?usp=sharing) a été lancé aux autorités ce mardi 22 juin, par le biais d\'une action.\
 Ce texte s'adresse à tous les conseillers fédéraux et toutes les conseillères fédérales et leur demande de dire la vérité sur l'urgence écologique et climatique, sans quoi nous nous verrons forcé·es de nous rebeller !
@@ -117,7 +118,7 @@ N'est-ce pas fou ? Un membre d'une **organisation mondiale** qui prend ses **res
 
 Allez, terminons avec une autre note positive car oui, il y a encore du boulot, mais les choses bougent.\
 \
-Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **[Belgique](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)** d'être condamnée pour une politique négligente au niveau climatique. Bien sûr, il aurait été préférable que ces pays n'aient pas eu lieu d'être condamnés, car cela aurait signifié qu'ils respectaient les différents **engagements** en matière de problématique climatique\... Mais, le mal étant fait, c'est absolument nécessaire que ces manquements soient reconnus et condamnés.\
+Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **[Belgique](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)** d'être condamnée pour une politique négligente au niveau climatique. Bien sûr, il aurait été préférable que ces pays n'aient pas eu lieu d'être condamnés, car cela aurait signifié qu'ils respectaient les différents **engagements** en matière de problématique climatique\... Mais, le mal étant fait, c'est absolument nécessaire que ces manquements soient reconnus et condamnés.
 
 
 --------
