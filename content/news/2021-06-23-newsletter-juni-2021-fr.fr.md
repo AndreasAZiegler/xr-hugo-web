@@ -49,6 +49,8 @@ Silvia, Giorgia et Sabrina pour la traduction.
 
 ## A vous de jouer !
 
+![](https://d8s293fyljwh4.cloudfront.net/petitions/images/524223/horizontal/banniere_FB.jpg?1624106477)
+
 Signez et **partagez** [cette pétition](https://act.campax.org/petitions/on-est-dans-la-merde-dites-la-verite-sur-l-urgence-climatique-et-ecologique/) à un maximum de personnes ; si c'était possible nous vous proposerions même de la faire signer par vos animaux de compagnie, mais la voix de vos potes, de votre famille, de vos collègues, etc. sera déjà tellement significative !\
 \
 Ensuite, **rejoignez** les rebelles. Que vous ayez beaucoup ou peu de temps, que vous soyez prêt·e·s à risquer une arrestation ou non. Il y a plein de rôles différents à prendre et il y en a sûrement un pour vous !
