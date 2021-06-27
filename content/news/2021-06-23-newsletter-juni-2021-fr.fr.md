@@ -31,7 +31,7 @@ Anais et Mélanie l'équipe newsletter.
 
 Silvia, Giorgia et Sabrina pour la traduction.
 
-*Vous voudriez voir le travail de votre groupe dans la prochaine newsletter ? Écrivez à newsletter\@xrebellion.ch*
+*Vous voudriez voir le travail de votre groupe dans la prochaine newsletter ? Écrivez à <newsletter@xrebellion.ch>*
 
 --------
 
@@ -58,8 +58,7 @@ Ensuite, **rejoignez** les rebelles. Que vous ayez beaucoup ou peu de temps, que
 Pour vous aider à **trouver un rôle**, vous pouvez regarder dans [cet organigramme](https://app.holaspirit.com/public/extinction-rebellion-ch#u0LPpo-xr-ch-anchor-circle) : il est construit en cercles. Chaque cercle possède sa propre page d\'accueil, qui résume son mandat ainsi que ses rôles.
 
 **De plus, l\'équipe de mobilisation est là pour vous soutenir !**
-[massmobilizationch\@riseup.net]
-(mailto:massmobilizationch@riseup.net)
+<massmobilizationch@riseup.net>
 
 Si vous êtes déjà un·e **rebelle engagé·e** et que vous faites de la mobilisation dans votre région, alors vous pouvez trouver [ici](https://drive.google.com/file/d/1w2BoUTFCkLoq1OdOyKBUvfMKlKuE1P-Y/view) des **guides** sur la façon de le faire. Ces guides ne sont pas LA VÉRITÉ sur l\'art de la mobilisation mais peuvent vraiment aider à bien démarrer. Nous cherchons également à **obtenir des retours** de la part de toutes celles et ceux qui expérimentent la mobilisation afin que nous puissions nous améliorer ensemble. Si vous voulez en savoir plus, nous vous encourageons à regarder ces vidéos pour vous inspirer : [ici](https://www.youtube.com/watch?v=yQGAiRn-mi0) et [ici](https://www.youtube.com/watch?v=qohmdl5744g)
 
@@ -83,7 +82,7 @@ Comme l'indique [Irène Wettstein](https://www.rts.ch/info/regions/fribourg/1228
 
 Le chemin est encore long jusqu'à la **cour européenne** des droits de l'Homme! Et les rebelles et leurs avocat·es comptent bien l'emprunter jusqu'au bout. De toute façon, d'ici-là, la rébellion aura eu lieu en **octobre**, le gouvernement aura dit la vérité et aura agi pour empêcher la catastrophe climatique et l'effondrement écologique, et les rebelles seront les héros et héroïnes de ce changement 8)
 
-Une des tactiques de la **désobéissance civile non-violente de masse**, un moyen d'action qui a permis, avec succès, d'atteindre de grands et rapides changements dans la société par le passé, est la suivante: que des citoyens et citoyennes ordinaires et pacifiques se fassent délibérément arrêter en grand nombres, de tel sorte à paralyser tout le système, mettre les autorités face à un dilemme insoluble si elles veulent garder leur légitimité et les obliger à négocier avec nous. Alors la meilleure façon d'**aider les rebelles en procès** c'est de venir, vous aussi, vous asseoir sur les routes de Zürich en octobre - ou de soutenir ceux et celles qui le feront ;)
+Une des tactiques de la **désobéissance civile non-violente de masse**, un moyen d'action qui a permis, avec succès, d'atteindre de grands et rapides changements dans la société par le passé, est la suivante: que des citoyens et citoyennes ordinaires et pacifiques se fassent délibérément arrêter en grand nombre, de tel sorte à paralyser tout le système, mettre les autorités face à un dilemme insoluble si elles veulent garder leur légitimité et les obliger à négocier. Alors la meilleure façon d'**aider les rebelles en procès** c'est de venir, vous aussi, vous asseoir sur les routes de Zürich en octobre - ou de soutenir ceux et celles qui le feront ;)
 
 
 --------
