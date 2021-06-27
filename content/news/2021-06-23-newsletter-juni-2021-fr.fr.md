@@ -10,7 +10,7 @@ image: /media/news/we-want-to-live.png
 thumb: /media/news/we-want-to-live.png
 published: true
 ---
-![](static/media/we-want-to-live.png)
+![](/media/news/we-want-to-live.png)
 
 # Dernier appel avant la rébellion !
 
