@@ -94,9 +94,11 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 
 ## Game over for predators \| Chapitre 1 \| 18 juin
 
+<img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/202238647_2461722597306309_627262381888261225_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ya96I_oKyLUAX-vSgEn&_nc_ht=scontent-zrh1-1.xx&oh=3373198b7c112707d909f305a4d21ce4&oe=60DEE353" alt="drawing" width="800"/>
+
+
 Game Over pour les prédateurs est une **action internationale** qui va se dérouler en plusieurs chapitres. Elle a pour but de dénoncer les décisions prises par les multinationales suisses, financées elles-mêmes par des institutions financières suisses. Celles-ci ont un énorme impact négatif, tant environnemental que social sur toute la planète et cela est inacceptable !
 
- 
 
 Pour le premier chapitre, qui a eu lieu le 18 juin dernier, des rebelles se sont rendus à Genève pour dénoncer **l'entreprise Ethos**.\
 Vous trouverez [ici](https://xrlausanne.ch/gameover/?fbclid=IwAR0OFzNa4iL6EI_67dDzkL89psZHFg0OtUYlRNefErnt-g8yIkNkxUa08_o) un article très complet expliquant la démarche entreprise :\
@@ -109,6 +111,8 @@ Tous les activistes gardent l'espoir que le **chapitre 2** pourra se faire comme
 
 ## Doctors for XR
 
+<img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/194538976_357928712338315_1258304257556446975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=sQix1BWtDA8AX8nFrOA&_nc_ht=scontent-zrh1-1.xx&oh=c0453327f807042b9f10489c1c5e9929&oe=60DD1575" alt="Dr Tedros receives the rebels in Geneva" width="800"/>
+
 Lors de l'assemblée générale de l'OMS du 29 mai 2021, son Directeur général, Dr Tedros Adhanom Ghebreyesus, a lu et porté les revendications des Doctors for XR.
 
 N'est-ce pas fou ? Un membre d'une **organisation mondiale** qui prend ses **responsabilités** et lance un appel clair aux ministres de la santé en annonçant que cela sera le plus grand défi sanitaire du 21ème siècle !!!\
@@ -118,6 +122,9 @@ N'est-ce pas fou ? Un membre d'une **organisation mondiale** qui prend ses **res
 --------
 
 # International
+
+<img src="https://www.desmog.com/wp-content/uploads/2021/03/Lawyers-Declare-XR-protestor-RCJ_JohNPaulBrown.jpg" alt="Dr Tedros receives the rebels in Geneva" width="800"/>
+
 
 Allez, terminons avec une autre note positive car oui, il y a encore du boulot, mais les choses bougent.\
 \
