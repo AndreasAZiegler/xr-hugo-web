@@ -6,23 +6,23 @@ slug: 20210626-Biel-zivilen-ungehorsam-desobeissance-civile
 author: XR Biel
 branch: Biel
 publishdate: 2021-06-21T20:00:00+0200
-date: 2021-06-26T11:30:00+0200
+date: 2021-07-17T11:30:00+0200
 event_loc_name: Terrain Gurzelen
 event_loc_street_name: Allée de la Champagne
 event_loc_street_num: 2
 event_loc_addressLocality: Bienne
-event_loc_addressRegion: Bern
+event_loc_addressRegion: Berne
 event_loc_postalCode: 2502
-event_loc_country: Switzerland
+event_loc_country: Suisse
 event_type: nvda
 image: /media/events/zivilen-ungehorsam-desobeissance-civile.jpg
 thumb: /media/events/thumb/zivilen-ungehorsam-desobeissance-civile.jpg
 online_meeting_url: 
-external_url: https://www.facebook.com/events/193795312621904
+external_url: https://www.facebook.com/events/1385351778504291
 published: true
 ---
 Inscription :\
-<https://framaforms.org/formation-a-la-desobeissance-civile-non-violente-training-in-gewaltfreiem-zivilen-ungehorsam>
+https://framaforms.org/formation-a-la-desobeissance-civile-non-violente-training-in-gewaltfreiem-zivilen-ungehorsam-0
 
 Buts de la formation :
 - Présenter les raisons d’employer la désobéissance civile non-violente.
