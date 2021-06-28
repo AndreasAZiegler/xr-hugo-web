@@ -6,7 +6,7 @@ slug: newsletter-juni-2021-DE
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:01:42+0200
-image: /media/news/we-want-to-live.png
+image: /media/news/oms.png
 thumb: /media/news/we-want-to-live.png
 published: true
 ---
@@ -26,11 +26,12 @@ Damit das funktioniert, braucht die Rebellion die **Energie** von vielen! Helfen
 
 Mit Wut, mit Liebe\... und mit allem, was wir noch haben
 
-Anais und Mélanie das Newsletter-Team
+Anais und Mélanie, das Newsletter-Team
 
 Silvia, Giorgia und Sabrina für die Übersetzung
 
-*Möchten Sie die Arbeit Ihrer Gruppe im nächsten Newsletter sehen? Schreiben Sie an newsletter\@xrebellion.ch*
+*Möchten Sie die Arbeit Ihrer Gruppe im nächsten Newsletter sehen? Schreiben Sie an <newsletter@xrebellion.ch>*
+
 -----
 # **INHALT**
 
@@ -43,6 +44,8 @@ Silvia, Giorgia und Sabrina für die Übersetzung
 -   **International**
 -----
 ## **Es liegt an Ihnen!**
+
+![](/media/news/OMS.png)
 
 **Unterschreiben** Sie und teilen Sie [diese Petition](https://act.campax.org/petitions/wir-stecken-in-der-scheisse-sagt-die-wahrheit-uber-die-klimakrise-und-okologischen-kollaps) mit so vielen Menschen wie möglich; wenn möglich, würden wir sogar vorschlagen, dass Sie Ihre Haustiere dazu bringen, sie zu unterschreiben, aber die Stimme Ihrer Freunde, Familie, Kollegen, etc. wird so viel bedeuten!
 
