@@ -39,7 +39,7 @@ Silvia, Giorgia et Sabrina pour la traduction.
 
 -   **A vous de jouer !**
 
--   **Procès**
+-   **Les rebelles défient les tribunaux**
 
 -   **Compte-rendu d'actions**
 
@@ -72,7 +72,7 @@ C\'est parti, c\'est MAINTENANT
 
 (et tant qu'à faire de chercher les ennuis, n'oublions pas de le faire en s'amusant!
 
-## Procès
+## Les rebelles défient les tribunaux
 
 ![](/media/news/frib.jpg)
 
