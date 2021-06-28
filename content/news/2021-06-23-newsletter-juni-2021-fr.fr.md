@@ -6,7 +6,7 @@ slug: newsletter-juni-2021-fr
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:13:58+0200
-image: /media/news/we-want-to-live.png
+image: /media/news/frib.jpg
 thumb: /media/news/oms.png
 published: true
 ---
@@ -74,7 +74,7 @@ C\'est parti, c\'est MAINTENANT
 
 ## Procès
 
-<img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/190849729_586760625595152_8691413354360976859_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=730e14&_nc_ohc=nOJ6FpXcKaQAX8xMd3Y&tn=M0qKhVP37QIRy5Cr&_nc_ht=scontent-zrh1-1.xx&oh=613d8746f6a7441d1774a775fc1bc710&oe=60DE6AC9" alt="drawing" width="800"/>
+![](/media/news/frib.jpg)
 
 Vous pensez que printemps et procès n'ont rien à voir ensemble hormis le fait qu'ils commencent par la première lettre ? Détrompez-vous ! Ce **printemps** montre un tournant dans la rébellion au niveau pénal avec de nombreux procès en cours. Il est tellement important que les tribunaux, considérés comme le troisième pouvoir, puissent participer aux changements pour que les rebelles soient reconnu.es dans leur rôle de défenseurs et défenseuses du vivant !\
 \
