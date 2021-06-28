@@ -13,12 +13,21 @@
       {{ end }}
 
       <div class="action-date" itemprop="startDate" content="{{ .Params.event_date }}">
-        {{ if .Params.date }}
-          {{ .Params.date.Format "2 January 2006, 15:04" }}
-          {{ if .Params.time }}
-            {{ .Params.time }}
+        {{ if and .Params.date .Params.date_end }}
+          {{ if eq (substr .Params.date 0 10) (substr .Params.date_end 0 10) }}
+            {{ dateFormat "2 January 2006" .Params.date }},
+            {{ with .Site.GetPage "/act/events" }} {{ .Params.time_from }} {{ end }}
+            {{ dateFormat "15:04" .Params.date }}
+            {{ with .Site.GetPage "/act/events" }} {{ .Params.time_to }} {{ end }}
+            {{ dateFormat "15:04" .Params.date_end }}
           {{ else }}
+            {{ with .Site.GetPage "/act/events" }} {{ humanize .Params.time_from }} {{ end }}
+            {{ dateFormat "2 January 2006, 15:04" .Params.date }}
+            {{ with .Site.GetPage "/act/events" }} {{ .Params.time_to }} {{ end }}
+            {{ dateFormat "2 January 2006, 15:04" .Params.date_end }}
           {{ end }}
+        {{ else if .Params.date }}
+          {{ .Params.date.Format "2 January 2006, 15:04" }}
         {{ end }}
       </div>
 

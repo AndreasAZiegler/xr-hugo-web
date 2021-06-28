@@ -38,7 +38,10 @@
     <div class="row">
       {{ $limit_date := time (substr (now.AddDate 0 0 0) 0 10) "Local" }}
       {{ range sort .Pages ".Params.date" "asc" }}
-      {{ if ge .Params.date $limit_date }}
+      {{ if or
+        (and (ne .Params.date_end nil) (ge (time .Params.date_end "Local") $limit_date))
+        (and (eq .Params.date_end nil) (ge .Params.date $limit_date))
+      }}
       <div class="filterDiv event_type_{{ .Params.event_type }} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
         {{ $type := .Params.event_type }}
         {{ $bg := "bg-purple" }}
@@ -64,7 +67,19 @@
               </a>
             </h3>
             <div class="card-date">
-              {{ .Params.date.Format "02.01.2006, 15:04" }}
+              {{ if and .Params.date .Params.date_end }}
+                {{ if eq (substr .Params.date 0 10) (substr .Params.date_end 0 10) }}
+                  {{ dateFormat "02.01.2006, 15:04" .Params.date }}
+                  -
+                  {{ dateFormat "15:04" .Params.date_end }}
+                {{ else }}
+                  {{ dateFormat "02.01.2006" .Params.date }}
+                  -
+                  {{ dateFormat "02.01.2006" .Params.date_end }}
+                {{ end }}
+              {{ else if .Params.date }}
+                {{ .Params.date.Format "02.01.2006, 15:04" }}
+              {{ end }}
             </div>
             <div class="card-venue">
               {{ .Params.event_loc_addressLocality }}
