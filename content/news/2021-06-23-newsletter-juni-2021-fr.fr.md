@@ -7,7 +7,7 @@ author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:13:58+0200
 image: /media/news/we-want-to-live.png
-thumb: /media/news/we-want-to-live.png
+thumb: /media/news/oms.png
 published: true
 ---
 ![](/media/news/we-want-to-live.png)
@@ -90,7 +90,7 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 --------
 #  Compte-rendu d'actions
 
-*Trouvez l'inspiration pour vos prochaines actions ! Votre action ne figure pas ici? À l'avenir,* envoyez vos compte-rendus à newsletter\@xrebellion.ch
+*Trouvez l'inspiration pour vos prochaines actions ! Votre action ne figure pas ici? À l'avenir,* envoyez vos compte-rendus à <newsletter@xrebellion.ch>
 
 ## Game over for predators \| Chapitre 1 \| 18 juin
 
@@ -112,7 +112,7 @@ Tous les activistes gardent l'espoir que le **chapitre 2** pourra se faire comme
 
 ## Doctors for XR
 
-<img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/194538976_357928712338315_1258304257556446975_n.jpg?_nc_cat=105&ccb=1-3&_nc_sid=0debeb&_nc_ohc=sQix1BWtDA8AX8nFrOA&_nc_ht=scontent-zrh1-1.xx&oh=c0453327f807042b9f10489c1c5e9929&oe=60DD1575" alt="Dr Tedros receives the rebels in Geneva" width="800"/>
+![](/media/news/oms.png)
 
 Lors de l'assemblée générale de l'OMS du 29 mai 2021, son Directeur général, Dr Tedros Adhanom Ghebreyesus, a lu et porté les revendications des Doctors for XR.
 
@@ -124,7 +124,7 @@ N'est-ce pas fou ? Un membre d'une **organisation mondiale** qui prend ses **res
 
 # International
 
-<img src="https://www.desmog.com/wp-content/uploads/2021/03/Lawyers-Declare-XR-protestor-RCJ_JohNPaulBrown.jpg" alt="Dr Tedros receives the rebels in Geneva" width="800"/>
+![](https://www.desmog.com/wp-content/uploads/2021/03/Lawyers-Declare-XR-protestor-RCJ_JohNPaulBrown.jpg)
 
 
 Allez, terminons avec une autre note positive car oui, il y a encore du boulot, mais les choses bougent.\
@@ -136,7 +136,7 @@ Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **[Belgique](htt
 
 ## MERCI
 
-![](/static/media/love.jpg)
+![](/media/news/love.jpg)
 
 Alors que nous entrons dans une phase cruciale de l'histoire de l'humanité, notre rébellion aura besoin d'argent pour s'assurer que notre message sera entendu. [Tout ce que vous pouvez donner](https://www.xrebellion.ch//donate/) est apprécié.
 
