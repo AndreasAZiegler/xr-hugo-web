@@ -39,7 +39,7 @@ Silvia, Giorgia e Sabrina per la traduzione
 
 -   **Dipende da voi!**
 
--   **Processi**
+-   **I ribelli sfidano i tribunali**
 
 -   **Rapporto delle azioni**
 
@@ -73,7 +73,7 @@ Andiamo, è ORA
 (e divertiamoci tutti insieme!)
 
 ------
-## Processi
+## I ribelli sfidano i tribunali
 
 ![](/media/news/frib.jpg)
 
