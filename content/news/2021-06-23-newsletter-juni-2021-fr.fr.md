@@ -6,8 +6,8 @@ slug: newsletter-juni-2021-fr
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:13:58+0200
-image: /media/news/justice.jpg
-thumb: /media/news/oms.png
+image: /media/news/we-want-to-live.png
+thumb: /media/news/we-want-to-live.png
 published: true
 ---
 ![](/media/news/we-want-to-live.png)
@@ -94,9 +94,7 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 
 ## Game over for predators \| Chapitre 1 \| 18 juin
 
-<img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/202238647_2461722597306309_627262381888261225_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ya96I_oKyLUAX-vSgEn&_nc_ht=scontent-zrh1-1.xx&oh=3373198b7c112707d909f305a4d21ce4&oe=60DEE353" alt="drawing" width="800"/>
-
-![](https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/202238647_2461722597306309_627262381888261225_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ya96I_oKyLUAX-vSgEn&_nc_ht=scontent-zrh1-1.xx&oh=3373198b7c112707d909f305a4d21ce4&oe=60DEE353)
+![](/media/news/oms.jpg)
 
 Game Over pour les prédateurs est une **action internationale** qui va se dérouler en plusieurs chapitres. Elle a pour but de dénoncer les décisions prises par les multinationales suisses, financées elles-mêmes par des institutions financières suisses. Celles-ci ont un énorme impact négatif, tant environnemental que social sur toute la planète et cela est inacceptable !
 
