@@ -31,7 +31,7 @@ Anais e Mélanie il team della newsletter
 
 Silvia, Giorgia e Sabrina per la traduzione
 
-*Vi piacerebbe vedere il lavoro del vostro gruppo nella prossima newsletter? Scrivete a [newsletter\@xrebellion.ch](mailto:newsletter@xrebellion.ch)*
+*Vi piacerebbe vedere il lavoro del vostro gruppo nella prossima newsletter? Scrivete a <newsletter@xrebellion.ch>*
 
 -----
 
@@ -48,6 +48,8 @@ Silvia, Giorgia e Sabrina per la traduzione
 -----
 
 # **Dipende da voi!**
+
+![](https://d8s293fyljwh4.cloudfront.net/petitions/images/524225/horizontal/banniere_FB_IT.jpg?1624179310)
 
 Firmate e **condividete** [questa petizione](https://act.campax.org/petitions/siamo-nella-merda-dite-la-verita-sull-emergenza-climatica-e-ecologia) con quante più persone possibile; vi suggeriamo di farla firmare anche ai vostri animali domestici, ma la voce deə vostrə amicə, familiari, colleghə, ecc. significherà molto!
 
