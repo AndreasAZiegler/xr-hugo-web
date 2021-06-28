@@ -39,7 +39,7 @@ Silvia, Giorgia und Sabrina für die Übersetzung
 
 -   **Es liegt an Ihnen!**
 
--   **Versuch**
+-   **Prozessen**
 
 -   **Bericht über die Aktionen**
 
@@ -70,7 +70,7 @@ Los geht\'s, es ist JETZT
 (und lasst uns alle zusammen Spaß haben!)
 
 ------
-## **Versuch**
+## **Prozessen**
 
 ![](/media/news/frib.jpg)
 
@@ -84,7 +84,7 @@ Bis zum **Europäischen Gerichtshof** für Menschenrechte ist es noch ein weiter
 
 Eine der Taktiken des **massenhaften zivilen Ungehorsams**, die in der Vergangenheit sehr erfolgreich war, besteht darin, dass gewöhnliche, friedliche Bürger*innen absichtlich in einer solchen Anzahl verhaftet werden, dass das gesamte System gelähmt wird - und die Behörden vor einem unlösbaren Dilemma stehen, um ihre Legitimität zu erhalten. Der beste Weg, den **Rebell\*innen** vor Gericht **zu helfen**, ist also, im Oktober in Zürich auf die Straße zu gehen - oder diejenigen zu unterstützen, die es tun ;)
 
-
+Eine Zusammenfassung der verschiedenen Studien (regelmäßig aktualisiert) finden Sie [hier](https://drive.google.com/drive/folders/1aWLti7o-_EEGMuCZjy1W1YpI9jtpHMUs).
 
 -----
 # **Bericht über die Aktionen**
