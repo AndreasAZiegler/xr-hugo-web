@@ -86,6 +86,8 @@ Le chemin est encore long jusqu'à la **cour européenne** des droits de l'Homme
 
 Une des tactiques de la **désobéissance civile non-violente de masse**, un moyen d'action qui a permis, avec succès, d'atteindre de grands et rapides changements dans la société par le passé, est la suivante: que des citoyens et citoyennes ordinaires et pacifiques se fassent délibérément arrêter en grand nombre, de tel sorte à paralyser tout le système, mettre les autorités face à un dilemme insoluble si elles veulent garder leur légitimité et les obliger à négocier. Alors la meilleure façon d'**aider les rebelles en procès** c'est de venir, vous aussi, vous asseoir sur les routes de Zürich en octobre - ou de soutenir ceux et celles qui le feront ;)
 
+Vous trouverez un résumé des différents procès (régulièrement mis à jour) [ici](https://drive.google.com/drive/folders/1aWLti7o-_EEGMuCZjy1W1YpI9jtpHMUs)!
+
 
 --------
 #  Compte-rendu d'actions
