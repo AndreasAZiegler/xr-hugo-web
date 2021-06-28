@@ -8,8 +8,6 @@ menu:
 date: 2021-06-22T15:00:00+0200
 draft: false
 ---
-# Bürger:innenversammlungen
-
 Von der Arbeitsgruppe [Bürger:innenversammlung der Schweiz
 für die klimatische und ökologische Krise](https://citizens-democracy.ch/?lang=de)
 
