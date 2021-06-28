@@ -1,6 +1,6 @@
 {{ if .IsTranslated }}
 {{ i18n "translations" }}
-<ul>
+<ul class="nav navbar-nav">
     {{ range .Translations }}
     <li class="list-inline-item nav-item h5 fw-bold link-light">
         <a  class="nav-link" href="{{ .Permalink }}">{{ .Language.LanguageName }}</a>

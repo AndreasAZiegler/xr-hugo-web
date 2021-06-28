@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Comment inscrire de nouvelles personnes dan la base de données
+title: Comment inscrire de nouvelles personnes dans la base de données
 slug: register-people-tutorial
 resource_types:
   - outreach

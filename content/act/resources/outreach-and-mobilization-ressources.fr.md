@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Outreach and mobilization ressources
+title: Ressources outreach & mobilisation
 slug: outreach-landing-page
 resource_types:
   - outreach
