@@ -41,7 +41,7 @@ Silvia, Giorgia et Sabrina pour la traduction.
 
 -   **Procès**
 
--   **Compte-rendu des actions**
+-   **Compte-rendu d'actions**
 
 -   **International**
 
@@ -88,7 +88,7 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 
 
 --------
-#  Compte-rendu des actions
+#  Compte-rendu d'actions
 
 *Trouvez l'inspiration pour vos prochaines actions ! Votre action ne figure pas ici? À l'avenir,* envoyez vos compte-rendus à newsletter\@xrebellion.ch
 
@@ -96,6 +96,7 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 
 <img src="https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/202238647_2461722597306309_627262381888261225_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ya96I_oKyLUAX-vSgEn&_nc_ht=scontent-zrh1-1.xx&oh=3373198b7c112707d909f305a4d21ce4&oe=60DEE353" alt="drawing" width="800"/>
 
+![](https://scontent-zrh1-1.xx.fbcdn.net/v/t1.6435-9/202238647_2461722597306309_627262381888261225_n.jpg?_nc_cat=109&ccb=1-3&_nc_sid=730e14&_nc_ohc=Ya96I_oKyLUAX-vSgEn&_nc_ht=scontent-zrh1-1.xx&oh=3373198b7c112707d909f305a4d21ce4&oe=60DEE353)
 
 Game Over pour les prédateurs est une **action internationale** qui va se dérouler en plusieurs chapitres. Elle a pour but de dénoncer les décisions prises par les multinationales suisses, financées elles-mêmes par des institutions financières suisses. Celles-ci ont un énorme impact négatif, tant environnemental que social sur toute la planète et cela est inacceptable !
 
@@ -135,7 +136,7 @@ Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **[Belgique](htt
 
 ## MERCI
 
-![](/assets/img/posts/love.jpg)
+![](/static/media/love.jpg)
 
 Alors que nous entrons dans une phase cruciale de l'histoire de l'humanité, notre rébellion aura besoin d'argent pour s'assurer que notre message sera entendu. [Tout ce que vous pouvez donner](https://www.xrebellion.ch//donate/) est apprécié.
 
