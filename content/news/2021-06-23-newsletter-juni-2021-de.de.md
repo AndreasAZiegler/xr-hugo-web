@@ -39,7 +39,7 @@ Silvia, Giorgia und Sabrina für die Übersetzung
 
 -   **Es liegt an Ihnen!**
 
--   **Prozessen**
+-   **Rebell\*innen trotzen den Gerichten**
 
 -   **Bericht über die Aktionen**
 
@@ -70,7 +70,7 @@ Los geht\'s, es ist JETZT
 (und lasst uns alle zusammen Spaß haben!)
 
 ------
-## **Prozessen**
+## **Rebell\*innen trotzen den Gerichten**
 
 ![](/media/news/frib.jpg)
 
@@ -84,7 +84,7 @@ Bis zum **Europäischen Gerichtshof** für Menschenrechte ist es noch ein weiter
 
 Eine der Taktiken des **massenhaften zivilen Ungehorsams**, die in der Vergangenheit sehr erfolgreich war, besteht darin, dass gewöhnliche, friedliche Bürger*innen absichtlich in einer solchen Anzahl verhaftet werden, dass das gesamte System gelähmt wird - und die Behörden vor einem unlösbaren Dilemma stehen, um ihre Legitimität zu erhalten. Der beste Weg, den **Rebell\*innen** vor Gericht **zu helfen**, ist also, im Oktober in Zürich auf die Straße zu gehen - oder diejenigen zu unterstützen, die es tun ;)
 
-Eine Zusammenfassung der verschiedenen Studien (regelmäßig aktualisiert) finden Sie [hier](https://drive.google.com/drive/folders/1aWLti7o-_EEGMuCZjy1W1YpI9jtpHMUs).
+
 
 -----
 # **Bericht über die Aktionen**
@@ -99,9 +99,7 @@ Für dieses erste Kapitel sind die Rebell*innen von XR Lausanne nach Genf gefahr
 
 Sie finden [hier](https://xrlausanne.ch/gameover/?fbclid=IwAR0OFzNa4iL6EI_67dDzkL89psZHFg0OtUYlRNefErnt-g8yIkNkxUa08_o) ihren sehr vollständigen Artikel, der ihren Ansatz erklärt:
 
-**Was die Rebell*innen bekamen:** Lassen Sie sich nicht täuschen, Ethos sucht nicht dasselbe wie die Rebell*innen, im Gegensatz zu dem, was ihr CEO sagte. In den nächsten Tagen werden die Lausanner Rebell*innen zusammen mit dem Team \"Negotiation and Messages\" all dies sezieren und Ethos sehr konkrete Vorschläge unterbreiten. Diese Vorschläge werden jedem Teilnehmer der Aktion vom 18. Juni vorgelegt, so dass sie zusammengenommen werden können, wie es am Aktionsort der Fall war. Es reicht nicht aus, dass Ethos eine Sitzung des Stiftungsrates einberuft und die Kommunikation ändert! Der Direktor wollte Vorschläge, die Rebell*innen werden sie machen - mit Ihnen - und sie werden den Herausforderungen gewachsen sein, denen wir uns stellen!
-
-https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html
+**Was die Rebell*innen bekamen:** Lassen Sie sich nicht täuschen, Ethos sucht nicht dasselbe wie die Rebell*innen, [im Gegensatz zu dem, was ihr CEO sagte](https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html). In den nächsten Tagen werden die Lausanner Rebell*innen zusammen mit dem Team \"Negotiation and Messages\" all dies sezieren und Ethos sehr konkrete Vorschläge unterbreiten. Diese Vorschläge werden jedem Teilnehmer der Aktion vom 18. Juni vorgelegt, so dass sie zusammengenommen werden können, wie es am Aktionsort der Fall war. Es reicht nicht aus, dass Ethos eine Sitzung des Stiftungsrates einberuft und die Kommunikation ändert! Der Direktor wollte Vorschläge, die Rebell*innen werden sie machen - mit Ihnen - und sie werden den Herausforderungen gewachsen sein, denen wir uns stellen!
 
 **Und international?** Leider konnten mehrere Aktionen aus gesundheitlichen Gründen (Philadelphia und Oslo) oder wegen staatlicher Repressionen (Nigeria) nicht stattfinden.
 
