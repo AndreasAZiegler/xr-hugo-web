@@ -94,7 +94,7 @@ Une des tactiques de la **désobéissance civile non-violente de masse**, un moy
 
 ## Game over for predators \| Chapitre 1 \| 18 juin
 
-![](/media/news/oms.jpg)
+![](/media/news/ethos.jpg)
 
 Game Over pour les prédateurs est une **action internationale** qui va se dérouler en plusieurs chapitres. Elle a pour but de dénoncer les décisions prises par les multinationales suisses, financées elles-mêmes par des institutions financières suisses. Celles-ci ont un énorme impact négatif, tant environnemental que social sur toute la planète et cela est inacceptable !
 
