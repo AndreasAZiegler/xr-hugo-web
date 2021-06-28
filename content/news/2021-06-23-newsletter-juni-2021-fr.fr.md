@@ -6,7 +6,7 @@ slug: newsletter-juni-2021-fr
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:13:58+0200
-image: /media/news/frib.jpg
+image: /media/news/justice.jpg
 thumb: /media/news/oms.png
 published: true
 ---
@@ -124,7 +124,7 @@ N'est-ce pas fou ? Un membre d'une **organisation mondiale** qui prend ses **res
 
 # International
 
-![](https://www.desmog.com/wp-content/uploads/2021/03/Lawyers-Declare-XR-protestor-RCJ_JohNPaulBrown.jpg)
+![](/media/news/justice.jpg)
 
 
 Allez, terminons avec une autre note positive car oui, il y a encore du boulot, mais les choses bougent.\
