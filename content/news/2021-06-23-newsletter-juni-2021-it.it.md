@@ -10,6 +10,8 @@ image: /media/news/we-want-to-live.png
 thumb: /media/news/we-want-to-live.png
 published: true
 ---
+![](/media/news/we-want-to-live.png)
+
 # Ultima chiamata prima della ribellione!
 
 Ci siamo! L\'[appello](https://drive.google.com/file/d/1NP0vhHXoGbIftBjwCNGDbYq2zlptv70q/view?usp=sharing) è stato lanciato alle autorità martedì 22 giugno, attraverso un\'azione.
@@ -71,6 +73,8 @@ Andiamo, è ORA
 ------
 ## Processi
 
+![](/media/news/frib.jpg)
+
 Pensate che primavera e processi non abbiano niente a che vedere l\'uno con l\'altro, tranne il fatto che iniziano con la stessa lettera? Ripensateci! Questa **primavera** mostra una svolta nella ribellione a livello giuridico con molti processi in corso. È così importante che i tribunali, considerati il terzo potere, possano partecipare ai cambiamenti affinché ə ribelli siano riconosciuti nel loro ruolo di difesa dei diritti della vita!
 
 Purtroppo, alcuni giudici non hanno ancora capito l'**immensità** di ciò che viene denunciato attraverso queste azioni, ma abbiamo l\'impressione che la Corte federale stia tergiversando.
@@ -81,15 +85,17 @@ C\'è ancora molta strada da fare per arrivare alla **Corte europea dei diritti 
 
 Una delle tattiche della **disobbedienza civile di massa**, che ha avuto molto successo in passato, è che cittadinə comuni e pacificə vengano deliberatamente arrestatə in gran numero, in modo da paralizzare l'intero sistema, mettendo le autorità in un dilemma impossibile da risolvere se vogliono mantenere la loro legittimità e saranno quindi costrette a negoziare con noi. Quindi, il modo migliore per **aiutare ə ribelli sotto processo**, è venire a sedersi sulle strade di Zurigo in ottobre o sostenere quelli che lo faranno ;)
 
-Potete trovare un riassunto dei diversi processi [qui](https://docs.google.com/document/d/1_1I4Bis_Mb8x1tvruQ3jBlajxQOdiq0D7xd5jZdmlrQ/edit#heading=h.29lrx6vmtsud) (sarà aggiornato regolarmente):
+Potete trovare un riassunto dei diversi processi [qui](https://docs.google.com/document/d/1_1I4Bis_Mb8x1tvruQ3jBlajxQOdiq0D7xd5jZdmlrQ/edit#heading=h.29lrx6vmtsud) (sarà aggiornato regolarmente)
 
 ----
 
 # **Rapporto delle azioni**
 
-*Trova l\'ispirazione per la tua prossima azione! La tua azione non è elencata qui? In futuro, inviate i vostri rapporti a newsletter\@xrebellion.ch*
+*Trova l\'ispirazione per la tua prossima azione! La tua azione non è elencata qui? In futuro, inviate i vostri rapporti a <newsletter@xrebellion.ch>*
 
 ## **Game over for predators \| Capitolo 1 \| 18 giugno**
+
+![](/media/news/ethos.jpg)
 
 Si tratta di un\'**azione internazionale** che si svolgerà in diversi capitoli. Con questa azione, ə ribelli vogliono dimostrare che le decisioni prese dalle multinazionali svizzere, finanziate dalle banche svizzere, hanno un enorme impatto negativo, sia ambientale, sia sociale su tutto il nostro pianeta e che non possiamo più accettarlo!
 
@@ -105,6 +111,8 @@ Tuttə ə attivistə rimangono speranzosə che il **Capitolo 2** possa svolgersi
 
 ## **Doctors for XR**
 
+![](/media/news/oms.png)
+
 All\'assemblea generale dell\'OMS del 29 maggio 2021, il suo direttore generale, il dottor Tedros Adhanom Ghebreyesus, ha letto le rivendicazioni di Doctors for RX.
 
 Non è pazzesco? Un **membro di un\'organizzazione mondiale** che si assume la **responsabilità** e fa un chiaro appello ai ministri della salute! E per di più annuncia che questa sarà la più grande sfida sanitaria del 21° secolo!!!
@@ -114,6 +122,8 @@ Non è pazzesco? Un **membro di un\'organizzazione mondiale** che si assume la *
 ----
 ## **Internazionale**
 
+![](/media/news/justice.jpg)
+
 Dai, finiamo con un\'altra nota di speranza perché sì, c\'è ancora del lavoro da fare, ma le cose si stanno muovendo.
 
 Dopo i **Paesi Bassi** e la **Germania**, è il turno del **Belgio** di essere condannato per una politica climatica negligente. Certo, sarebbe stato meglio se questi paesi non fossero stati condannati perché ciò avrebbe significato che stavano rispettando i vari **impegni** in materia di clima\... Ma, essendo stato fatto il danno, è assolutamente necessario che questi fallimenti siano riconosciuti e condannati.
@@ -122,7 +132,7 @@ Dopo i **Paesi Bassi** e la **Germania**, è il turno del **Belgio** di essere c
 
 ## GRAZIE
 
-![](/assets/img/posts/love.jpg)
+![](media/news/love.jpg)
 
 Mentre entriamo in questa fase cruciale della storia umana, la nostra Ribellione avrà bisogno di denaro per far sì che il nostro messaggio sia ascoltato. [Tutto ciò che potete donare](https://www.xrebellion.ch//donate/) è ben accetto.
 
