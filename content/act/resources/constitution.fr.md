@@ -1,5 +1,5 @@
 ---
-title: XR Switzerland Costituzione 
+title: Constitution XR Suisse
 lang: fr
 type: resources
 document: 

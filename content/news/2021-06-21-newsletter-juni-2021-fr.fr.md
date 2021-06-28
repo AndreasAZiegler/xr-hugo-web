@@ -14,7 +14,7 @@ published: false
 
 ## Editorial
 
-Ça y est ! L'[\[appel]{.ul}](https://drive.google.com/file/d/1QPUKbzHI3FG7xSHlK79vnVu_ut7kWRti/view?usp=sharing) a été lancé aux autorités ce mardi 22 juin, par le biais d'une action.\
+Ça y est ! L'\[[appel]{.ul}](https://drive.google.com/file/d/1QPUKbzHI3FG7xSHlK79vnVu_ut7kWRti/view?usp=sharing) a été lancé aux autorités ce mardi 22 juin, par le biais d'une action.\
 Ce texte s'adresse à tous les conseillers fédéraux et toutes les conseillères fédérales et leur demande de dire la vérité sur l'urgence écologique et climatique, sans quoi nous nous verrons forcé·es de nous rebeller !
 
 Vous aussi, vous aviez toujours pensé que ce n'était pas possible ? Que cela n'arriverait pas ? Que nos politiciens et politiciennes ne laisseraient jamais les choses se dégrader au point de mettre en péril nos vies ? Que tout allait s'arranger ? Et pourtant... leurs engagements continuent d'être largement insuffisants. Alors, les actions pour amener le gouvernement à **prendre ses responsabilités** et remplir son devoir de protection face à la population s'organisent !
@@ -23,7 +23,7 @@ Car si nos dirigeants et dirigeantes ne veulent pas voir le **danger** arriver, 
 \
 Pour que cela fonctionne, la rébellion aura besoin de **l'énergie** du plus grand nombre ! Aidez-nous dans cette tâche, en montrant à Guy, Alain, Simonetta et leurs collègues que nous sommes nombreux et nombreuses à ne plus supporter leur immobilisme, que la **survie** de toutes et tous est en jeu et qu'il est juste **intolérable** de ne rien faire !
 
-[\[Communiqué de presse]{.ul}](https://www.xrebellion.ch/fr/press/pressreleases/on-est-dans-la-merde-dites-enfin-la-v%C3%A9rit%C3%A9-d%C3%A9clarez-lurgence-climatique/)
+\[[Communiqué de presse]{.ul}](https://www.xrebellion.ch/fr/press/pressreleases/on-est-dans-la-merde-dites-enfin-la-v%C3%A9rit%C3%A9-d%C3%A9clarez-lurgence-climatique/)
 
 # SOMMAIRE
 
@@ -34,17 +34,17 @@ Pour que cela fonctionne, la rébellion aura besoin de **l'énergie** du plus gr
 
 ## A vous de jouer !
 
-Signez et **partagez** [\[cette pétition]{.ul}](https://act.campax.org/petitions/on-est-dans-la-merde-dites-la-verite-sur-l-urgence-climatique-et-ecologique/) à un maximum de personnes ; si c'était possible nous vous proposerions même de la faire signer par vos animaux de compagnie, mais la voix de vos potes, de votre famille, de vos collègues, etc. sera déjà tellement significative !\
+Signez et **partagez** \[[cette pétition]{.ul}](https://act.campax.org/petitions/on-est-dans-la-merde-dites-la-verite-sur-l-urgence-climatique-et-ecologique/) à un maximum de personnes ; si c'était possible nous vous proposerions même de la faire signer par vos animaux de compagnie, mais la voix de vos potes, de votre famille, de vos collègues, etc. sera déjà tellement significative !\
 \
 Ensuite, **rejoignez** les rebelles. Que vous ayez beaucoup ou peu de temps, que vous soyez prêt·e·s à risquer une arrestation ou non. Il y a plein de rôles différents à prendre et il y en a sûrement un pour vous !
 
-Pour vous aider à **trouver un rôle**, vous pouvez regarder dans [\[cet organigramme]{.ul}](https://app.holaspirit.com/public/extinction-rebellion-ch#u0LPpo-xr-ch-anchor-circle) : il est construit en cercles. Chaque cercle possède sa propre page d'accueil, qui résume son mandat ainsi que ses rôles.
+Pour vous aider à **trouver un rôle**, vous pouvez regarder dans \[[cet organigramme]{.ul}](https://app.holaspirit.com/public/extinction-rebellion-ch#u0LPpo-xr-ch-anchor-circle) : il est construit en cercles. Chaque cercle possède sa propre page d'accueil, qui résume son mandat ainsi que ses rôles.
 
-**De plus, l'équipe de mobilisation est là pour vous soutenir !**[\[massmobilizationch@riseup.net]{.ul}](mailto:massmobilizationch@riseup.net).
+**De plus, l'équipe de mobilisation est là pour vous soutenir !**\[[massmobilizationch@riseup.net]{.ul}](mailto:massmobilizationch@riseup.net).
 
-Si vous êtes déjà un·e **rebelle engagé·e** et que vous faites de la mobilisation dans votre région, alors vous pouvez trouver [\[ici]{.ul}](https://drive.google.com/file/d/1w2BoUTFCkLoq1OdOyKBUvfMKlKuE1P-Y/view) des **guides** sur la façon de le faire. Ces guides ne sont pas LA VÉRITÉ sur l'art de la mobilisation mais peuvent vraiment aider à bien démarrer. Nous cherchons également à **obtenir des retours** de la part de toutes celles et ceux qui expérimentent la mobilisation afin que nous puissions nous améliorer ensemble. Si vous voulez en savoir plus, nous vous encourageons à regarder ces vidéos pour vous inspirer : [\[ici]{.ul}](https://www.youtube.com/watch?v=yQGAiRn-mi0) et [\[ici]{.ul}](https://www.youtube.com/watch?v=qohmdl5744g)
+Si vous êtes déjà un·e **rebelle engagé·e** et que vous faites de la mobilisation dans votre région, alors vous pouvez trouver \[[ici]{.ul}](https://drive.google.com/file/d/1w2BoUTFCkLoq1OdOyKBUvfMKlKuE1P-Y/view) des **guides** sur la façon de le faire. Ces guides ne sont pas LA VÉRITÉ sur l'art de la mobilisation mais peuvent vraiment aider à bien démarrer. Nous cherchons également à **obtenir des retours** de la part de toutes celles et ceux qui expérimentent la mobilisation afin que nous puissions nous améliorer ensemble. Si vous voulez en savoir plus, nous vous encourageons à regarder ces vidéos pour vous inspirer : \[[ici]{.ul}](https://www.youtube.com/watch?v=yQGAiRn-mi0) et \[[ici]{.ul}](https://www.youtube.com/watch?v=qohmdl5744g)
 
-Vous pouvez également **créer votre propre groupe** de [\[mobilisation locale]{.ul}](https://drive.google.com/file/d/1w7DBP2jFOyvb1ui8twJymTll4t9WeTrz/view), afin de d'engager des gens dans la rébellion.\
+Vous pouvez également **créer votre propre groupe** de \[[mobilisation locale]{.ul}](https://drive.google.com/file/d/1w7DBP2jFOyvb1ui8twJymTll4t9WeTrz/view), afin de d'engager des gens dans la rébellion.\
 \
 Pour mieux **comprendre la rébellion**, le groupe de Lausanne propose également une semaine de conférences, formations, ateliers, etc. autour de la rébellion.\
 \
@@ -68,7 +68,7 @@ Vous pensez que printemps et procès n'ont rien à voir ensemble hormis le fait 
 \
 Malheureusement, certain.es juges n'ont pas encore compris **l'ampleur** de ce qui est dénoncé à travers les actions des activistes pour le climat, mais nous sentons que le Tribunal Fédéral est en tergiversation.
 
-Comme l'indique [\[Irène Wettstein]{.ul}](https://www.rts.ch/info/regions/fribourg/12287052-peines-confirmees-pour-les-activistes-du-climat-a-fribourg.html) (avocate), durant le mois dernier, il y a eu **2 arrêts contradictoires**. Un premier concernant le blocage d'UBS par les activistes de la Grève du Climat, pour lequel le Tribunal Fédéral a reconnu le droit à la liberté de réunion et d'expression, et un mois plus tard, ces mêmes libertés qui ont été contestées lors du verdict pour l'action Block Friday. Il est encore possible de **changer cette jurisprudence** ; il ne faut rien lâcher et continuer de secouer le système tel un cocotier, car ce sera le meilleur moyen d'en obtenir des fruits !
+Comme l'indique \[[Irène Wettstein]{.ul}](https://www.rts.ch/info/regions/fribourg/12287052-peines-confirmees-pour-les-activistes-du-climat-a-fribourg.html) (avocate), durant le mois dernier, il y a eu **2 arrêts contradictoires**. Un premier concernant le blocage d'UBS par les activistes de la Grève du Climat, pour lequel le Tribunal Fédéral a reconnu le droit à la liberté de réunion et d'expression, et un mois plus tard, ces mêmes libertés qui ont été contestées lors du verdict pour l'action Block Friday. Il est encore possible de **changer cette jurisprudence** ; il ne faut rien lâcher et continuer de secouer le système tel un cocotier, car ce sera le meilleur moyen d'en obtenir des fruits !
 
 Photo procès Fribourg ou autre
 
@@ -85,11 +85,11 @@ Vous trouverez un résumé des différents procès, ici (il sera régulièrement
 Game Over pour les prédateurs est une **action internationale** qui va se dérouler en plusieurs chapitres. Elle a pour but de dénoncer les décisions prises par les multinationales suisses, financées elles-mêmes par des institutions financières suisses. Celles-ci ont un énorme impact négatif, tant environnemental que social sur toute la planète et cela est inacceptable !
 
 Pour le premier chapitre, qui a eu lieu le 18 juin dernier, des rebelles se sont rendus à Genève pour dénoncer **l'entreprise Ethos**.\
-Vous trouverez [\[ici]{.ul}](https://xrlausanne.ch/gameover/?fbclid=IwAR0OFzNa4iL6EI_67dDzkL89psZHFg0OtUYlRNefErnt-g8yIkNkxUa08_o) un article très complet expliquant la démarche entreprise :\
+Vous trouverez \[[ici]{.ul}](https://xrlausanne.ch/gameover/?fbclid=IwAR0OFzNa4iL6EI_67dDzkL89psZHFg0OtUYlRNefErnt-g8yIkNkxUa08_o) un article très complet expliquant la démarche entreprise :\
 \
 **Ce que les rebelles ont obtenu :** Ne nous y trompons pas, Ethos ne cherche pas à atteindre les mêmes objectifs que les rebelles, contrairement à ce qu'a dit son CEO. Dans les prochaines semaines, les rebelles de Lausanne vont s'employer, en collaboration avec la team "négociation et messages", à faire des propositions très concrètes à Ethos. Il ne suffira pas qu'Ethos convoque une réunion à son conseil de fondation et change sa communication! Le directeur souhaitait des propositions, les rebelles en feront - avec vous - et elles seront à la hauteur des enjeux qui sont les nôtres !\
 \
-[\[https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html]{.ul}](https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html)\
+\[[https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html]{.ul}](https://www.rts.ch/info/regions/geneve/12289103-extinction-rebellion-sen-prend-a-la-fondation-ethos.html)\
 \
 **Et à l'international** ? Malheureusement, plusieurs actions n'ont pu avoir lieu à cause des restrictions sanitaires (Philadelphie et Oslo) ou à cause de la répression du gouvernement (Nigeria).
 
@@ -97,11 +97,11 @@ Tous les activistes gardent l'espoir que le **chapitre 2** pourra se faire comme
 
 ## Rebellion academy | du 11 au 17 juillet
 
-Le groupe de Lausanne vous propose, sur **7 jours, 30 événements à choix** à l'[\[Espace Dicken]{.ul}](https://www.espace-dickens.ch/)s.
+Le groupe de Lausanne vous propose, sur **7 jours, 30 événements à choix** à l'\[[Espace Dicken]{.ul}](https://www.espace-dickens.ch/)s.
 
 Un programme qui n'a qu'un but : vous donner accès à une multitude d'activités pour porter la Rébellion à son apogée (conférences, formations et informations, débats, ateliers, ...).
 
-[\[https://xrlausanne.ch/event/rebellion-academy-du-11-au-17-juillet-2021/]{.ul}](https://xrlausanne.ch/event/rebellion-academy-du-11-au-17-juillet-2021/)
+\[[https://xrlausanne.ch/event/rebellion-academy-du-11-au-17-juillet-2021/]{.ul}](https://xrlausanne.ch/event/rebellion-academy-du-11-au-17-juillet-2021/)
 
 ## Doctors for XR
 
@@ -117,4 +117,6 @@ Allez, terminons avec une autre note positive car oui, il y a encore du boulot, 
 \
 Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **Belgique** d'être condamnée pour une politique négligente au niveau climatique. Bien sûr, il aurait été préférable que ces pays n'aient pas eu lieu d'être condamnés, car cela aurait signifié qu'ils respectaient les différents **engagements** en matière de problématique climatique... Mais, le mal étant fait, c'est absolument nécessaire que ces manquements soient reconnus et condamnés.\
 \
-[\[https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016]{.ul}](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)
+\[[https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016]{.ul}](https://www.lematin.ch/story/le-gouvernement-belge-condamne-pour-sa-politique-climatique-842889216016)
+
+[/media/news/2019-06-06-bern-blood-image.jpg](blob:https://www.xrebellion.ch/2f6ec94c-33da-4af4-a413-4a8466df5646)

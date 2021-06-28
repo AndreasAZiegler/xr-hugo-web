@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Cercled d'engagement
+title: Cercles d'engagement
 slug: circles-of-engagement
 resource_types:
   - outreach

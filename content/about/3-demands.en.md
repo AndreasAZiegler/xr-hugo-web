@@ -20,7 +20,7 @@ So far our governments are failing spectacularly to protect us. To survive, itâ€
 
 1. The Government must tell the truth about how deadly our situation is, declare a climate and biodiversity emergency, it must reverse all policies not in alignment with that position and must work alongside the media to communicate the urgency for change including what individuals and communities need to do.
 
-2. Greenhouse gas emissions from all sectors are reduced to net zero by 2025 and ecological overshoot is reversed through a massive emergency mobilization, dedicating half our economy to the transition. The new goals of society must be to rapidly restore a safer, cooler climate and to provide maximum protection for all people and species, especially the most vulnerable.
+2. Greenhouse gas emissions from all sectors are reduced to net zero by 2025 and ecological overshoot is reversed through a massive emergency mobilization. The new goals of society must be to rapidly restore a safer, cooler climate and to provide maximum protection for all people and species, especially the most vulnerable.
 
 3. Local, cantonal, national and international citizensâ€˜ assemblies based upon more robust forms of participatory democracy\* are created to work out how the above two aims will be brought about in their particular contexts, prioritizing the needs of people and species most affected by the ecological crisis, and to ensure that the [Universal Declaration of Human Rights](https://www.un.org/en/universal-declaration-human-rights/) is followed.
 
