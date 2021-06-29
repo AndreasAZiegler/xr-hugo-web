@@ -26,9 +26,9 @@
           {{/* Else, event takes place over several days: display its full */}}
           {{/* start date and end date. */}}
           {{ else }}
-            {{ with .Site.GetPage "/act/events" }} {{ humanize .Params.time_from }} {{ end }}
+            {{ with .Site.GetPage "/act/events" }} {{ humanize .Params.date_from }} {{ end }}
             {{ dateFormat "2 January 2006, 15:04" .Params.date }}
-            {{ with .Site.GetPage "/act/events" }} {{ .Params.time_to }} {{ end }}
+            {{ with .Site.GetPage "/act/events" }} {{ .Params.date_to }} {{ end }}
             {{ dateFormat "2 January 2006, 15:04" .Params.date_end }}
           {{ end }}
         {{/* End date is not given: just display the start date. */}}
