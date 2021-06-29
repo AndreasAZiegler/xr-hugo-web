@@ -87,6 +87,7 @@ collections:
         timeFormat: "HH:mm"
         format: "YYYY-MM-DDTHH:mm:ss+0200"
         pickerUtc: false
+        default: ""
       - label: "Event location name"
         name: "event_loc_name"
         widget: "string"
