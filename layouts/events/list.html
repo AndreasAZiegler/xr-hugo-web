@@ -36,9 +36,21 @@
 <section id="calendar" class="evenements">
   <div class="container">
     <div class="row">
+      {{/* Define a datetime limit to be the present day at 0:00. */}}
       {{ $limit_date := time (substr (now.AddDate 0 0 0) 0 10) "Local" }}
       {{ range sort .Pages ".Params.date" "asc" }}
-      {{ if ge .Params.date $limit_date }}
+
+      {{/* Render only events which: */}}
+      {{/* - end date is given (= not unset, "ne" "nil"), and this end date */}}
+      {{/*   is later than the limit; */}}
+      {{/* - OR end date is not given (= is unset, "eq" "nil"), and then */}}
+      {{/*   the start date is later than the limit. */}}
+      {{/* Other events, even if published, are considered as over, and */}}
+      {{/* will not be displayed in the list anymore. */}}
+      {{ if or
+        (and (ne .Params.date_end nil) (ge (time .Params.date_end "Local") $limit_date))
+        (and (eq .Params.date_end nil) (ge .Params.date $limit_date))
+      }}
       <div class="filterDiv event_type_{{ .Params.event_type }} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
         {{ $type := .Params.event_type }}
         {{ $bg := "bg-purple" }}
@@ -64,7 +76,25 @@
               </a>
             </h3>
             <div class="card-date">
-              {{ .Params.date.Format "02.01.2006, 15:04" }}
+              {{/* An end date is given: display start and end dates accordingly. */}}
+              {{ if and .Params.date .Params.date_end }}
+                {{/* Event takes place on a single day (the 10 first chars of the */}}
+                {{/* datetimes are the same): display its unique date + time slot. */}}
+                {{ if eq (substr .Params.date 0 10) (substr .Params.date_end 0 10) }}
+                  {{ dateFormat "02.01.2006, 15:04" .Params.date }}
+                  -
+                  {{ dateFormat "15:04" .Params.date_end }}
+                {{/* Else, event takes place over several days: display its full */}}
+                {{/* start date and end date. */}}
+                {{ else }}
+                  {{ dateFormat "02.01.2006" .Params.date }}
+                  -
+                  {{ dateFormat "02.01.2006" .Params.date_end }}
+                {{ end }}
+              {{/* End date is not given: just display the start date. */}}
+              {{ else if .Params.date }}
+                {{ .Params.date.Format "02.01.2006, 15:04" }}
+              {{ end }}
             </div>
             <div class="card-venue">
               {{ .Params.event_loc_addressLocality }}

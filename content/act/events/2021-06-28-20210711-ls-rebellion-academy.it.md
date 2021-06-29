@@ -7,6 +7,7 @@ author: XR Lausanne
 branch: Lausanne
 publishdate: 2021-06-28T15:00:00+0200
 date: 2021-07-11T09:00:00+0200
+date_end: 2021-07-17T21:00:00+0200
 event_loc_name: Espace Dickens
 event_loc_street_name: Avenue Charles Dickens
 event_loc_street_num: 6
