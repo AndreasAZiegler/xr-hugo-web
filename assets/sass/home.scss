@@ -23,7 +23,7 @@ header.home-header {
     $petition-color: #caff11ff;
 
     background-image: url('/images/petition.png');
-    background-color: #caff11ff;
+    background-color: $petition-color;
     background-attachment: initial;
     background-position: center bottom;
 
@@ -32,7 +32,16 @@ header.home-header {
     }
 
     .intro-text {
+      padding-top: 1.5rem;
+      padding-bottom: 9rem;
+
+      @include media-query-min($on-laptop) {
+        padding-top: 3rem;
+        padding-bottom: 7rem;
+      }
+
       .intro-heading {
+        margin-bottom: 1.5rem;
         text-shadow: 3px 3px 2px $color-xr-white;
       }
     }
