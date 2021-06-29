@@ -13,6 +13,10 @@ online_registration: Inscription en ligne
 see_also: Voir également
 published_on: Publié le
 by: par
+date_from: du
+date_to: au
+time_from: de
+time_to: à
 draft: false
 ---
 

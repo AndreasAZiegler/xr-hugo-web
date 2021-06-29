@@ -13,6 +13,10 @@ online_registration: Online Anmeldung
 see_also: Siehe auch
 published_on: Veröffentlicht am
 by: von
+date_from: vom
+date_to: bis
+time_from: von
+time_to: bis
 draft: false
 ---
 
