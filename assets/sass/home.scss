@@ -18,6 +18,35 @@ header.home-header {
   @include background-cover;
   text-align: center;
   color: white;
+
+  &.petition {
+    $petition-color: #caff11ff;
+
+    background-image: url('/images/petition.png');
+    background-color: $petition-color;
+    background-attachment: initial;
+    background-position: center bottom;
+
+    @include media-query-min($on-palm) {
+      background-image: url('/images/petition-desktop.png');
+    }
+
+    .intro-text {
+      padding-top: 1.5rem;
+      padding-bottom: 9rem;
+
+      @include media-query-min($on-laptop) {
+        padding-top: 3rem;
+        padding-bottom: 7rem;
+      }
+
+      .intro-heading {
+        margin-bottom: 1.5rem;
+        text-shadow: 3px 3px 2px $color-xr-white;
+      }
+    }
+  }
+
   .intro-text {
     color: $gray-base;
     padding-top: 100px;
