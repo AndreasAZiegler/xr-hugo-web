@@ -7,7 +7,7 @@ author: XR Global
 branch: Global
 publishdate: 2021-06-22T14:00:00+0200
 date: 2021-07-14T20:00:00+0200
-date: 2021-07-14T23:00:00+0200
+date_end: 2021-07-14T23:00:00+0200
 event_loc_name:
 event_loc_street_name:
 event_loc_street_num:

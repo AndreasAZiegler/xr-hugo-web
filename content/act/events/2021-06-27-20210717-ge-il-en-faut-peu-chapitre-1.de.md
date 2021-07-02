@@ -7,7 +7,7 @@ author: XR Geneva
 branch: Geneva
 publishdate: 2021-06-27T10:45:00+0200
 date: 2021-07-17T08:00:00+0200
-date: 2021-07-17T18:00:00+0200
+date_end: 2021-07-17T18:00:00+0200
 event_loc_name: 
 event_loc_street_name: 
 event_loc_street_num: 
