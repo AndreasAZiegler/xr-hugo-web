@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: en
-title: Engagement Circle
+title: Engagement Circles
 slug: "engagement "
 resource_types:
   - outreach
