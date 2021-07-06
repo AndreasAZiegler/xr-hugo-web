@@ -1,8 +1,8 @@
 ---
 type: blogpost
 lang: de
-title: " Newsletter Schweiz - juni 2021 : "
-slug: newsletter-juni-2021-DE
+title: " Newsletter Schweiz - juni 2021: "
+slug: newsletter-juni-2021-de
 author: Newsletter team
 branch: XR switzerland
 publishdate: 2021-06-23T21:01:42+0200
@@ -130,6 +130,6 @@ Nach den **Niederlanden** und **Deutschland** ist nun [**Belgien**](https://www.
 
 ![](/media/news/love.jpg)
 
-Wenn wir in diese entscheidende Phase der Menschheitsgeschichte eintreten, wird unsere Rebellion auch Geld für Material brauchen, um sicherzustellen, dass unsere Botschaft gehört wird. [Jede Spende, jede Zuwendung](https://www.xrebellion.ch//donate/), die deinen Möglichkeiten entspricht, ist herzlich willkommen. 
+Wenn wir in diese entscheidende Phase der Menschheitsgeschichte eintreten, wird unsere Rebellion auch Geld für Material brauchen, um sicherzustellen, dass unsere Botschaft gehört wird. [Jede Spende, jede Zuwendung](https://www.xrebellion.ch/de/donate/), die deinen Möglichkeiten entspricht, ist herzlich willkommen. 
 
-Die Rebellion braucht **auch uns alle**. Du kannst die Rebellion mit ein wenig Zeit auf so viele verschiedene Arten unterstützen! Triff dich mit der [nächsten Ortsgruppe](www.xrebellion.ch/branches), oder wende dich mit deinen Fragen an das Newsletter-Team <newsletter@xrebellion.ch>
+Die Rebellion braucht **auch uns alle**. Du kannst die Rebellion mit ein wenig Zeit auf so viele verschiedene Arten unterstützen! Triff dich mit der [nächsten Ortsgruppe](https://www.xrebellion.ch/de/act/localgroups/), oder wende dich mit deinen Fragen an das Newsletter-Team <newsletter@xrebellion.ch>
