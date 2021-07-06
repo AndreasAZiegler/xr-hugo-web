@@ -136,7 +136,7 @@ Dopo i **Paesi Bassi** e la **Germania**, è il turno del **Belgio** di essere c
 
 ![](media/news/love.jpg)
 
-Mentre entriamo in questa fase cruciale della storia umana, la nostra Ribellione avrà bisogno di denaro per far sì che il nostro messaggio sia ascoltato. [Tutto ciò che potete donare](https://www.xrebellion.ch//donate/) è ben accetto.
+Mentre entriamo in questa fase cruciale della storia umana, la nostra Ribellione avrà bisogno di denaro per far sì che il nostro messaggio sia ascoltato. [Tutto ciò che potete donare](https://www.xrebellion.ch/it/donate/) è ben accetto.
 
-La Ribellione ha bisogno anche di tutti noi. Potete dedicare un po' del vostro tempo in tanti modi diversi! Visitate il vostro [gruppo locale](www.xrebellion.ch/branches), o contattate il team della newsletter per qualsiasi domanda: <newsletter@xrebellion.ch>
+La Ribellione ha bisogno anche di tutti noi. Potete dedicare un po' del vostro tempo in tanti modi diversi! Visitate il vostro [gruppo locale](https://www.xrebellion.ch/it/act/localgroups/), o contattate il team della newsletter per qualsiasi domanda: <newsletter@xrebellion.ch>
 
