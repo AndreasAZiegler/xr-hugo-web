@@ -1,10 +1,10 @@
 ---
 type: resources
-lang: en
-title: "Landing Page for Outreach & Mobilization resources "
+lang: fr
+title: "Landing Page pour les ressources d'outreach et de mobilisation "
 slug: landingpage-outreach&mob
 resource_types:
   - outreach
-document: /media/resources/landingpageen.pdf
+document: /media/resources/landingpagefr.pdf
 published: true
 ---
