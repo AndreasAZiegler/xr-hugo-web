@@ -4,7 +4,7 @@ lang: en
 title: Facilitating XR working group meetings
 slug: facilitating-training
 resource_types:
-  - self-organization-system
+  - self-organizing-system
 link: https://youtu.be/1CgvpkVWX1A
 published: true
 ---

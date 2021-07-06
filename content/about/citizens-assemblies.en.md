@@ -8,8 +8,6 @@ menu:
 date: 2021-06-22T15:00:00+0200
 draft: false
 ---
-# Citizens' assemblies
-
 The third demand of Extinction Rebellion is to ask governments (at the local, cantonal and federal level) to create and be guided by a citizens' assembly on climate and ecological justice. This structure would allow the population to have a real influence on the decisions related to the exit of the ecological breakdown and to bring more social justice in the future.
 
 > _Voting constitutes an erasure, an oversimplification of what political participation is.\

@@ -8,8 +8,6 @@ menu:
 date: 2021-06-22T15:00:00+0200
 draft: false
 ---
-# Assemblee dei cittadine
-
 Dal gruppo di lavoro delle [Assemblea dei Cittadini della Svizzera sulla crisi ecologica e climatica](https://citizens-democracy.ch/?lang=it)
 
 Tabella dei contenuti:
