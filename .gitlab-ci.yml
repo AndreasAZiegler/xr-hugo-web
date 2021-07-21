@@ -60,7 +60,7 @@ develop--deploy:
     - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/backup_dev'
 
     # Transfer files
-    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
+    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@$SERVER_IP:/home/hvoajxlo/upload/
 
     # Move new files into place
     #- ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_dev'
@@ -101,7 +101,7 @@ master-deploy:
     - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/backup_main'
 
     # Transfer files
-    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
+    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@$SERVER_IP:/home/hvoajxlo/upload/
 
     # Move new files into place
     #- ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_main'
