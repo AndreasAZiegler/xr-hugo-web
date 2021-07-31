@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Comment faire du porte-à-porte
+title: "Guide: Comment faire du porte-à-porte"
 slug: doorknocking
 resource_types:
   - outreach
