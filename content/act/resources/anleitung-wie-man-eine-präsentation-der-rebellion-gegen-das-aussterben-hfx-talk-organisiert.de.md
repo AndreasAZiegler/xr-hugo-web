@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: de
-title: "Anleitung: Wie man eine Präsentation der Rebellion gegen das Aussterben
+title: "Anleitung: wie man eine Präsentation der Rebellion gegen das Aussterben
   (HFX talk) organisiert"
 slug: HFX
 resource_types:
