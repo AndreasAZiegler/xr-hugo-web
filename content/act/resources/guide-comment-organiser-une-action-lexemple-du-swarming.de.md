@@ -1,6 +1,6 @@
 ---
 type: resources
-lang: de
+lang: fr
 title: "Guide: Comment organiser une action (l'exemple du swarming)"
 slug: how-swarming
 resource_types:
