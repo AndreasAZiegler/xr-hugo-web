@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Comment faire de l'affichage
+title: "Guide: Comment faire de l'affichage"
 slug: postering
 resource_types:
   - outreach
