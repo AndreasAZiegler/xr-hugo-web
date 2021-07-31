@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Comment créer un plan de mobilisation pour son groupe local
+title: "Guide: Comment créer un plan de mobilisation pour son groupe local"
 slug: mobplan
 resource_types:
   - outreach
