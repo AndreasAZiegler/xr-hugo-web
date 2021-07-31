@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: de
-title: Wie man einen Stand haltet und mit Leuten Spricht
+title: "Anleitung: Wie man einen Stand haltet und mit Leuten Spricht"
 slug: how stand
 resource_types:
   - outreach
