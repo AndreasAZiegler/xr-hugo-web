@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: fr
-title: Comment tenir un stand et parler aux gens
+title: "Guide: Comment tenir un stand et parler aux gens"
 slug: how stand
 resource_types:
   - outreach
