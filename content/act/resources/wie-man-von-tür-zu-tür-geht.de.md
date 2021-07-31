@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: de
-title: Wie man von Tür-zu-Tür geht
+title: "Anleitung: Wie man von Tür-zu-Tür geht"
 slug: doorknocking
 resource_types:
   - outreach
