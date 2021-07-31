@@ -1,7 +1,7 @@
 ---
 type: resources
 lang: de
-title: "Wie man plakatiert "
+title: "Anleitung: Wie man plakatiert "
 slug: postering
 resource_types:
   - outreach
