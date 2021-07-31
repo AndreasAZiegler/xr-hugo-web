@@ -1,7 +1,8 @@
 ---
 type: resources
-lang: fr
-title: Comment organiser une action (l'exemple du swarming)
+lang: de
+title: "Wie kann man eine Aktion organisieren (Beispiel: das swarming)(im
+  Dokument: für die deutsche Version nach unten scrollen )"
 slug: how-swarming
 resource_types:
   - outreach
