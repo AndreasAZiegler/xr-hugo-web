@@ -319,7 +319,7 @@ collections:
         name: "resource_types"
         widget: "select"
         multiple: true
-        options: ["intern", "outreach", "self-organizing-system", "action", "legal", "media", "technical", "regenerative-culture", "strategy"]
+        options: ["intern", "outreach-and-mobilisation", "outreach-und-mobilisierung", "outreach-et mobilisation", "outreach e mobilitazione", "self-organizing-system", "action", "legal", "media", "technical", "regenerative-culture", "strategy"]
         required: true
       - label: "Thumb"
         name: "thumb"
