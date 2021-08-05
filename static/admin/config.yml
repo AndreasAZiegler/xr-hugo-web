@@ -83,7 +83,7 @@ collections:
       - label: "Event end date"
         name: "date_end"
         widget: "datetime"
-        required: false
+        required: true
         timeFormat: "HH:mm"
         format: "YYYY-MM-DDTHH:mm:ss+0200"
         pickerUtc: false
