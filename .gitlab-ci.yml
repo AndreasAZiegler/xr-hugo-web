@@ -1,5 +1,5 @@
 image:
-  name: klakegg/hugo:ext-alpine-ci
+  name: klakegg/hugo:0.86.1-ext-alpine-ci
   entrypoint: ["/bin/sh", "-c"]
 
 develop-build:
