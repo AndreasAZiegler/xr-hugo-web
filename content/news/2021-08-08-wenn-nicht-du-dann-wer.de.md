@@ -1,8 +1,8 @@
 ---
 type: blogpost
 lang: de
-title: Wenn nicht du, dann wer?
-slug: wenn-nicht-du-dann-wer
+title: Wenn nicht du, wer dann?
+slug: wenn-nicht-du-wer-dann
 author: Media&Messaging Team
 branch: XR Switzerland
 publishdate: 2021-08-08T19:22:05+0200
