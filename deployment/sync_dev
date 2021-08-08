@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Sync development site
-rsync -av --delete /home/hvoajxlo/upload/ /home/hvoajxlo/dev.xrebellion.ch/
+rsync -av --delete /home/hvoajxlo/upload/ /home/hvoajxlo/public_html/dev/
