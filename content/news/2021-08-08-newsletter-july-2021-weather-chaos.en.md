@@ -10,9 +10,7 @@ image: /media/news/rsz_unnamed.jpg
 thumb: /media/news/rsz_unnamed.jpg
 published: true
 ---
-
-
-![](/media/unnamed.jpeg)
+![](/media/rsz_unnamed.jpg)
 
 Zurich, July 12th 2021
 
