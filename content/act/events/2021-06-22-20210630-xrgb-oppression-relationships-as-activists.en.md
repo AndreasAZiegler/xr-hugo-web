@@ -6,7 +6,8 @@ slug: 20210630-XRGlobal-oppression-relationships-as-activists
 author: XR Global
 branch: Global
 publishdate: 2021-06-22T14:00:00+0200
-date: 2021-06-30T20:00:00+0200
+date: 2021-07-14T20:00:00+0200
+date_end: 2021-07-14T23:00:00+0200
 event_loc_name: 
 event_loc_street_name: 
 event_loc_street_num: 
@@ -19,7 +20,7 @@ image: /media/events/oppression-relationships-as-activists.jpg
 thumb: /media/events/thumb/oppression-relationships-as-activists.jpg
 online_meeting_url:
 online_registration_url: https://docs.google.com/document/d/1IlfSWHdGMUXN8jNOuVTeGChXyH6g7zMSghetz9JDVLU
-external_url: https://www.facebook.com/events/301228508121526
+external_url: https://www.facebook.com/events/325906152320428
 published: true
 ---
 _**Note:** We've experienced large numbers of people registering for this workshop and not turning up. This prevents others from registering and attending because the workshop is sold out. So we ask you to only book if you can attend and cancel your ticket in good time if you find you can't make it._

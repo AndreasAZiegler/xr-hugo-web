@@ -138,7 +138,7 @@ Après les **Pays-Bas** et l'**Allemagne**, c'est au tour de la **[Belgique](htt
 
 ![](/media/news/love.jpg)
 
-Alors que nous entrons dans une phase cruciale de l'histoire de l'humanité, notre rébellion aura besoin d'argent pour s'assurer que notre message sera entendu. [Tout ce que vous pouvez donner](https://www.xrebellion.ch//donate/) est apprécié.
+Alors que nous entrons dans une phase cruciale de l'histoire de l'humanité, notre rébellion aura besoin d'argent pour s'assurer que notre message sera entendu. [Tout ce que vous pouvez donner](https://www.xrebellion.ch/fr/donate/) est apprécié.
 
-La Rébellion a également besoin de **nous tous·tes**. Vous pouvez donner de votre temps de tellement de façons différentes ! Rejoignez votre [groupe local](www.xrebellion.ch/branches), ou contactez l'équipe newsletter pour toute question à l'adresse suivante : <newsletter@xrebellion.ch> 
+La Rébellion a également besoin de **nous tous·tes**. Vous pouvez donner de votre temps de tellement de façons différentes ! Rejoignez votre [groupe local](https://www.xrebellion.ch/fr/act/localgroups/), ou contactez l'équipe newsletter pour toute question à l'adresse suivante : <newsletter@xrebellion.ch> 
 

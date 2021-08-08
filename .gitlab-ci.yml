@@ -1,5 +1,5 @@
 image:
-  name: klakegg/hugo:ext-alpine-ci
+  name: klakegg/hugo:0.86.1-ext-alpine-ci
   entrypoint: ["/bin/sh", "-c"]
 
 develop-build:
@@ -56,13 +56,13 @@ develop--deploy:
 
   script:
     # Backup old version
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_dev'
+    - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/backup_dev'
 
     # Transfer files
-    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
+    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@$SERVER_IP:/home/hvoajxlo/upload/
 
     # Move new files into place
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_dev'
+    - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/sync_dev'
 
   only:
     - develop
@@ -95,13 +95,13 @@ master-deploy:
 
   script:
     # Backup old version
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/backup_main'
+    - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/backup_main'
 
     # Transfer files
-    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@185.165.170.81:/home/hvoajxlo/upload/
+    - rsync -aq --delete -e ssh -z -r public/ hvoajxlo@$SERVER_IP:/home/hvoajxlo/upload/
 
     # Move new files into place
-    - ssh hvoajxlo@185.165.170.81 '/home/hvoajxlo/bin/sync_main'
+    - ssh hvoajxlo@$SERVER_IP '/home/hvoajxlo/bin/sync_main'
 
   only:
     - master
