@@ -1,0 +1,31 @@
+---
+type: blogpost
+lang: en
+title: If not you, who?
+slug: If-not-you-who
+author: Media&Messaging Team
+branch: XR Switzerland
+publishdate: 2021-08-08T19:03:43+0200
+image: /media/news/2019-04-15-action-lausanne.jpeg
+thumb: /media/news/2019-04-15-action-lausanne.jpeg
+published: false
+---
+
+
+![](/media/5002eb0a-c267-4dd0-8a67-0ac40c369527.jpeg)
+
+## **Rebellion against extinction - Zurich, from October 3rd. onwards**
+
+We are facing an unprecedented planetary emergency, and the government has failed to protect us.
+
+On June 22nd, rebels delivered [a letter to the Federal Council](https://act.campax.org/efforts/nous-voulons-vivre-wir-wollen-leben-vogliamo-vivere?fbclid=IwAR0y5B-av8W-VIjbFfcqtcU3OTx1_69YRtUbeiHNW_wYHfTfnnwtLLi7k9A), asking them to tell the truth about the climate and ecological crises, and act now to halt ecosystem destruction and decarbonize society, following the guidance of a Citizen’s Assembly. 
+
+If the Federal Council still haven’t taken decisive action by September 20th, as announced in the letter, we will have no other choice than to act ourselves. 
+
+We call upon every principled and peaceful citizen to rise with us and come to Zurich, starting October 3rd. From that day onwards, we will be sitting together on the road in love and solidarity, and refusing to move, willing to be arrested if necessary, until we are satisfied our government is treating this existential crisis like what it is.
+
+Our goal: be as many as possible, for as long as necessary for [our demands](https://www.xrebellion.ch/about/3-demands/) to be heard. 
+
+### To change everything, we need everyone. **The rebellion needs you, whatever role you want to play.** 
+
+### [Come and join us. ](https://actionnetwork.org/forms/the-rebellion-has-begun-join-us)
