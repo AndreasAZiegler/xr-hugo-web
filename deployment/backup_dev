@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Backup development site
-rsync -av --delete /home/hvoajxlo/publich_html/dev/ /home/hvoajxlo/backups/dev/
+rsync -av --delete /home/hvoajxlo/dev.xrebellion.ch/ /home/hvoajxlo/backups/dev/
