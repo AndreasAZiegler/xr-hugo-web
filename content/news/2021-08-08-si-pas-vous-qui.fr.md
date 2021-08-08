@@ -26,4 +26,4 @@ Notre objectif : être le plus nombreux possible, aussi longtemps que nécessair
 
 ### **POUR CHANGER TOUT, NOUS AVONS BESOIN DE TOUT LE MONDE -** La rébellion a besoin de vous, quel que soit le rôle que vous êtes prêt.e.s à jouer.
 
-### [Rejoins-nous.](https://actionnetwork.org/forms/the-rebellion-has-begun-join-us)
+### [Rejoi](https://actionnetwork.org/forms/la-rebellion-a-commence-rejoins-nous)gnez la rébellion.
