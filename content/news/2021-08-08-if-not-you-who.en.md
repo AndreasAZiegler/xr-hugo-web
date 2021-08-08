@@ -8,7 +8,7 @@ branch: XR Switzerland
 publishdate: 2021-08-08T19:03:43+0200
 image: /media/news/2019-04-15-action-lausanne.jpeg
 thumb: /media/news/2019-04-15-action-lausanne.jpeg
-published: false
+published: true
 ---
 
 
