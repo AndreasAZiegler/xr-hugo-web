@@ -6,8 +6,8 @@ slug: Newsletter-July-2021-weather-chaos
 author: XR Newsletter team
 branch: XR Switzerland
 publishdate: 2021-07-21T19:42:38+0200
-image: /media/news/unnamed.jpeg
-thumb: /media/news/unnamed.jpeg
+image: /media/news/rsz_unnamed.jpg
+thumb: /media/news/rsz_unnamed.jpg
 published: true
 ---
 
