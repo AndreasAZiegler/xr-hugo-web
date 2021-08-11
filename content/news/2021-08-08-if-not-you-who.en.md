@@ -10,9 +10,9 @@ image: /media/news/2019-04-15-action-lausanne.jpeg
 thumb: /media/news/2019-04-15-action-lausanne.jpeg
 published: true
 ---
-
-
 ![](/media/5002eb0a-c267-4dd0-8a67-0ac40c369527.jpeg)
+
+##### **Read in** [Français](https://www.xrebellion.ch/fr/news/si-pas-vous-qui/) | [Deutsch](https://www.xrebellion.ch/de/news/wenn-nicht-du-wer-dann/) | [Italiano](https://www.xrebellion.ch/it/news/se-non-tu-chi/)
 
 ## **Rebellion against extinction - Zurich, from October 3rd. onwards**
 
@@ -26,6 +26,6 @@ We call upon every principled and peaceful citizen to rise with us and come to Z
 
 Our goal: be as many as possible, for as long as necessary for [our demands](https://www.xrebellion.ch/about/3-demands/) to be heard. 
 
-### To change everything, we need everyone. **The rebellion needs you, whatever role you want to play.** 
+### To change everything, we need everyone. **The rebellion needs you, whatever role you want to play.**
 
 ### [Come and join us. ](https://actionnetwork.org/forms/the-rebellion-has-begun-join-us)
