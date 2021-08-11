@@ -5,9 +5,9 @@ title: "Newsletter, Juli 2021: Wetterchaos - von der Angst zum Handeln wechseln"
 slug: Newsletter-Juli-2021-Wetterchaos
 author: XR Newsletter team
 branch: XR Switzerland
-publishdate: 2021-08-11T22:10:21+0200
+publishdate: 2021-07-21T22:10:21+0200
 image: /media/news/rsz_unnamed.jpg
-thumb: /media/news/capture-d’écran-2021-08-11-à-22.08.57.png
+thumb: /media/news/rsz_unnamed.jpg
 published: true
 ---
 ![](/media/rsz_unnamed.jpg)
