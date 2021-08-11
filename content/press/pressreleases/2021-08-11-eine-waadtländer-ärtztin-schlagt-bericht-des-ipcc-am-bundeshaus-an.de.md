@@ -2,7 +2,7 @@
 type: pressreleases
 lang: de
 title: Eine Waadtländer Ärtztin schlagt Bericht des IPCC am Bundeshaus an
-slug: Eine Waadtländer Ärtztin schlagt Bericht des IPCC am Bundeshaus an
+slug: Eine-Waadtländer-Ärtztin-schlagt-Bericht-des-IPCC-am-Bundeshaus-an
 author: Media & Messaging Team
 branch: XR-Switzerland
 publishdate: 2021-08-11T15:30:47+0200
@@ -10,6 +10,8 @@ image: /media/pressreleases/e8guojcx0acsfqd.jpeg
 thumb: /media/pressreleases/e8guojcx0acsfqd.jpeg
 published: true
 ---
+***Medienmitteilung, 11. August 20221***\
+\
 **Am Mittwoch, den 11. August, um 12 Uhr hat Dr. Sonja Hediger, Allgemeinmedizinerin aus dem Kanton Waadt, die Seiten des Berichts des Weltklimarates (IPCC) am Bundeshaus in Bern angeschlagen, um den Bundesrat an den Klimanotstand zu erinnern. Sie wurde nicht gebüsst, muss sich aber 48 Stunden lang vom Bundeshaus fernhalten. Sie erklärt sich bereit, diese Aktion jeden Mittwoch, am Tag der Bundesratssitzung zu wiederholen.**
 
 Dr. Hediger will gegen den Bundesrat protestieren, der jahrzehntelang mehrere wissenschaftliche Berichte ignoriert hat, die das Ausmass des Klimawandels und den Zusammenbruch der Ökosysteme belegen.
