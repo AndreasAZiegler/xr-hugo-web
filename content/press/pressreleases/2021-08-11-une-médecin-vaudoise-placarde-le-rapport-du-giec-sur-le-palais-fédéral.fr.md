@@ -10,7 +10,8 @@ image: /media/pressreleases/e8guojcx0acsfqd.jpeg
 thumb: /media/pressreleases/e8guojcx0acsfqd.jpeg
 published: true
 ---
-***Medienmitteilung, 11. August 20221***\
+***Communiqué de presse, 11 août 2021***
+
 \
 **Mercredi 11 août à midi, Sonja Hediger, médecin généraliste vaudoise, a placardé des pages du rapport du GIEC sur le Palais fédéral à Berne, pour rappeler l’urgence climatique aux conseillères et conseillers fédéraux. Elle n’a pas été amendée mais doit se tenir éloignée du Palais fédéral pendant 48 heures. Elle annonce se préparer à réitérer son action chaque mercredi, jour de la séance hebdomadaire du Conseil fédéral.**
 
