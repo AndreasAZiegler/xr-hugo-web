@@ -1,7 +1,7 @@
 ---
 type: pressreleases
 lang: fr
-title: Rebellion of One
+title: "Rebellion of One: des individus isolés s’assoient sur des routes"
 slug: rebellion-of-one
 author: XR Switzerland
 branch: Switzerland
