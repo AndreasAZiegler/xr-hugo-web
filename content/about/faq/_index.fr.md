@@ -1,8 +1,9 @@
 ---
-title: "Q&A"
+title: "FAQ"
+type: faq
 menu:
   main:
-    name: "Q&A"
+    name: "FAQ"
     parent: "Qui Sommes-Nous"
     weight: 40
 date: 2021-04-25T17:10:53+02:00

@@ -8,6 +8,7 @@ taxonomies:
   branch: branch
   event_type: event_type
   resource_type: resource_types
+  faq_type: faq_types
 
 defaultContentLanguage: en
 languages:
