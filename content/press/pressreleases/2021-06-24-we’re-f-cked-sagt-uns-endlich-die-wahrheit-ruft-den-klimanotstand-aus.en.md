@@ -7,6 +7,7 @@ author: XR Switzerland
 branch: XR Switzerland
 publishdate: 2021-06-24T10:53:53+0200
 pdf: /media/pressreleases/cp_de_aufruf.pdf
+thumb: /media/pressreleases/xr-image.jpg
 published: true
 ---
-22. Juni 2021
+Press release, 22 June 2021
