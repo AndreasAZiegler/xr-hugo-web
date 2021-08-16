@@ -2,11 +2,12 @@
 title: "Main page"
 date: 2021-04-20T07:24:55+02:00
 draft: false
-petition:
+rebellion:
   time: temps jusqu'à la rébellion
-  heading: Nous voulons<br />vivre
-  button: Signer la pétition
-  link: https://act.campax.org/petitions/on-est-dans-la-merde-dites-la-verite-sur-l-urgence-climatique-et-ecologique
+  heading: Rébellion contre l'extinction
+  subheading: Commence le 3 octobre à Zurich<br/> Si pas vou, qui?
+  button: Rejoignez la rebellion
+  link: fr/join/i-want-to-rebel/
 hero:
   heading: Il est temps<br/> de se <br/>rebeller
   button: Pourquoi ? 

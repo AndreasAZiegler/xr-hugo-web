@@ -41,15 +41,13 @@
       {{ range sort .Pages ".Params.date" "asc" }}
 
       {{/* Render only events which: */}}
-      {{/* - end date is given (= not unset, "ne" "nil"), and this end date */}}
-      {{/*   is later than the limit; */}}
-      {{/* - OR end date is not given (= is unset, "eq" "nil"), and then */}}
-      {{/*   the start date is later than the limit. */}}
-      {{/* Other events, even if published, are considered as over, and */}}
-      {{/* will not be displayed in the list anymore. */}}
+      {{/* - end date is given, and this end date is later than the limit; */}}
+      {{/* - OR end date is not given, and then the start date is later than the limit. */}}
+      {{/* Other events, even if published, are considered as over, and will not be displayed in the list anymore. */}}
+      
       {{ if or
-        (and (ne .Params.date_end nil) (ge (time .Params.date_end "Local") $limit_date))
-        (and (eq .Params.date_end nil) (ge .Params.date $limit_date))
+        (and .Params.date_end (ge (time .Params.date_end "Local") $limit_date))
+        (and (not .Params.date_end) (ge .Params.date $limit_date))
       }}
       <div class="filterDiv event_type_{{ .Params.event_type }} branch_{{ .Params.branch | urlize }} col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
         {{ $type := .Params.event_type }}

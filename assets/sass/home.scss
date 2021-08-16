@@ -19,13 +19,12 @@ header.home-header {
   text-align: center;
   color: white;
 
-  &.petition {
-    $petition-color: #caff11ff;
+  &.rebellion {
 
     background-image: url('/images/petition.png');
-    background-color: $petition-color;
     background-attachment: initial;
-    background-position: center bottom;
+    background-position: center;
+    background-repeat: no-repeat;
 
     @include media-query-min($on-palm) {
       background-image: url('/images/petition-desktop.png');

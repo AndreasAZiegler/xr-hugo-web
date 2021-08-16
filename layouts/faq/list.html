@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+<h1 class="page-heading" id="resources-header" style="background-color: #ed9bc4; ">{{.Title}}</h1>
+
+<div class="container">
+  <div class="accordion-wrap">
+    {{ $unique_faq_types := index .Site.Taxonomies "faq_types" }}
+    {{ range $unique_faq_type, $val := $unique_faq_types }}
+
+    <div class="accordion" id="accordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_faq_type }}" >
+            {{ $unique_faq_type }}
+          </button>
+        </h2>
+        <div id="collapse{{ $unique_faq_type }}" class="collapse" aria-labelledby="heading{{ $unique_faq_type }}">
+          <div class="accordion-body">
+            <!-- <ul> -->
+              {{ range .Pages }}
+              {{ if in .Params.faq_types $unique_faq_type }}
+
+              <!-- <li> -->
+              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_faq_type }}-content" >
+                {{ .Title }} 
+              </button>
+              <!-- </li> -->
+
+              <div id="collapse{{ $unique_faq_type }}-content" class="collapse" aria-labelledby="heading{{ $unique_faq_type }}-content">
+                <div class="accordion-body">
+                  {{ .Content }}
+                </div>
+              </div>
+
+              {{ end }}
+              {{ end }}
+            <!-- </ul> -->
+          </div>
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

@@ -2,57 +2,45 @@
 
 <h1 class="page-heading" id="resources-header" style="background-color: #ed9bc4; ">{{.Title}}</h1>
 
-  <div class="container">
-<div class="accordion-wrap">
+<div class="container">
+  <div class="accordion-wrap">
     {{ $unique_resource_types := index .Site.Taxonomies "resource_types" }}
     {{ range $unique_resource_type, $val := $unique_resource_types }}
 
+    <div class="accordion" id="accordion">
+      <div class="accordion-item">
+        <h2 class="accordion-header" id="heading">
+          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_resource_type }}" >
+            {{ $unique_resource_type }}
+          </button>
+        </h2>
+        <div id="collapse{{ $unique_resource_type }}" class="collapse" aria-labelledby="heading{{ $unique_resource_type }}">
+          <div class="accordion-body">
+            <ul>
+              {{ range .Pages }}
+              {{ if in .Params.resource_types $unique_resource_type }}
 
-<div class="accordion " id="accordion">
-  <div class="accordion-item">
-    <h2 class="accordion-header" id="heading">
-      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_resource_type }}" >
-        {{ $unique_resource_type }}
-      </button>
-    </h2>
-    <div id="collapse{{ $unique_resource_type }}" class="collapse" aria-labelledby="heading{{ $unique_resource_type }}">
-      <div class="accordion-body">
-          <ul>
-      {{ range .Pages }}
-        {{ if in .Params.resource_types $unique_resource_type }}
+              <li>
 
-                <li>
+                {{ if .Params.document }}
+                <a href="{{ .Params.document | absURL }}">
+                  {{ .Title }} 
+                </a>
+                {{ else if .Params.link }}
+                <a href="{{ urls.Parse .Params.link }}">
+                  {{ .Title }} 
+                </a>
+                {{ end }}
+              </li>
 
-                  {{ if .Params.document }}
-                    <a href="{{ .Params.document | absURL }}">
-                       {{ .Title }} 
-                    </a>
-                  {{ else if .Params.link }}
-                    <a href="{{ urls.Parse .Params.link }}">
-                      {{ .Title }} 
-                    </a>
-                  {{ end }}
-                </li>
-
-        {{ end }}
-      {{ end }}
-          </ul>
+              {{ end }}
+              {{ end }}
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
-
-
-</div>
     {{ end }}
   </div>
 </div>
 {{ end }}
-
-
-
-
-
-
-
-
-
