@@ -10,4 +10,4 @@ pdf: /media/pressreleases/cp_de_aufruf.pdf
 thumb: /media/pressreleases/xr-image.jpg
 published: true
 ---
-22. Juni 2021
+Medienmitteilung, 22. Juni 2021
