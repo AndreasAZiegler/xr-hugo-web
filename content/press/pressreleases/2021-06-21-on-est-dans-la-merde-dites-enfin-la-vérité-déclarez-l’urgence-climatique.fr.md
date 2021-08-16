@@ -10,4 +10,4 @@ pdf: /media/pressreleases/cp_fr_appel_urgent.pdf
 thumb: /media/pressreleases/xr-image.jpg
 published: true
 ---
-22. Juni 2021
+Communiqué de presse, 22 juin 2021
