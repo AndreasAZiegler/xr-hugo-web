@@ -1,8 +1,8 @@
 ---
 type: pressreleases
 lang: it
-title: "Comunicato stampa: Processo contro l'attivista per il clima dichiarato
-  un grande affare dalla corte distrettuale"
+title: Processo contro l'attivista per il clima dichiarato un grande affare
+  dalla corte distrettuale
 slug: clara-trial-press-release
 author: XR Switzerland
 branch: Switzerland
