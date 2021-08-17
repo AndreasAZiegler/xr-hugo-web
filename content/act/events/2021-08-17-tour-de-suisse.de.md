@@ -8,10 +8,12 @@ branch: XR-Switzerland
 publishdate: 2021-08-17T18:19:06+0200
 date: 2021-08-16T18:19:06+0200
 date_end: 2021-09-05T00:00:00+0200
+event_loc_name: ""
+event_loc_addressLocality: Überall in der Schweiz
 event_loc_country: Switzerland
 event_type: action
 image: /media/events/export-2-.png
-thumb: /media/events/export-3-.png
+thumb: /media/events/export-2-.png
 online_registration_url: https://actionnetwork.org/events/mobilisation-tour-de-suisse/
 published: true
 ---
