@@ -7,6 +7,7 @@ author: XR Switzerland
 branch: XR Switzerland
 publishdate: 2021-06-24T11:00:19+0200
 pdf: /media/pressreleases/cp_fr_appel_urgent.pdf
+thumb: /media/pressreleases/xr-image.jpg
 published: true
 ---
-22. Juni 2021
+comunicato stampa, 22 giugno 2021
