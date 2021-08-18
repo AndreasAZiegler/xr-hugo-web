@@ -16,7 +16,7 @@ Medienkontakt: [media at xrebellion.ch](media@xrebellion.ch)
 
 [Facebook](https://facebook.com/XRSwitzerland) | [Twitter](https://twitter.com/@xrSchweiz) | [Instagram](https://instagram.com/xr_switzerland) | [YouTube](https://www.youtube.com/channel/UCcXrHicgZhfhCWg2cCrXCsA)
 
-Bild und Video: ((Link zur globalen Mediathek))
+[Bilder und Videos](https://show.pics.io/xr-global-media-resources-public/search?tagId=5fa93cf0af1bf200110c09a7)
 
 
 Informationen über die Bewegung finden Sie in unserer FAQ [FAQ]({{< ref "/about/faq" >}})
