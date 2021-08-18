@@ -9,7 +9,7 @@ date: 2021-04-23T17:50:08+02:00
 draft: false
 join_us:
   title: Pour changer tout, nous avons besoin de tout le monde
-  intro: Pour préserver la vie sur Terre, il faut faire tout ce qui es en notre possible. La rébellion a besoin de vous, quel que soit le rôle que vous voulez jouer.
+  intro: Pour que la vie sur Terre continue, on va devoir donner tout ce qu’on a.
   form_uri: https://actionnetwork.org/widgets/v4/form/la-rebellion-a-commence-rejoins-nous
 ---
 
