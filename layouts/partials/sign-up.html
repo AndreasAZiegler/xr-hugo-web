@@ -2,7 +2,7 @@
 {{ $redirect_to_captcha_failed :=  "/join-captcha-failed" | absURL }}
 
 
-<section class="join-us bg-blue">
+<section class="join-us bg-blue" style="background-color:#14aa37;">
   <div class="container join-title">
     <h2>{{with .Site.GetPage "/join"}}{{.Params.join_us.title}}{{end}}</h2>
     <p>{{with .Site.GetPage "/join"}}{{.Params.join_us.intro}}{{end}}</p>
