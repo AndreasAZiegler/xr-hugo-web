@@ -7,7 +7,7 @@ rebellion:
   heading: Rebellion gegen das Aussterben
   subheading: Ab dem 3. Oktober in Zürich<br/> Wenn nicht du, wer dann?
   button: Mache mit!
-  link: de/join/i-want-to-rebel/
+  link: de/join/
 hero:
   heading: Es ist Zeit<br/> zu<br/> rebellieren
   button: Warum? 

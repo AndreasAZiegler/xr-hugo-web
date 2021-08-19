@@ -5,9 +5,9 @@ draft: false
 rebellion:
   time: time until the rebellion
   heading: Rebellion against extinction
-  subheading: Zurich, from October 3rd. onwards<br/> If not you, who?
+  subheading: From October 3rd in Zurich<br/> If not you, who?
   button: Join the rebellion
-  link: join/i-want-to-rebel/
+  link: join/
 hero:
   heading: It's time<br/> to<br/> rebel
   button: Why? 
