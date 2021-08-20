@@ -12,7 +12,7 @@ published: false
 ---
 *Newsletter, August 22nd 2021*
 
-## **If not you, who? Join the rebellion against Extinction**
+## **If not you, who? If not now, when?**
 
 ![](/media/newsletter_picture_en.jpeg)
 
