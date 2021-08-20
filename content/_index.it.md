@@ -5,8 +5,8 @@ draft: false
 rebellion:
   time: tempo fino alla ribellione 
   heading: Ribellione contro l'estinzione
-  subheading: A partire dal 3 ottobre a Zurigo<br/> Se no voi, chi?
-  button: Firma la petizione
+  subheading: A partire dal 3 ottobre a Zurigo<br/> Se non voi, chi?
+  button: Unitevi a noi
   link: it/join/
 hero:
   heading: È tempo<br/> di<br/> ribellarsi
