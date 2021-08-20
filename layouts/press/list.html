@@ -1,6 +1,46 @@
 {{ define "main" }}
 
-{{ $site := .Site.GetPage "press/pressreleases" }}
-<meta http-equiv="refresh" content="0; url={{ $site.Permalink }}" />
+<h1 class="page-heading">{{.Title}}</h1>
+
+<div class="container pb-5">
+  {{ .Content }}
+</div>
+
+<section id="blog" class="evenements">
+  <div class="container">
+    <div class="row">
+      {{ range .Pages }}
+      {{ $randomcolor:= partial "randomcolor.html" . }}
+        <div class="col-sm-12 col-md-6 col-lg-6 col-xl-6 mb-3 xr-color-box">
+          <div class="card py-md-0 px-md-0 border-0 {{ $randomcolor }} rounded-0">
+            {{ if .Params.thumb }}
+              <a href="{{ .Permalink }}" class="event-link">
+                  <img src="{{ .Params.thumb | absURL }}" class="img-fluid mx-auto" />
+              </a>
+            {{ end }}
+            <div class="card-body">
+              <h3 class="card-title event-title">
+                <a href="{{ .Permalink }}" class="event-link {{ $randomcolor }}">
+                  {{ .Title }}
+                </a>
+              </h3>
+              <div class="card-date">
+              </div>
+              <div class="card-venue">
+                {{ .Params.event_loc_addressLocality }}
+              </div>
+                <div class="card-excerpt">
+                  <p>{{ .Summary | truncate 180 }}</p>
+                </div>
+              <div class="card-button">
+                <a class="o-button-black" href="{{ .Permalink }}" class="event-link">{{ with .Site.GetPage "/news" }}{{ .Params.learn_more }}{{end}}</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      {{ end}}
+    </div>
+  </div>
+</section>
 
 {{ end }}

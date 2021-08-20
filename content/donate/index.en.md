@@ -12,4 +12,6 @@ account: "Account"
 
 ### Support us! ###
 
-If you want to support us and you can afford it, a donation of any amount is most welcome.
+Time is running out. To preserve life on Earth, we need as many peaceful citizens as possible to rise with us and come to Zurich, starting October 3rd - and we urgently need your support to make it happen. 
+
+You can’t join us on the streets? Donate to keep the Rebellion alive! Your support will fund powerful actions and help rebels make an impact across Switzerland.

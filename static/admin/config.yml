@@ -346,3 +346,35 @@ collections:
         widget: "boolean"
         required: false
         default: true
+
+  - name: "faq"
+    label: "FAQ"
+    folder: "content/about/faq"
+    create: true
+    slug: "{{slug}}.{{lang}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "faq"}
+      - label: "Language"
+        name: "lang"
+        widget: "select"
+        multiple: false
+        options: ["en", "fr", "de", "it"]
+        required: true
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        required: true
+        hint: "If you're creating the post via the Netlify CMS you must set the `slug` parameter, it must be the same for every translation of the post, otherwise you will have duplicates."
+      - label: "Type of faq"
+        name: "faq_types"
+        widget: "select"
+        multiple: true
+        options: ["about-strategy", "à-propos-de-la-stratégie", "über-die-strategie", "la-strategia", "about-the-autumn-rebellion-in-zurich", "à-propos-de-la-rébellion-d-automne-à-zurich", "über-die-rebellion-in-zürich", "sulla-ribellione-d-autunno-a-zurigo", "about-us", "à-propos-de-nous", "über-uns", "su-di-noi"]
+        required: true
+      - label: 'Published'
+        name: 'published'
+        hint: "Set this to false to unpublish a post"
+        widget: "boolean"
+        required: false
+        default: true
