@@ -34,3 +34,40 @@ And: Don’t come alone! Bring your friends and family - to change everything, w
 
 Marie, Anaïs, Verena and Jamie\
 The national newsletter team
+
+- - -
+
+## **Upcoming events**
+
+![](/media/export-2-.png)
+
+**Mass mobilisation needs you!** \
+Ready to help for the rebellion? We’re looking for people helping us with postering and flyering all around Switzerland. 
+
+* ##### [Register here](https://www.xrebellion.ch/de/act/events/tour-de-suisse/) to take part in the awesome Tour de Suisse! Materials all provided.
+
+**Talks and training**\
+Talks about why we are heading for extinction, and what to do about it, training in nonviolent civil disobedience, mass mobilisation event. 
+
+* ##### [Find out here](https://www.xrebellion.ch/de/act/events/) more about the upcoming events in your city
+
+- - -
+
+**Action Review**
+
+![](/media/dscf9623.jpg)
+
+**Do it like Sonja and stick the truth under their nose!**
+
+On August 11, mother and medical doctor Sonja Hediger came from Vaud to plaster the new IPCC report on the Federal palace. She was interrupted by the police after 7 pages, but not fined. She was joined last week by even more worried citizens. 
+
+* ##### [Watch the video](<https://www.facebook.com/XRSwitzerland/videos/173493621516933>) [](https://www.facebook.com/XRSwitzerland/videos/173493621516933)
+* **Do the same in your city**
+
+
+
+
+
+
+**International news:** it’s grim, but folks are rebelling!
+**One question, one answer:** Isn’t the Swiss government already acting?
