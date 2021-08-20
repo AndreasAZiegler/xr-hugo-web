@@ -1,7 +1,7 @@
 ---
 type: blogpost
 lang: en
-title: "Newsletter: If not you, who? Join the rebellion against Extinction"
+title: "Newsletter: If not you, who? If not now, when?"
 slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
@@ -28,7 +28,7 @@ We demand they tell the truth. We demand they act now. And we demand a democracy
 If the Federal Council has not responded to these simple vital demands by the end of September, we call upon every principled and peaceful citizen to rise with us.\
 From October 3rd: Each day, hundreds of people, young and old, will sit down in the roads of central Zurich until action on the crisis is taken.
 
-* FIND YOUR ROLE
+* [FIND YOUR ROLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-en)
 
 And: Don’t come alone! Bring your friends and family - to change everything, we need everyone! 
 
