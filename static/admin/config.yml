@@ -378,3 +378,4 @@ collections:
         widget: "boolean"
         required: false
         default: true
+      - { label: 'Body', name: 'body', widget: 'markdown' }
