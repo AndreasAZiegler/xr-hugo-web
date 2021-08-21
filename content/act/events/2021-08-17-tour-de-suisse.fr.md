@@ -1,8 +1,8 @@
 ---
 type: events
 lang: fr
-title: 20210817_Tour de Suisse
-slug: Tour-de-Suisse
+title: Mobilisation - Tour de Suisse
+slug: 20210817 Tour-de-Suisse
 author: XR CH
 branch: XR CH
 publishdate: 2021-08-21T14:56:55+0200
