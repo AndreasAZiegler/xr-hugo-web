@@ -2,8 +2,8 @@
 draft: false
 type: faq
 lang: de
-title: FAQ
-slug: Wer ist das Zielpublikum der Rebellion?
+title: Wer ist das Zielpublikum der Rebellion?
+slug: wer-ist-das-zielpublikum-der-rebellion?
 published: false
 date: 2021-04-25T17:10:51+02:00
 faq_types:
