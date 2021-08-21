@@ -3,8 +3,8 @@ type: events
 lang: de
 title: 2021-08-17 / Tour de Suisse
 slug: Tour-de-Suisse
-author: XR-Switzerland
-branch: XR-Switzerland
+author: XR CH
+branch: XR CH
 publishdate: 2021-08-21T14:44:50+0200
 date: 2021-08-16T18:19:06+0200
 date_end: 2021-09-05T00:00:00+0200
