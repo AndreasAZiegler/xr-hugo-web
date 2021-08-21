@@ -4,7 +4,7 @@ type: faq
 lang: de
 title: FAQ
 slug: Wer ist das Zielpublikum der Rebellion?
-published: true
+published: false
 date: 2021-04-25T17:10:51+02:00
 faq_types:
   - über-die-strategie
