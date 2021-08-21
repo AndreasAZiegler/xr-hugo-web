@@ -21,8 +21,8 @@ published: true
 
 \*\*Hier die Daten\*\*
 
-Montag 23. August in Zürich, Abends.\
-Dienstag 24. August in Basel, abend, nach dem NVDA Training\
+Montag 23. August in Zürich, 19 Uhr, Treffpunkt Hardbrücke\
+Dienstag 24. August in Basel, Abend, nach dem NVDA Training\
 25. August in Bern, morgens, nach der IPCC-Aktion\
 25. August in Morges, ab 16 Uhr\
 27. August in Zürich, ab 18 Uhr vor dem Critical Mass\
