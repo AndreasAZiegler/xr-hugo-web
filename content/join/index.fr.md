@@ -11,6 +11,8 @@ join_us:
   title: Pour changer tout, nous avons besoin de tout le monde
   intro: Pour que la vie sur Terre continue, on va devoir donner tout ce qu’on a.
   form_uri: https://actionnetwork.org/widgets/v4/form/la-rebellion-a-commence-rejoins-nous
+aliases:
+  - /fr/join/i-want-to-rebel/
 ---
 
 Nous avons besoin de vous - qui que vous soyez, quel que soit le temps dont vous disposez - pour que nos demandes soient entendues. Notre vision du changement implique un mouvement de masse. Ensemble, nous sommes inarrêtables.

@@ -11,6 +11,8 @@ join_us:
   title: To change everything, we need everyone
   intro: To preserve life on Earth, it's going to take everything we've got. The rebellion needs you, whatever role you want to play.
   form_uri: https://actionnetwork.org/widgets/v4/form/the-rebellion-has-begun-join-us
+aliases:
+  - /join/i-want-to-rebel/
 ---
 
 We need you – whoever you are, however much time you have – for our demands to be heard. Our vision of change involves mass participation. Together we’re unstoppable.

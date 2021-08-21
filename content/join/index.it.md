@@ -11,6 +11,8 @@ join_us:
   title: Per cambiare tutto, abbiamo bisogno di tutti
   intro: Per preservare la vita sulla Terra, ci vorrà tutto quello che abbiamo. La ribellione ha bisogno di te, qualsiasi ruolo tu voglia svolgere.
   form_uri: https://actionnetwork.org/widgets/v4/form/la-ribellione-e-iniziata-unisciti-a-noi
+aliases:
+  - /it/join/i-want-to-rebel/
 ---
 
 Abbiamo bisogno di te - chiunque tu sia, per quanto tempo tu abbia - perché le nostre richieste siano ascoltate. La nostra visione del cambiamento prevede una partecipazione di massa. Insieme siamo inarrestabili.
