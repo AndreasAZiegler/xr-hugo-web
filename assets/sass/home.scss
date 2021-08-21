@@ -21,13 +21,13 @@ header.home-header {
 
   &.rebellion {
 
-    background-image: url('/images/petition.png');
+    background-image: url('/images/rebellion.png');
     background-attachment: initial;
     background-position: center;
     background-repeat: no-repeat;
 
     @include media-query-min($on-palm) {
-      background-image: url('/images/petition-desktop.png');
+      background-image: url('/images/rebellion-desktop.png');
     }
 
     .intro-text {
