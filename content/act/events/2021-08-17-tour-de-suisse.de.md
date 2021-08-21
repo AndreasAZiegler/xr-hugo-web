@@ -1,8 +1,8 @@
 ---
 type: events
 lang: de
-title: 2021-08-17 / Tour de Suisse
-slug: Tour-de-Suisse
+title: "Mobilisiere für die Rebellion: Tour de Suisse"
+slug: 20210817-Tour-de-Suisse
 author: XR CH
 branch: XR CH
 publishdate: 2021-08-21T14:44:50+0200
