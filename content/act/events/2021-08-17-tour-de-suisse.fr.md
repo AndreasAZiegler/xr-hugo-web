@@ -1,7 +1,7 @@
 ---
 type: events
 lang: fr
-title: Mobilisation - Tour de Suisse
+title: Mobilisation pour la rebellion - Tour de Suisse
 slug: 20210817 Tour-de-Suisse
 author: XR CH
 branch: XR CH
