@@ -10,7 +10,7 @@ taxonomies:
   resource_type: resource_types
   faq_type: faq_types
 
-defaultContentLanguage: en
+defaultContentLanguage: de
 languages:
   en:
     languageName: "EN"
