@@ -28,7 +28,7 @@ We demand they tell the truth. We demand they act now. And we demand a democracy
 If the Federal Council has not responded to these simple vital demands by the end of September, we call upon every principled and peaceful citizen to rise with us.\
 From October 3rd: Each day, hundreds of people, young and old, will sit down in the roads of central Zurich until action on the crisis is taken.
 
-* [FIND YOUR ROLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-en)
+* **[FIND YOUR ROLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-en)**
 
 And: Don’t come alone! Bring your friends and family - to change everything, we need everyone! 
 
@@ -42,12 +42,12 @@ The national newsletter team
 ![](/media/export-2-.png)
 
 **Mass mobilisation needs you!** \
-Ready to help for the rebellion? We’re looking for people helping us with postering and flyering all around Switzerland. 
+Ready to help for the rebellion? We’re looking for people helping us with postering and flyering all around Switzerland. Next dates: 23rd in Zurich, 24th in Basel, 25th in Bern and Morges... and a lot more coming
 
-* ##### [Register here](https://www.xrebellion.ch/de/act/events/tour-de-suisse/) to take part in the awesome Tour de Suisse! Materials all provided.
+* [You'll find here all dates and information to take part in the awesome Tour de Suisse! ](https://www.xrebellion.ch/fr/act/events/20210817-tour-de-suisse/)Materials all provided.
 
 **Talks and training**\
-Talks about why we are heading for extinction, and what to do about it, training in nonviolent civil disobedience, mass mobilisation event. 
+Talks about why we are heading for extinction, and what to do about it, training in nonviolent civil disobedience, mass mobilisation event. We're planing for the rebellion! 
 
 * ##### [Find out here](https://www.xrebellion.ch/de/act/events/) more about the upcoming events in your city
 
@@ -58,13 +58,13 @@ Talks about why we are heading for extinction, and what to do about it, training
 ![](/media/dscf9623.jpg)
 
 **Do it like Sonja and stick the truth #UnderTheirNose!**\
-On August 11, mother and medical doctor Sonja Hediger came from Vaud to plaster the new IPCC report on the Federal palace. She was interrupted by the police after 7 pages, but not fined. She was joined this week by even more worried citizens. 
+On August 11, mother and medical doctor Sonja Hediger came from Vaud to plaster the summary of the new IPCC report on the Federal palace. For good measure, she also added the beginning of the Swiss Constitution, and the Last Call Before the Rebellion rebels delivered to the Federal Council in June. She was interrupted by the police after 7 pages, but not fined. She says she will come back every week until the rebellion. This week, other people were inspired to do the same in their city. 
 
-* ##### [Watch the video](https://www.facebook.com/XRSwitzerland/videos/173493621516933) [](https://www.facebook.com/XRSwitzerland/videos/173493621516933)
+* ##### **[Watch the video](https://www.facebook.com/XRSwitzerland/videos/173493621516933)** [](https://www.facebook.com/XRSwitzerland/videos/173493621516933)
 * ##### **Do the same in your city**
 
 **Clara’s trial**\
-On August 17th, Clara, 19, was convicted of “coercion” for peacefully sitting on a bridge and demanding the government give her a future. She was one of the 250 people who sat for several hours on the Quaibrücke in Zurich, and she was the first to appear before the court. We will keep proudly flooding the courts of this country, presenting them with the same question: what is the historic responsibility of the courts, when the government is coercing us all to live on a burning planet?
+On August 17th, Clara, 19, was convicted of “coercion” for peacefully sitting on a bridge and demanding the government give her a future. She was one of the 250 people who sat for several hours on the Quaibrücke in Zurich, and she was the first to appear before the court. Rebels will keep proudly flooding the courts of this country, presenting them with the same question: what is the historic responsibility of the courts, when the government is “coercing” us all to watch our planet burn?
 
 * ##### ((LINK))
 
