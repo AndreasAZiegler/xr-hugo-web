@@ -30,14 +30,14 @@ Si le Conseil fédéral n'a pas répondu à ces simples demandes vitales d'ici l
 
 **A partir du 3 octobre :** chaque jour, des centaines de personnes, jeunes et vieilles, s'assiéront dans les rues du centre de Zurich jusqu'à ce que des mesures soient prises pour résoudre la crise.
 
-* [JE TROUVE MON RÔLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-fr)
+* **[JE TROUVE MON RÔLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-fr)**
 
 Ne venez pas seul·e ! Amenez vos ami·es et votre famille - pour tout changer, nous avons besoin de tout le monde ! 
 
 Avec amour et rage,
 
 Marie, Anaïs, Verena et Jamie\
-The national newsletter team
+L'équipe Newsletter
 
 - - -
 
@@ -46,12 +46,12 @@ The national newsletter team
 ![](/media/export-1-.png)
 
 **La mobilisation de masse a besoin de vous !** \
-Prêt·e à aider pour la rébellion ? Nous recherchons des personnes pour aider à l'affichage et à la distribution de tracts dans toute la Suisse. 
+Prêt·e à aider pour la rébellion ? Nous recherchons des personnes pour aider à l'affichage et à la distribution de tracts dans toute la Suisse. Les prochaines dates: RDV le 23 août à Zurich, le 24 à Bâle, le 25 à Morges et Berne... Et pleins d'autres dates encore!
 
-* [Inscrivez-vous ici](https://www.xrebellion.ch/fr/act/events/tour-de-suisse/) pour participer à l'impressionnant Tour de Suisse ! Matériel fourni.
+* [Vous trouverez ici toutes les dates et informations relatives à l'impressionnant Tour de Suisse ! ](https://www.xrebellion.ch/fr/act/events/20210817-tour-de-suisse/)Matériel fourni.
 
 **Conférences et formations**\
-Des conférences qui expliquent pourquoi nous allons vers l'extinction, et ce que nous pouvons faire pour y remédier; une formation à la désobéissance civile non violente; un événement de mobilisation de masse. 
+Des conférences qui expliquent pourquoi nous allons vers l'extinction, et ce que nous pouvons faire pour y remédier; une formation à la désobéissance civile non violente; un événement de mobilisation de masse: l'organisation de la rébellion est en cours!
 
 * [En savoir plus](https://www.xrebellion.ch/fr/act/events/) sur les événements à venir dans votre ville.
 
