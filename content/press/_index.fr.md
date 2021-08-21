@@ -1,8 +1,8 @@
 ---
-title: "Presse"
+title: "Médias"
 menu:
   main:
-    name: "Presse"
+    name: "Médias"
     weight: 150
 type: pressreleases
 date: 2021-04-25T17:19:06+02:00
