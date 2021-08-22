@@ -75,7 +75,7 @@ On August 17th, Clara, 19, was convicted of “coercion” for peacefully sittin
 
 ##### **International news:** it’s grim, but folks are rebelling!
 
-![](/media/featured-image-next-uk-rebellion.jpeg)
+![](/media/rsz_featured-image-next-uk-rebellion.jpg)
 
 ##### Climate change widespread, rapid, and intensifying
 
