@@ -5,10 +5,10 @@ title: "Newsletter: If not you, who? If not now, when?"
 slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
-publishdate: 2021-08-20T12:34:07+0200
+publishdate: 2021-08-22T16:53:34+0200
 image: /media/news/newsletter_picture_en.jpeg
 thumb: /media/news/newsletter_picture_en.jpeg
-published: false
+published: true
 ---
 *Newsletter, August 22nd 2021*
 
@@ -32,7 +32,7 @@ From October 3rd: Each day, hundreds of people, young and old, will sit down in 
 
 And: Don’t come alone! Bring your friends and family - to change everything, we need everyone! 
 
-Marie, Anaïs, Verena and Jamie\
+Marie, Anaïs, Verena, Cinzia and Jamie\
 The national newsletter team
 
 - - -
@@ -66,8 +66,6 @@ On August 11, mother and medical doctor Sonja Hediger came from Vaud to plaster 
 **Clara’s trial**\
 On August 17th, Clara, 19, was convicted of “coercion” for peacefully sitting on a bridge and demanding the government give her a future. She was one of the 250 people who sat for several hours on the Quaibrücke in Zurich, and she was the first to appear before the court. Rebels will keep proudly flooding the courts of this country, presenting them with the same question: what is the historic responsibility of the courts, when the government is “coercing” us all to watch our planet burn?
 
-* ##### ((LINK))
-
 - - -
 
 ## **International news:** it’s grim, but folks are rebelling!
@@ -92,3 +90,5 @@ We’re not the only ones to rebel! All over the world, people like you and me a
 
 **Isn’t the Swiss government already acting?**\
 Switzerland plans to reduce its net carbon emissions to zero by 2050, thus meeting the internationally agreed target of limiting global warming to a maximum of 1.5°C when compared with the pre-industrial era. Beside the fact that this deadline is far too late in order to ensure a safe and sound future for us all, Switzerland still has no concrete plan whatsoever on how it wants to implement and achieve the net zero goal of 2050. Not really reassuring, right?
+
+* [Read the full FAQ here](https://www.xrebellion.ch/en/about/faq/)
