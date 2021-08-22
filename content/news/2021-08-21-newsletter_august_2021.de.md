@@ -78,7 +78,7 @@ Am 17. August wurde die 19-jährige Clara wegen "Nötigung" verurteilt, weil sie
 
 ### **Internationale Nachrichten**
 
-![](/media/featured-image-next-uk-rebellion.jpeg)
+![](/media/rsz_featured-image-next-uk-rebellion.jpg)
 
 ##### **Der Klimawandel ist weit verbreitet, schreitet schnell voran und intensiviert sich**
 
