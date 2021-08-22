@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: How many people will there be?
-slug: How-many-people-will-there-be
+slug: how-many-people-will-there-be
 faq_types:
   - about-the-autumn-rebellion-in-zurich
 published: true
