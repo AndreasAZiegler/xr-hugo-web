@@ -5,10 +5,10 @@ title: "Newsletter: Wenn nicht Du, wer dann? Wenn nicht jetzt, wann dann?"
 slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
-publishdate: 2021-08-21T15:54:28+0200
+publishdate: 2021-08-22T16:56:16+0200
 image: /media/news/newsletter_picture_de.jpeg
 thumb: /media/news/newsletter_picture_de.jpeg
-published: false
+published: true
 ---
 *Newsletter, 22. August 2021*
 
