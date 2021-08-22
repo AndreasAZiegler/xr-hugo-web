@@ -2,7 +2,7 @@
 type: faq
 lang: de
 title: Warum gerade jetzt?
-slug: Warum-gerade-jetzt
+slug: why-now
 faq_types:
   - über-die-rebellion-in-zürich
 published: true

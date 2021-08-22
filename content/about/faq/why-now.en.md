@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Why now?
-slug: Why-now?
+slug: why-now
 faq_types:
   - about-the-autumn-rebellion-in-zurich
 published: true
