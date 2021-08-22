@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Why Zurich?
-slug: Why-Zurich?
+slug: why-zurich
 faq_types:
   - about-the-autumn-rebellion-in-zurich
 published: true
