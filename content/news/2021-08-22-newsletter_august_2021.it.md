@@ -49,7 +49,7 @@ Lo Newsletter team
 
 Pront* ad aiutare per la ribellione? Cerchiamo persone che ci aiutino con affissioni e distribuzione di volantini in tutta la Svizzera. I materiali sono tutti forniti.
 
-* ###### [Registrati qui per partecipare al fantastico Tour de Suisse!](https://www.xrebellion.ch/de/act/events/tour-de-suisse/)
+* ###### [Registrati qui per partecipare al fantastico Tour de Suisse!](https://www.xrebellion.ch/act/events/20210817-tour-de-suisse/)
 
 ##### **Colloqui e formazione**
 
@@ -84,7 +84,7 @@ Il 17 agosto, Clara, 19 anni, è stata condannata per "coercizione" per essersi 
 
 L'ultimo rapporto delle Nazioni Unite è chiaro: il cambiamento climatico è qui, è una crisi, ed è causato dai combustibili fossili.
 
-* ###### **[Riassunto per i responsabili politici](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)**
+* ###### **[Riassunto per i responsabili politici](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)**
 
 ##### **Ribellione dell’ impossibile nel Regno Unito**
 
