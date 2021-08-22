@@ -59,7 +59,7 @@ Vorträge darüber, warum wir auf das Aussterben zusteuern und was wir dagegen t
 
 ### **Vergangene Aktionen**
 
-![](/media/dscf9623-min-min.png)
+![](/media/rsz_1dscf9623-min-min.png)
 
 ##### **Mach es wie Sonja und halte ihnen die Wahrheit #UnderTheirNose!**
 
@@ -76,7 +76,7 @@ Am 17. August wurde die 19-jährige Clara wegen "Nötigung" verurteilt, weil sie
 
 ### **Internationale Nachrichten**
 
-![](/media/the-truth-video-overlay-2000x1025-c-center.jpeg)
+![](/media/rsz_impossible_rebellion.png)
 
 ##### **Der Klimawandel ist weit verbreitet, schreitet schnell voran und intensiviert sich**
 
