@@ -7,7 +7,7 @@ author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:49:15+0200
 image: /media/news/rsz_1newsletter_picture_it-min.png
-thumb: /media/news/rsz_1newsletter_picture_it-min.png
+thumb: /media/news/newsletter_picture_it-min.jpg
 published: true
 ---
 *Newsletter, 22 Augusto 2021*
@@ -78,7 +78,7 @@ Il 17 agosto, Clara, 19 anni, è stata condannata per "coercizione" per essersi 
 
 ##### **International news**
 
-![](/media/impossible-rebellion.jpeg)
+![](/media/featured-image-next-uk-rebellion.jpeg)
 
 ##### **Il cambiamento climatico è diffuso, rapido e si sta intensificando**
 
