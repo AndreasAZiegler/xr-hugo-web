@@ -1,4 +1,4 @@
---
+---
 type: faq
 lang: fr
 title: Pourquoi maintenant ?
