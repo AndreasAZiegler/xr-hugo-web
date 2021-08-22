@@ -59,7 +59,7 @@ Vorträge darüber, warum wir auf das Aussterben zusteuern und was wir dagegen t
 
 ### **Vergangene Aktionen**
 
-![](/media/dscf9623-min-1-.png)
+![](/media/dscf9623-min-min.png)
 
 ##### **Mach es wie Sonja und halte ihnen die Wahrheit #UnderTheirNose!**
 
