@@ -7,7 +7,7 @@ author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:56:16+0200
 image: /media/news/rsz_1newsletter_picture_de-min.png
-thumb: /media/news/rsz_1newsletter_picture_de-min.png
+thumb: /media/news/newsletter_picture_de-min.jpeg
 published: true
 ---
 *Newsletter, 22. August 2021*
