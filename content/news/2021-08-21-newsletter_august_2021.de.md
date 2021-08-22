@@ -43,7 +43,7 @@ Das nationale Newsletter Team
 
 ### **Kommende Veranstaltungen**
 
-![](/media/tour-de-suisse_de.png)
+![](/media/rsz_1tour_de_suisse_de.png)
 
 **Die Massenmobilisierung braucht dich!** \
 Bist du bereit, bei der Rebellion zu helfen? Wir suchen Leute, die uns beim Plakatieren und Flyern in der ganzen Schweiz helfen. Die nächsten Daten: 23. August in Zürich, 24. August in Basel, 25. August in Bern und Morges... und viele weitere! 
