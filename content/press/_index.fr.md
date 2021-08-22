@@ -17,4 +17,4 @@ Contact média: [media at xrebellion.ch](media@xrebellion.ch)
 
 [Images et vidéos](https://show.pics.io/xr-global-media-resources-public/search?tagId=5fa93cf0af1bf200110c09a7)
 
-Vous trouverez de plus amples informations sur notre mouvement dans la [FAQ]({{< ref "/about/faq" >}})
+Vous trouverez de plus amples informations sur notre mouvement dans la [FAQ]({{< ref "/about/faq" >}}).
