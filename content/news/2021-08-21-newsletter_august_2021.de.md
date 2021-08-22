@@ -6,15 +6,15 @@ slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:56:16+0200
-image: /media/news/newsletter_picture_de-min.jpeg
-thumb: /media/news/newsletter_picture_de-min.jpeg
+image: /media/news/newsletter_picture_de-min.png
+thumb: /media/news/newsletter_picture_de-min.png
 published: true
 ---
 *Newsletter, 22. August 2021*
 
 ## **Wenn nicht Du, wer dann? Wenn nicht jetzt, wann dann?**
 
-![](/media/newsletter_picture_de-min.jpeg)
+![](/media/newsletter_picture_de-min.png)
 
 **Lese den Newsletter** auf Englisch | en Français | in Italiano
 
@@ -43,7 +43,7 @@ Das nationale Newsletter Team
 
 ### **Kommende Veranstaltungen**
 
-![](/media/export-2-.png)
+![](/media/tour-de-suisse_de.png)
 
 **Die Massenmobilisierung braucht dich!** \
 Bist du bereit, bei der Rebellion zu helfen? Wir suchen Leute, die uns beim Plakatieren und Flyern in der ganzen Schweiz helfen. Die nächsten Daten: 23. August in Zürich, 24. August in Basel, 25. August in Bern und Morges... und viele weitere! 
@@ -59,7 +59,7 @@ Vorträge darüber, warum wir auf das Aussterben zusteuern und was wir dagegen t
 
 ### **Vergangene Aktionen**
 
-![](/media/dscf9623.jpg)
+![](/media/dscf9623-min-1-.png)
 
 ##### **Mach es wie Sonja und halte ihnen die Wahrheit #UnderTheirNose!**
 
