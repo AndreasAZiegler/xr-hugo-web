@@ -45,12 +45,14 @@ Das nationale Newsletter Team
 
 ![](/media/rsz_1tour_de_suisse_de.png)
 
-**Die Massenmobilisierung braucht dich!** \
+##### **Die Massenmobilisierung braucht dich!** 
+
 Bist du bereit, bei der Rebellion zu helfen? Wir suchen Leute, die uns beim Plakatieren und Flyern in der ganzen Schweiz helfen. Die nächsten Daten: 23. August in Zürich, 24. August in Basel, 25. August in Bern und Morges... und viele weitere! 
 
 * ###### **[Hier gehts zu allen Daten, Informationen und zur Anmeldung!](<* [](https://www.xrebellion.ch/act/events/20210817-tour-de-suisse/)Hier gehts zu allen Daten, Informationen und zur Anmeldung>)**
 
-**Vorträge und Trainings**\
+##### **Vorträge und Trainings**
+
 Vorträge darüber, warum wir auf das Aussterben zusteuern und was wir dagegen tun können, Training in gewaltfreiem zivilen Ungehorsam, Massenmobilisierungsveranstaltung....Die Vorbereitung für die Rebellion ist in vollem Gange! 
 
 * ###### **[Erfahre hier mehr über die kommenden Veranstaltungen in deiner Umgebung.](https://www.xrebellion.ch/act/events/)**
@@ -59,14 +61,14 @@ Vorträge darüber, warum wir auf das Aussterben zusteuern und was wir dagegen t
 
 ### **Vergangene Aktionen**
 
-![](/media/rsz_1dscf9623-min-min.png)
+![](/media/rsz_dscf9623-min.png)
 
 ##### **Mach es wie Sonja und halte ihnen die Wahrheit #UnderTheirNose!**
 
 Am 11. August kam die Mutter und Ärztin Sonja Hediger aus dem Waadtland nach Bern, um die Zusammenfassung des neuen IPCC-Berichts an den Bundespalast zu kleben. Sie fügte auch den Anfang der Schweizerischen Bundesverfassung und den letzten Aufruf vor der Rebellion hinzu, den die Rebellen im Juni an den Bundesrat gerichtet hatten. Nach 7 Seiten wurde sie von der Polizei unterbrochen, aber nicht gebüsst. Sie sagt, dass sie bis zur Rebellion jede Woche wiederkommen wird. Diese Woche wurden andere Menschen dazu inspiriert, das Gleiche in ihrer Stadt zu tun. 
 
 * ###### **[Schau dir das Video an](https://www.facebook.com/XRSwitzerland/videos/173493621516933)**
-* Mach das Gleiche in deiner Stadt
+* ###### **[Mach das Gleiche in deiner Stadt](https://drive.google.com/drive/folders/1O6doYNia9PjdZgFdY8Z2cV4co240s4-A)**
 
 ##### **Claras Prozess**
 
