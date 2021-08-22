@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: What if it fails?
-slug: What-if-it-fails?
+slug: what-if-it-fails
 faq_types:
   - about-the-autumn-rebellion-in-zurich
 published: true
