@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: What is your structure, how do you organise?
-slug: What-is-your-structure,-how-do-you-organise
+slug: what-is-your-structure-how-do-you-organise
 faq_types:
   - about-us
 published: true
