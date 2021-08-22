@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Tell me more about momentum-driven organizing
-slug: Tell-me-more-about-momentum-driven-organizing
+slug: tell-me-more-about-momentum-driven-organizing
 faq_types:
   - about-strategy
 published: true

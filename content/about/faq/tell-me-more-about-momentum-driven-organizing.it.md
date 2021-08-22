@@ -2,7 +2,7 @@
 type: faq
 lang: it
 title: Dimmi di più sullo “momentum-driven organizing"
-slug: Dimmi-di-più-sullo-“momentum-driven-organizing"
+slug: tell-me-more-about-momentum-driven-organizing
 faq_types:
   - la-strategia
 published: true
