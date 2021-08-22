@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: How are you funded?
-slug: How-are-you-funded?
+slug: how-are-you-funded
 faq_types:
   - about-us
 published: true
