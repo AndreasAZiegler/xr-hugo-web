@@ -16,9 +16,9 @@ published: true
 
 ![](/media/rsz_1newsletter_picture_de-min.png)
 
-**Lese den Newsletter** auf Englisch | en Français | in Italiano
+**Lese den Newsletter** auf [Englisch](https://www.xrebellion.ch/en/news/newsletter_august_2021/) | en [Français](https://www.xrebellion.ch/fr/news/newsletter_august_2021/) | in [Italiano](https://www.xrebellion.ch/it/news/newsletter_august_2021/)
 
-Liebe besorgte Bürger*innen,
+[](https://www.xrebellion.ch/it/news/newsletter_august_2021/)Liebe besorgte Bürger*innen,
 
 Die UNO, der Weltklimarat, das Bundesamt für Umwelt... Sie alle sagen uns: Wenn wir nicht sofort handeln, wird es weltweit zu Nahrungsmittelknappheit, Hungersnöten und sozialen Zusammenbruch kommen - auch in der Schweiz. Der CO2-Ausstoss muss massiv gesenkt werden.
 
