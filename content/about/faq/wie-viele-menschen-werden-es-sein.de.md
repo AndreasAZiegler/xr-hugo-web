@@ -1,10 +1,10 @@
 ---
 type: faq
-lang: de
-title: Wie viele Menschen werden es sein?
-slug: Wie-viele-Menschen-werden-es-sein
+lang: it
+title: Quante persone ci saranno?
+slug: Quante-persone-ci-saranno
 faq_types:
-  - über-die-rebellion-in-zürich
+  - sulla-ribellione-d-autunno-a-zurigo
 published: true
 ---
-Der Grad der Störung, der durch eine Aktion erreicht wird, ist völlig unabhängig von der Anzahl der beteiligten Personen. 100'000 auf einem legalen Marsch stören nichts. Eine Person, die allein auf einer Autobahn sitzt, hingegen schon. Unsere Rebellen sind in der Lage, genau so viel gutmütiges Chaos zu verursachen, wie sie glauben, dass es notwendig ist, um ihre Ziele zu erreichen. Störungen sind jedoch nur ein Mittel zum Zweck - wir werden nicht gewinnen, wenn wir nicht einen Wirbelsturm in der Gesellschaft erzeugen, der eine grosse Zahl von Menschen dazu inspiriert, sich diesem Kampf um ihr Leben anzuschliessen. Hier kommen Zahlen ins Spiel: Je mehr Menschen wir zu Beginn der Rebellion sind, desto mehr Menschen werden wir in den nächsten Tagen inspirieren und anziehen, um eine Dynamik aufzubauen und wirklich unaufhaltsam zu werden. Schließen Sie sich uns an, bringen Sie Ihr Gewicht ein, und gemeinsam werden wir unaufhaltsam sein!
+Il livello di disturbo raggiunto da un'azione è abbastanza indipendente dal numero di persone coinvolte. 100'000 persone in una marcia legale non disturbano nulla, una persona seduta da sola su un'autostrada sì. Siate certi che le nostre bande di ribelli sono capaci di causare tanto bonario disordine quanto pensano sia necessario per raggiungere i loro obiettivi ;) Tuttavia, il disordine è solo un mezzo per un fine - non vinceremo a meno che non creiamo un vortice nella società, ispirando un gran numero di persone a unirsi a questa lotta per le loro vite, sopraffacendo il sistema. È qui che entrano in gioco i numeri: più persone siamo all'inizio della ribellione, più persone è probabile che ispiriamo e attiriamo nei giorni successivi, costruendo lo slancio e diventando davvero inarrestabili. Una persona seduta su una strada è molto commovente e ha il potere di ispirare altri a trovare il loro coraggio. La nostra strategia si basa sull'organizzazione guidata dallo slancio: in un gioco di domini sociali, miriamo ad essere la spinta iniziale che mette in moto la società, spingendola verso un punto di svolta sociale oltre il quale un profondo cambiamento politico è inevitabile. Unisciti a noi, aggiungi il tuo peso, e insieme saremo inarrestabili!
