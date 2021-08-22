@@ -24,11 +24,11 @@ Die UNO, der Weltklimarat, das Bundesamt für Umwelt... Sie alle sagen uns: Wenn
 
 Doch der Bundesrat tut so, als ob alles in Ordnung wäre. 
 
-Wir fordern ihn auf, die Wahrheit zu sagen. Wir verlangen, dass er jetzt handelt. Um uns aus der Sackgasse zu führen, muss das politische System Bürger*innen-Versammlungen einsetzen. Wir fordern damit eine Demokratie, die in der Lage ist, uns aus dieser Krise zu führen. Dies ist ein absoluter Notstand.
+Wir fordern ihn auf, die Wahrheit zu sagen. Wir verlangen, dass er jetzt handelt. Um uns aus der Sackgasse zu führen, muss das politische System Bürger*innen-Versammlungen einsetzen. Wir fordern damit eine Demokratie, die in der Lage ist, uns aus dieser Krise zu führen. **Dies ist ein absoluter Notstand.**
 
 Wenn der Bundesrat bis Ende September nicht auf diese einfachen, lebenswichtigen Forderungen reagiert, rufen wir jede\*n prinzipientreue\*n und friedliche\*n Bürger\*in auf, sich mit uns zu erheben.
 
-Ab dem 3. Oktober werden sich jeden Tag Hunderte von Menschen, jung und alt, auf die Strassen der Zürcher Innenstadt setzen, bis gehandelt wird, um aus dieser Krise zu kommen. Schliesse Dich uns an
+**Ab dem 3. Oktober** werden sich jeden Tag Hunderte von Menschen, jung und alt, auf die Strassen der Zürcher Innenstadt setzen, bis gehandelt wird, um aus dieser Krise zu kommen. Schliesse Dich uns an
 
 ## **[FINDE DEINE ROLLE](https://actionnetwork.org/forms/sign-up-for-the-rebellion-de)**
 
