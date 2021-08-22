@@ -1,8 +1,7 @@
 ---
 type: blogpost
 lang: de
-title: "Newsletter, August 2021: Wenn nicht Du, wer dann? Wenn nicht jetzt, wann
-  dann?"
+title: "Newsletter: Wenn nicht Du, wer dann? Wenn nicht jetzt, wann dann?"
 slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
