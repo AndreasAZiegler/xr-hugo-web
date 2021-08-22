@@ -78,7 +78,7 @@ Il 17 agosto, Clara, 19 anni, è stata condannata per "coercizione" per essersi 
 
 ##### **International news**
 
-![](/media/featured-image-next-uk-rebellion.jpeg)
+![](/media/rsz_featured-image-next-uk-rebellion.jpg)
 
 ##### **Il cambiamento climatico è diffuso, rapido e si sta intensificando**
 
