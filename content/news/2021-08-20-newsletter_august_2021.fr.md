@@ -7,7 +7,7 @@ author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:49:52+0200
 image: /media/news/rsz_newsletter_picture_fr-min.png
-thumb: /media/news/rsz_newsletter_picture_fr-min.png
+thumb: /media/news/newsletter_picture_fr-min.jpg
 published: true
 ---
 *Newsletter, 22 août 2021*
@@ -51,8 +51,6 @@ Prêt·e à aider pour la rébellion ? Nous recherchons des personnes pour aider
 
 * ###### [Vous trouverez ici toutes les dates et informations relatives à l'impressionnant Tour de Suisse ! ](https://www.xrebellion.ch/fr/act/events/20210817-tour-de-suisse/)Matériel fourni.
 
-
-
 ##### **Conférences et formations**
 
 Des conférences qui expliquent pourquoi nous allons vers l'extinction, et ce que nous pouvons faire pour y remédier; une formation à la désobéissance civile non violente; un événement de mobilisation de masse: l'organisation de la rébellion est en cours!
@@ -63,7 +61,7 @@ Des conférences qui expliquent pourquoi nous allons vers l'extinction, et ce qu
 
 ##### **Revue d'action**
 
-![](/media/rsz_dscf9623-min.png)
+![](/media/rsz_rsz_dscf9623-min.png)
 
 ##### **Faites comme Sonja et collez leur la vérité sous le nez ! #UnderTheirNose**
 
@@ -80,15 +78,13 @@ Le 17 août, Clara, 19 ans, a été reconnue coupable de “contrainte” pour s
 
 ##### **Nouvelles à l'international**
 
-![](/media/rsz_impossible_rebellion.png)
+![](/media/featured-image-next-uk-rebellion.jpeg)
 
 ##### **Le changement climatique est partout, et plus rapide que prévu**
 
 Le dernier rapport des Nations Unies est clair : le changement climatique est là, c'est une crise, et il est causé par les combustibles fossiles.
 
 * ###### [Lire le résumé pour les décideurs politiques](https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf)
-
-
 
 ##### **La Rébellion de l’Impossible au Royaume-Uni**
 
