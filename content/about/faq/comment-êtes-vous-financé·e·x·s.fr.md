@@ -1,8 +1,8 @@
 ---
 type: faq
 lang: fr
-title: Comment êtes-vous financé·e x s ?
-slug: Comment-êtes-vous-financé-e-x-s
+title: Comment êtes-vous financé ?
+slug: Comment-êtes-vous-financé
 faq_types:
   - à-propos-de-nous
 published: true
