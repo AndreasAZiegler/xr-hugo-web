@@ -2,7 +2,7 @@
 type: faq
 lang: de
 title: Werden Sie wirklich Zürich lahmlegen?
-slug: Werden-Sie-wirklich-Zürich-lahmlegen
+slug: can-you-really-shut-down-zurich
 faq_types:
   - über-die-rebellion-in-zürich
 published: true
