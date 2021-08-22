@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Do you really take pleasure in causing perturbations in people’s daily lives?
-slug: Do-you-really-take-pleasure-in-causing-perturbations-in-peoples-daily-lives
+slug: do-you-really-take-pleasure-in-causing-perturbations-in-peoples-daily-lives
 faq_types:
   - about-strategy
 published: true
