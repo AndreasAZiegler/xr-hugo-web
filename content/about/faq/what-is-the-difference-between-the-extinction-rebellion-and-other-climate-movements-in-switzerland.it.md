@@ -3,7 +3,7 @@ type: faq
 lang: it
 title: Qual è la differenza tra la ribellione per l'estinzione e gli altri
   movimenti per il clima in Svizzera?
-slug: Qual-è-la-differenza-tra-la-ribellione-per-l'estinzione-e-gli-altri-movimenti-per-il-clima-in-Svizzera?
+slug: what-is-the-difference-between-the-extinction-rebellion-and-other-climate-movements-in-Switzerland
 faq_types:
   - la-strategia
 published: true

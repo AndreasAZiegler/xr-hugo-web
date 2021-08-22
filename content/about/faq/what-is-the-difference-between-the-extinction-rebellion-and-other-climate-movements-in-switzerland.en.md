@@ -3,7 +3,7 @@ type: faq
 lang: en
 title: What is the difference between the extinction rebellion and other climate
   movements in Switzerland?
-slug: What-is-the-difference-between-the-extinction-rebellion-and-other-climate-movements-in-Switzerland
+slug: what-is-the-difference-between-the-extinction-rebellion-and-other-climate-movements-in-Switzerland
 faq_types:
   - about-strategy
 published: true

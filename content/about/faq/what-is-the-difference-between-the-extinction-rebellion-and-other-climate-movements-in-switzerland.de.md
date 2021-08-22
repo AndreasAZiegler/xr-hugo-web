@@ -3,7 +3,7 @@ type: faq
 lang: de
 title: Was ist der Unterschied zwischen der Extinction Rebellion und anderen
   Klimabewegungen in der Schweiz?
-slug: Was-ist-der-Unterschied-zwischen-der-Extinction-Rebellion-und-anderen-Klimabewegungen-in-der-Schweiz
+slug: what-is-the-difference-between-the-extinction-rebellion-and-other-climate-movements-in-Switzerland
 faq_types:
   - über-die-strategie
 published: true
