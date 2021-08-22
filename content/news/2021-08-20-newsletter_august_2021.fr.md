@@ -5,10 +5,10 @@ title: "Newsletter: Si pas vous, qui ? Si pas maintenant quand?"
 slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
-publishdate: 2021-08-20T15:53:08+0200
+publishdate: 2021-08-22T16:49:52+0200
 image: /media/news/newsletter_picture_fr.jpeg
 thumb: /media/news/newsletter_picture_fr.jpeg
-published: false
+published: true
 ---
 *Newsletter, 22 août 2021*
 
@@ -70,8 +70,6 @@ Le 11 août, Sonja Hediger, mère de famille et médecin, est venue du canton de
 **Le procès de Clara**\
 Le 17 août, Clara, 19 ans, a été reconnue coupable de “contrainte” pour s’être assise paisiblement sur un pont pour demander au gouvernement un avenir sur Terre. Elle était l’une des 250 personnes qui ont occupé le Pont du Quai à Zurich plusieurs heures durant en juin 2020. Son procès est le premier de la série. Les rebelles continueront à submerger les tribunaux la tête haute, en les mettant face à cette même question: quelle est la responsabilité historique des cours de justice, quand le gouvernement nous “contraint” tous et toutes à voir notre planète brûler?
 
-* ##### ((LINK))
-
 - - -
 
 ## **Nouvelles à l'international**
@@ -94,3 +92,5 @@ Nous ne sommes pas seul·es à nous rebeller ! Partout dans le monde, des gens c
 
 **Le gouvernement suisse n'agit-il pas déjà ?**\
 La Suisse prévoit de réduire ses émissions nettes de carbone à zéro d'ici 2050, respectant ainsi l'objectif convenu au niveau international pour avoir une chance de limiter le réchauffement climatique à 1,5°C max par rapport à l'ère préindustrielle. Outre le fait que cette échéance est bien trop tardive pour garantir un avenir sûr et sain pour nous tous, la Suisse n'a toujours pas de plan concret pour atteindre cet objectif insuffisant. Pas vraiment rassurant, si ?
+
+* [Lire la FAQ complète](https://www.xrebellion.ch/fr/about/faq/)
