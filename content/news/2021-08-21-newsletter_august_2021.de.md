@@ -6,15 +6,15 @@ slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:56:16+0200
-image: /media/news/newsletter_picture_de-min.png
-thumb: /media/news/newsletter_picture_de-min.png
+image: /media/news/rsz_newsletter_picture_de-min.png
+thumb: /media/news/rsz_newsletter_picture_de-min.png
 published: true
 ---
 *Newsletter, 22. August 2021*
 
 ## **Wenn nicht Du, wer dann? Wenn nicht jetzt, wann dann?**
 
-![](/media/newsletter_picture_de-min.png)
+![](/media/rsz_newsletter_picture_de-min.png)
 
 **Lese den Newsletter** auf Englisch | en Français | in Italiano
 
