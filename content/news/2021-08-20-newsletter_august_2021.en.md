@@ -7,7 +7,7 @@ author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:53:34+0200
 image: /media/news/rsz_newsletter_picture_en-min.jpg
-thumb: /media/news/rsz_newsletter_picture_en-min.jpg
+thumb: /media/news/newsletter_picture_en-min.jpg
 published: true
 ---
 *Newsletter, August 22nd 2021*
@@ -58,7 +58,7 @@ Talks about why we are heading for extinction, and what to do about it, training
 
 ##### **Action Review**
 
-![](/media/rsz_dscf9623-min.png)
+![](/media/rsz_rsz_dscf9623-min.png)
 
 ##### **Do it like Sonja and stick the truth #UnderTheirNose!**
 
@@ -75,7 +75,7 @@ On August 17th, Clara, 19, was convicted of “coercion” for peacefully sittin
 
 ##### **International news:** it’s grim, but folks are rebelling!
 
-![](/media/rsz_impossible_rebellion.png)
+![](/media/featured-image-next-uk-rebellion.jpeg)
 
 ##### Climate change widespread, rapid, and intensifying
 
