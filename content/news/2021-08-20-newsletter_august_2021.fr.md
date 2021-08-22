@@ -6,17 +6,17 @@ slug: Newsletter_August_2021
 author: XR Newsletter Team
 branch: XR Switzerland
 publishdate: 2021-08-22T16:49:52+0200
-image: /media/news/newsletter_picture_fr-min.png
-thumb: /media/news/newsletter_picture_fr-min.png
+image: /media/news/rsz_newsletter_picture_fr-min.png
+thumb: /media/news/rsz_newsletter_picture_fr-min.png
 published: true
 ---
 *Newsletter, 22 août 2021*
 
 ## **Si pas vous, qui ? Si pas maintenant quand?**
 
-![](/media/newsletter_picture_fr-min.png)
+![](/media/rsz_newsletter_picture_fr-min.png)
 
-**Read the newsletter** auf Deutsch | en Français | in Italiano
+**Read the newsletter** auf [Deutsch](https://www.xrebellion.ch/news/newsletter_august_2021/) | [in English](https://www.xrebellion.ch/en/news/newsletter_august_2021/) | in [Italiano](https://www.xrebellion.ch/it/news/newsletter_august_2021/)
 
 Chers citoyens inquiets, chères citoyennes inquiètes,
 
@@ -43,7 +43,7 @@ L'équipe Newsletter
 
 ##### **Evénements à venir**
 
-![](/media/tour-de-suisse_fr.png)
+![](/media/rsz_tour_de_suisse_fr.png)
 
 **La mobilisation de masse a besoin de vous !** \
 Prêt·e à aider pour la rébellion ? Nous recherchons des personnes pour aider à l'affichage et à la distribution de tracts dans toute la Suisse. Les prochaines dates: RDV le 23 août à Zurich, le 24 à Bâle, le 25 à Morges et Berne... Et pleins d'autres dates encore!
@@ -59,13 +59,13 @@ Des conférences qui expliquent pourquoi nous allons vers l'extinction, et ce qu
 
 ##### **Revue d'action**
 
-![](/media/dscf9623-min-min.png)
+![](/media/rsz_1dscf9623-min-min.png)
 
 **Faites comme Sonja et collez leur la vérité sous le nez ! #UnderTheirNose**\
 Le 11 août, Sonja Hediger, mère de famille et médecin, est venue du canton de Vaud pour placarder le résumé du dernier rapport du GIEC sur le Palais Fédéral. Pour faire bonne mesure, elle a aussi ajouté le début de la Constitution suisse, et le Dernier Appel Avant la Rébellion remis au Conseil fédéral par des rebelles en juin. Elle a été interrompue par la police après sept pages, mais n'a pas été amendée. Elle compte revenir toutes les semaines jusqu’à la rébellion. Cette semaine déjà, son acte a inspiré d’autres personnes qui en ont fait de même dans leur ville.
 
 * ###### [Regardez la vidéo](https://www.facebook.com/XRSwitzerland/videos/173493621516933) [](https://www.facebook.com/XRSwitzerland/videos/173493621516933)
-* **Faites de même dans votre ville**
+* **[Faites de même dans votre ville](https://drive.google.com/drive/folders/1O6doYNia9PjdZgFdY8Z2cV4co240s4-A)**
 
 **Le procès de Clara**\
 Le 17 août, Clara, 19 ans, a été reconnue coupable de “contrainte” pour s’être assise paisiblement sur un pont pour demander au gouvernement un avenir sur Terre. Elle était l’une des 250 personnes qui ont occupé le Pont du Quai à Zurich plusieurs heures durant en juin 2020. Son procès est le premier de la série. Les rebelles continueront à submerger les tribunaux la tête haute, en les mettant face à cette même question: quelle est la responsabilité historique des cours de justice, quand le gouvernement nous “contraint” tous et toutes à voir notre planète brûler?
@@ -74,7 +74,7 @@ Le 17 août, Clara, 19 ans, a été reconnue coupable de “contrainte” pour s
 
 ##### **Nouvelles à l'international**
 
-![](/media/the-truth-video-overlay-2000x1025-c-center.jpeg)
+![](/media/rsz_impossible_rebellion.png)
 
 **Le changement climatique est partout, et plus rapide que prévu**\
 Le dernier rapport des Nations Unies est clair : le changement climatique est là, c'est une crise, et il est causé par les combustibles fossiles.
