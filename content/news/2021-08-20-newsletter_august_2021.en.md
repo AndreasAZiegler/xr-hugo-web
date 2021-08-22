@@ -52,7 +52,7 @@ Ready to help for the rebellion? We’re looking for people helping us with post
 
 Talks about why we are heading for extinction, and what to do about it, training in nonviolent civil disobedience, mass mobilisation event. We're planing for the rebellion! 
 
-* ###### [Find out here](https://www.xrebellion.ch/de/act/events/) more about the upcoming events in your city
+* ###### [Find out here more about the upcoming events in your city](https://www.xrebellion.ch/en/act/events/)
 
 - - -
 
@@ -81,13 +81,13 @@ On August 17th, Clara, 19, was convicted of “coercion” for peacefully sittin
 
 The latest UN report is clear: Climate change is here, it’s a crisis, and it’s caused by fossil fuels.
 
-* ###### [Read the summary for policymakers](<* https://www.ipcc.ch/report/ar6/wg1/downloads/report/IPCC_AR6_WGI_SPM.pdf>)
+* ###### [Read the summary for policymakers](https://www.ipcc.ch/report/sixth-assessment-report-working-group-i/)
 
 ##### Impossible Rebellion in the UK
 
 We’re not the only ones to rebel! All over the world, people like you and me are rising up to ask their governments to tell the truth and act. As of tomorrow, August 23rd, worried citizens will disrupt the City of London - with no end date.
 
-* ###### [Further information](<* https://extinctionrebellion.uk/next-uk-rebellion/>)
+* ###### [Further information](https://extinctionrebellion.uk/next-uk-rebellion/)
 
 - - -
 
