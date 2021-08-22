@@ -8,7 +8,7 @@ branch: XR Switzerland
 publishdate: 2021-08-22T16:53:34+0200
 image: /media/news/newsletter_picture_en.jpeg
 thumb: /media/news/newsletter_picture_en.jpeg
-published: false
+published: true
 ---
 *Newsletter, August 22nd 2021*
 
