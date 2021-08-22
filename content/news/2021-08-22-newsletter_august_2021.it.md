@@ -55,13 +55,13 @@ Pront* ad aiutare per la ribellione? Cerchiamo persone che ci aiutino con affiss
 
 Conferenze sul perché ci stiamo dirigendo verso l'estinzione, e cosa fare al riguardo, formazione sulla disobbedienza civile non violenta, evento di mobilitazione di massa. 
 
-* ###### [Scopri qui](https://www.xrebellion.ch/de/act/events/) maggiori informazioni sui prossimi eventi nella tua città
+* ###### [Scopri qui maggiori informazioni sui prossimi eventi nella tua città](https://www.xrebellion.ch/it/act/events/)
 
 - - -
 
 ##### **Action Review**
 
-![](/media/rsz_dscf9623-min.png)
+![](/media/rsz_rsz_dscf9623-min.png)
 
 ##### **Fai come Sonja e incollagli la verità sotto il naso #UnderTheirNose!**
 
