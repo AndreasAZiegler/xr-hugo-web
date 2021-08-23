@@ -30,7 +30,7 @@ Se il Consiglio Federale non ha risposto a queste semplici richieste vitali entr
 
 **Dal 3 ottobre:** ogni giorno, centinaia di persone, giovani e anziani, si siederanno nelle strade del centro di Zurigo fino a quando non si prenderanno provvedimenti sulla crisi.
 
-## **[TROVA IL TUO RUOLO](https://actionnetwork.org/forms/sign-up-for-the-rebellion-it?link_id=11&can_id=f5ff39a52a10cfb3ba21db1bd7808671&source=email-if-not-you-who-if-not-now-when&email_referrer=email_1265691&email_subject=if-not-you-who-if-not-now-when)**
+## **[TROVA IL TUO RUOLO](https://actionnetwork.org/forms/sign-up-for-the-rebellion-it)**
 
 Non venire da sol*! Porta i tuoi amici e la tua famiglia - per cambiare tutto, abbiamo bisogno di tutti e tutte! 
 
