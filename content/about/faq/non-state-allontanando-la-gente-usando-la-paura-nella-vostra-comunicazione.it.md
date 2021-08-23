@@ -4,7 +4,6 @@ lang: it
 title: Non state allontanando la gente usando la paura nella vostra comunicazione?
 slug: Non-state-allontanando-la-gente-usando-la-paura-nella-vostra-comunicazione
 faq_types:
-  - about-strategy
   - la-strategia
 published: true
 ---
