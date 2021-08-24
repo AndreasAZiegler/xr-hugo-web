@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: But not everyone is equal in the face of an arrest!
-slug: But-not-everyone-is-equal-in-the-face-of-an-arrest
+slug: but-not-everyone-is-equal-in-the-face-of-an-arrest
 faq_types:
   - about-strategy
 published: true

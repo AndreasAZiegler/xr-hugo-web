@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Are you celebrating arrests?
-slug: Are-you-celebrating-arrests
+slug: are-you-celebrating-arrests
 faq_types:
   - about-strategy
 published: true

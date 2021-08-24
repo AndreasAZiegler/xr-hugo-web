@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Why do you cooperate with the police?
-slug: Why-do-you-cooperate-with-the-police
+slug: why-do-you-cooperate-with-the-police
 faq_types:
   - about-strategy
 published: true

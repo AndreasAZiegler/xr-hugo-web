@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Why are you just so fond of Citizens assemblies?
-slug: Why-are-you-just-so-fond-of-Citizens-assemblies
+slug: why-are-you-just-so-fond-of-Citizens-assemblies
 faq_types:
   - about-strategy
 published: true

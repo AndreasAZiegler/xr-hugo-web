@@ -2,7 +2,7 @@
 type: faq
 lang: fr
 title: " Tout le monde n'est pas égal face à une arrestation!"
-slug: Tout-le-monde-n'est-pas-égal-face-à-une-arrestation
+slug: but-not-everyone-is-equal-in-the-face-of-an-arrest
 faq_types:
   - à-propos-de-la-stratégie
 published: true

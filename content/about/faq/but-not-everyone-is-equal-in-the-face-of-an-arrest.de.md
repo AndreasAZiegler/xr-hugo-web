@@ -2,7 +2,7 @@
 type: faq
 lang: de
 title: Aber nicht jede*r ist gleich, wenn er/sie verhaftet wird!
-slug: Aber-nicht-jede*r-ist-gleich-wenn-er-sie-verhaftet-wird
+slug: but-not-everyone-is-equal-in-the-face-of-an-arrest
 faq_types:
   - über-die-strategie
 published: true

@@ -2,7 +2,7 @@
 type: faq
 lang: it
 title: Ma non tutti sono uguali di fronte a un arresto!
-slug: Ma-non-tutti-sono-uguali-di-fronte-a-un-arresto
+slug: but-not-everyone-is-equal-in-the-face-of-an-arrest
 faq_types:
   - la-strategia
 published: true

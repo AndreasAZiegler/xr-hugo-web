@@ -2,7 +2,7 @@
 type: faq
 lang: en
 title: Why is the rebellion nonviolent, and will it remain so?
-slug: Why-is-the-rebellion-nonviolent-and-will-it-remain-so
+slug: why-is-the-rebellion-nonviolent-and-will-it-remain-so
 faq_types:
   - about-strategy
 published: true
