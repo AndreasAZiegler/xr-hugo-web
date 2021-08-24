@@ -49,7 +49,7 @@ Das nationale Newsletter Team
 
 Bist du bereit, bei der Rebellion zu helfen? Wir suchen Leute, die uns beim Plakatieren und Flyern in der ganzen Schweiz helfen. Die nächsten Daten: 23. August in Zürich, 24. August in Basel, 25. August in Bern und Morges... und viele weitere! 
 
-* ###### **[Hier gehts zu allen Daten, Informationen und zur Anmeldung!](<* [](https://www.xrebellion.ch/act/events/20210817-tour-de-suisse/)Hier gehts zu allen Daten, Informationen und zur Anmeldung>)**
+* ###### **[Hier gehts zu allen Daten, Informationen und zur Anmeldung!](https://www.xrebellion.ch/act/events/20210817-tour-de-suisse/)**
 
 ##### **Vorträge und Trainings**
 
