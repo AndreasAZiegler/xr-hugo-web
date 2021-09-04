@@ -6,7 +6,7 @@ slug: 02102021-riviera-orgahorizontale
 author: XR Riviera
 branch: Riviera
 publishdate: 2021-09-01T20:18:16+0200
-date: 2021-09-01T20:18:16+0200
+date: 2021-10-02T14:00:16+0200
 date_end: 2021-10-02T18:00:00+0200
 event_loc_addressLocality: Vevey
 event_loc_country: Switzerland
