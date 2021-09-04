@@ -7,7 +7,7 @@ slug: TALK-09.09.21-saignelégier
 author: XR CH
 branch: XR Jura
 publishdate: 2021-08-24T21:19:49+0200
-date: 2021-08-24T21:19:49+0200
+date: 2021-09-09T18:30:49+0200
 date_end: 2021-09-09T20:30:00+0200
 event_loc_name: Café du Soleil
 event_loc_street_name: "Rue du Marché-Concours "
