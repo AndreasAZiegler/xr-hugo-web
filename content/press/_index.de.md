@@ -1,8 +1,8 @@
 ---
-title: "Presse"
+title: "Medien"
 menu:
   main:
-    name: "Presse"
+    name: "Medien"
     weight: 150
 type: pressreleases
 date: 2021-04-25T17:19:04+02:00
@@ -19,4 +19,4 @@ Medienkontakt: [media at xrebellion.ch](media@xrebellion.ch)
 [Bilder und Videos](https://show.pics.io/xr-global-media-resources-public/search?tagId=5fa93cf0af1bf200110c09a7)
 
 
-Informationen über die Bewegung finden Sie in unserer FAQ [FAQ]({{< ref "/about/faq" >}})
+Informationen über die Bewegung finden Sie in unserer [FAQ]({{< ref "/about/faq" >}}).

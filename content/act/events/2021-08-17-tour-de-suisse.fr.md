@@ -1,11 +1,11 @@
 ---
 type: events
 lang: fr
-title: Mobilisation - Tour de Suisse
-slug: Tour-de-Suisse
-author: XR-Switzerland
-branch: XR-Switzerland
-publishdate: 2021-08-16T18:08:57+0200
+title: Mobilisation pour la rebellion - Tour de Suisse
+slug: 20210817 Tour-de-Suisse
+author: XR CH
+branch: XR CH
+publishdate: 2021-08-21T14:56:55+0200
 date: 2021-08-16T18:08:37+0200
 date_end: 2021-09-05T00:00:00+0200
 event_loc_addressLocality: Partout en Suisse
@@ -17,6 +17,22 @@ online_registration_url: https://actionnetwork.org/events/mobilisation-tour-de-s
 published: true
 ---
 **La mobilisation pour la Rebellion s’organise dans toute la Suisse !**
+
+\*\*Les dates\*\*
+
+Lundi 23 août à Zurich, RDV à 19h Hardbrücke\
+Mardi 24 août à Bâle, en soirée, après le training NVDA\
+25 août à Berne, morgens, après l'action IPCC\
+25 août à Morges, à partir de 16h\
+27 août à Zürich, à partir de 18h avant la Critical Mass\
+27 août à Fribourg, à partir de  16h et après la conférence \
+27 août à Lausanne à la Critical Mass\
+3 septembre à Bâle, heure TBD\
+4 septembre à Lucerne, heure TBD
+
+Genève, Neuchâtel, La Chaux-de-Fonds, Bienne: contactez les groupes locaux.
+
+Yverdon, Martigny, Delémont, et toute autre ville : à organiser, il suffit de 2 personnes motivées pour fixer une date. Pour tout renseignement ou pour créer ou rejoindre un des événements, contacter [marg.dy.at.protonmail.com](mailto:marg.dy@protonmail.com)
 
 La vague de mobilisation se déplacera dans les villes de Neuchâtel, Bâle, Lucerne, Wintherthur, Fribourg, Lausanne, Genève, Zürich et dans toute autre ville qui le demandera.
 

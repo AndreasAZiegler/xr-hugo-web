@@ -7,7 +7,7 @@ rebellion:
   heading: Rebellion against extinction
   subheading: From October 3rd in Zurich<br/> If not you, who?
   button: Join the rebellion
-  link: join/
+  link: en/join/
 hero:
   heading: It's time<br/> to<br/> rebel
   button: Why? 

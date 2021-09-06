@@ -1,8 +1,8 @@
 ---
-title: "Premere"
+title: "Media"
 menu:
   main:
-    name: "Premere"
+    name: "Media"
     weight: 150
 type: pressreleases
 date: 2021-04-25T17:19:09+02:00

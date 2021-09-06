@@ -1,11 +1,11 @@
 ---
 type: events
 lang: de
-title: Mobilisierung - Tour de Suisse
-slug: Tour-de-Suisse
-author: XR-Switzerland
-branch: XR-Switzerland
-publishdate: 2021-08-17T18:19:06+0200
+title: "Mobilisiere für die Rebellion: Tour de Suisse"
+slug: 20210817-Tour-de-Suisse
+author: XR CH
+branch: XR CH
+publishdate: 2021-08-21T14:44:50+0200
 date: 2021-08-16T18:19:06+0200
 date_end: 2021-09-05T00:00:00+0200
 event_loc_name: ""
@@ -19,9 +19,23 @@ published: true
 ---
 **Die Mobilisierung für die Rebellion wird in der ganzen Schweiz organisiert!**
 
-Die Mobilisierungswelle wird sich in Neuenburg, Basel, Luzern, Winterthur, Freiburg, Lausanne, Genf, Zürich und jeder anderen Stadt, die dies wünscht, ausdehnen.
+\*\*Hier die Daten\*\*
 
-Die Bevölkerung zu erreichen und auf die Rebellion aufmerksam zu machen, die am 3. Oktober in Zürich beginnt, ist wichtig, um unsere Botschaft zu vermitteln und die Zahlen zu erreichen, die uns stark machen werden.\
+Montag 23. August in Zürich, 19 Uhr, Treffpunkt Hardbrücke\
+Dienstag 24. August in Basel, Abend, nach dem NVDA Training\
+25. August in Bern, morgens, nach der IPCC-Aktion\
+25. August in Morges, ab 16 Uhr\
+27. August in Zürich, ab 18 Uhr vor dem Critical Mass\
+27. August in Fribourg, ab 16 Uhr und nach der Konferenz\
+27. August in Lausanne an der Critical Mass\
+3. September in Basel, Zeit TDB\
+4. September in Luzern, Zeit TDB
+
+Genf, Neuenburg, La Chaux-de-Fonds, Biel: Kontaktieren Sie die Lokalgruppe\
+\
+Yverdon, Martigny, Delémont, und weitere Städte: muss noch organisiert werden. 2 motivierte Personen reichen es, um ein Datum festzulegen. Weitere Infos, Fragen: kontaktieren Sie [marg.dy.at.protonmail.com](mailto:marg.dy@protonmail.com)
+
+Um die Bevölkerung zu erreichen und auf die Rebellion aufmerksam zu machen, die am 3. Oktober in Zürich beginnt, ist wichtig, um unsere Botschaft zu vermitteln und die Zahlen zu erreichen, die uns stark machen werden.\
 \
 Melde dich zur Teilnahme an oder organisiere eine Veranstaltung! Banner, Flugblätter, Plakate und gute Laune werden zur Verfügung gestellt.
 
