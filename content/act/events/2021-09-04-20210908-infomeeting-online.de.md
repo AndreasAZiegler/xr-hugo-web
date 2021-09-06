@@ -1,7 +1,7 @@
 ---
 type: events
 lang: de
-title: 20210908_infositzung_online
+title: "Welcome Café: Informationsveranstaltung"
 slug: 20210908-infomeeting-online
 author: XR CH
 branch: XR CH
