@@ -9,6 +9,7 @@ taxonomies:
   event_type: event_type
   resource_type: resource_types
   faq_type: faq_types
+  principles_type: principles_types
 
 defaultContentLanguage: de
 languages:
