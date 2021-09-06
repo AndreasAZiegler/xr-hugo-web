@@ -1,5 +1,5 @@
 ---
-title: "10-PRINCIPLES"
+title: "10 principles"
 type: principles
 menu:
   main:

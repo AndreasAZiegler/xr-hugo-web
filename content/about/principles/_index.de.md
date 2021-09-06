@@ -1,5 +1,6 @@
 ---
 title: "Unsere 10 Prinzipien"
+type: principles
 menu:
   main:
     title: "Unsere 10 Prinzipien"
