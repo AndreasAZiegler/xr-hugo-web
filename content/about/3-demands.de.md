@@ -13,7 +13,7 @@ draft: false
 
 Extinction Rebellion ist entschlossen, die Alarmglocken der Wissenschaft, die seit mehr als 30 Jahren ertönen, nicht zu ignorieren. Wir stehen vor einer beispiellosen globalen Klima-, Umwelt- und Biodiversitätskatastrophe. Parlament und Regierung tun nicht, was nötig wäre, um uns zu schützen, obwohl Lösungen auf dem Tisch liegen.  <b>Gemeinsam schaffen wir die Voraussetzungen, damit zukünftige Generationen eine lebenswerte Welt vorfinden. </b>
 
-Die Aktivitäten von  <b>Extinction Rebellion </b> basieren auf   <b>[zehn Grundsätzen]({{< ref "/about/10-principles" >}}) </b>. Zentral dabei ist gewaltfreies Handeln, Achtung aller Individuen und gerechte Teilhabe, Autonomie und Dezentralisierung. Gleichzeitig fördern wir eine regenerative Kultur, die Resilienz fördert.
+Die Aktivitäten von  <b>Extinction Rebellion </b> basieren auf   <b>[zehn Grundsätzen]({{< ref "/about/principles/" >}}) </b>. Zentral dabei ist gewaltfreies Handeln, Achtung aller Individuen und gerechte Teilhabe, Autonomie und Dezentralisierung. Gleichzeitig fördern wir eine regenerative Kultur, die Resilienz fördert.
 
 ### Unsere Forderungen:
 

@@ -4,7 +4,7 @@ backend:
   branch: NETLIFY_BRANCH # Branch to update (replaced during CI)
   auth_type: pkce
   api_root: https://code.organise.earth/api/v4
-  app_id: e610c2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings
+  app_id: e6fc2086aa2c44e75b8fc2221b6a12bfa4693bbd56f8fbe3e675a41eece7c62 # Application ID from GitLab settings
   base_url: https://code.organise.earth
   auth_endpoint: oauth/authorize # This line should *not* be indented
 media_folder: /static/media
@@ -371,6 +371,38 @@ collections:
         widget: "select"
         multiple: true
         options: ["about-strategy", "à-propos-de-la-stratégie", "über-die-strategie", "la-strategia", "about-the-autumn-rebellion-in-zurich", "à-propos-de-la-rébellion-d-automne-à-zurich", "über-die-rebellion-in-zürich", "sulla-ribellione-d-autunno-a-zurigo", "about-us", "à-propos-de-nous", "über-uns", "su-di-noi"]
+        required: true
+      - label: 'Published'
+        name: 'published'
+        hint: "Set this to false to unpublish a post"
+        widget: "boolean"
+        required: false
+        default: true
+        
+    name: "principles"
+    label: "PRINCIPLES"
+    folder: "content/about/principles"
+    create: true
+    slug: "{{slug}}.{{lang}}"
+    fields:
+      - {label: "Type", name: "type", widget: "hidden", default: "principles"}
+      - label: "Language"
+        name: "lang"
+        widget: "select"
+        multiple: false
+        options: ["en", "fr", "de", "it"]
+        required: true
+      - {label: "Title", name: "title", widget: "string"}
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
+        required: true
+        hint: "If you're creating the post via the Netlify CMS you must set the `slug` parameter, it must be the same for every translation of the post, otherwise you will have duplicates."
+      - label: "Type of principles"
+        name: "principles_types"
+        widget: "select"
+        multiple: true
+        options: ["test-principles", "à-propos-de-la-stratégie", "über-die-strategie", "la-strategia", "about-the-autumn-rebellion-in-zurich", "à-propos-de-la-rébellion-d-automne-à-zurich", "über-die-rebellion-in-zürich", "sulla-ribellione-d-autunno-a-zurigo", "about-us", "à-propos-de-nous", "über-uns", "su-di-noi"]
         required: true
       - label: 'Published'
         name: 'published'
