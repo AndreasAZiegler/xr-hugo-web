@@ -1,45 +1,8 @@
 {{ define "main" }}
 
-<h1 class="page-heading" id="resources-header" style="background-color: #ed9bc4; ">{{.Title}}</h1>
+<h1 class="page-heading" id="resources-header" style="background-color: #75d0f1; ">{{.Title}}</h1>
 
-<div class="container">
-  <div class="accordion-wrap">
-    {{ $unique_principles_types := index .Site.Taxonomies "principles_types" }}
-    {{ range $unique_principles_type, $val := $unique_principles_types }}
-
-    <div class="accordion" id="accordion">
-      <div class="accordion-item">
-        <h2 class="accordion-header" id="heading">
-          <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_principles_type }}" >
-            {{ $unique_principles_type }}
-          </button>
-        </h2>
-        <div id="collapse{{ $unique_principles_type }}" class="collapse" aria-labelledby="heading{{ $unique_principles_type }}">
-          <div class="accordion-body">
-            <!-- <ul> -->
-              {{ range .Pages }}
-              {{ if in .Params.principles_types $unique_principles_type }}
-
-              <!-- <li> -->
-              <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse{{ $unique_principles_type }}-content" >
-                {{ .Title }} 
-              </button>
-              <!-- </li> -->
-
-              <div id="collapse{{ $unique_principles_type }}-content" class="collapse" aria-labelledby="heading{{ $unique_principles_type }}-content">
-                <div class="accordion-body">
-                  {{ .Content }}
-                </div>
-              </div>
-
-              {{ end }}
-              {{ end }}
-            <!-- </ul> -->
-          </div>
-        </div>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-</div>
+<div class="container pb-5">
+ {{ .Content }}
+</div> 
 {{ end }}
