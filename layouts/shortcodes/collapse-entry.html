@@ -1,0 +1,16 @@
+<h2>
+<a class="accordion-button collapsed" style="font-size:48px;" data-bs-toggle="collapse" href="#{{ .Get "id" }}" role="button" aria-expanded="false" aria-controls="{{ .Get "id" }}">
+  {{ .Get "title" }}
+</a>
+</h2>
+<div class="collapse" id="{{ .Get "id" }}">
+  <div class="card card-body">
+    {{ .Inner | markdownify }}
+
+    {{ if .Get "img" }}
+    <figure>
+      <img src="{{ .Get "img" }}">
+    </figure>
+    {{ end }}
+  </div>
+</div>
