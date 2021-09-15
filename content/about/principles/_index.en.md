@@ -26,7 +26,7 @@ All are welcome who want to adhere to our principles and values:
 - [We are a non-violent network](#9-we-are-a-non-violent-network)
 - [We are based on autonomy and decentralisation](#10-we-are-based-on-autonomy-and-decentralisation)
 
-## 1. We have a shared vision of change
+{{< collapse-entry id="vision" title="1. We have a shared vision of change" img="/images/principles/eyes.png" >}}
 
 Creating a world that is fit for generations to come. Our duty is to create a world fit for the next seven generations to live in. 
 Our hearts tell us a different world is possible. Our vision of change is sufficiently broad that it can contain a variety of opinions on how best to work towards that change.
@@ -40,7 +40,7 @@ And so we rebel for this, calling in joy, creativity and beauty. We rise in the 
 
 Together, our rebellion is the gift this world needs. We are XR and you are us. 
 
-{{< figure src="/images/principles/eyes.png" >}}
+{{< /collapse-entry >}}
 
 ## 2. we set our mission on what is necessary
 
