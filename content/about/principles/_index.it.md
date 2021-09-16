@@ -13,7 +13,7 @@ draft: false
 # I nostri valori
 Sono benvenuti tutti coloro che vogliono aderire ai nostri principi e valori:
 
-## 1. Abbiamo una visione condivisa del cambiamento
+{{< collapse-entry id="vision" title="1. Abbiamo una visione condivisa del cambiamento" img="/images/principles/eyes.png" >}}
 
 Creare un mondo adatto alle generazioni future.
 
@@ -29,9 +29,9 @@ E per questo ci ribelliamo, invocando gioia, creatività e bellezza. Ci sollevia
 
 Insieme, la nostra ribellione è il dono di cui questo mondo ha bisogno. Noi siamo XR e voi siete noi. 
 
-{{< figure src="/images/principles/eyes.png" >}}
+{{< /collapse-entry >}}
 
-## 2. incentriamo la nostra missione su ciò che è necessario
+{{< collapse-entry id="mission" title="2. incentriamo la nostra missione su ciò che è necessario" img="/images/principles/bone.png" >}}
 
 Mobilitare il 3,5% della popolazione per ottenere un cambiamento di sistema – utilizzando idee come “Momentum-driven organizing” per raggiungere questo obiettivo. (“Momentum-driven organizing” è un concetto sviluppato nel libro “This is an uprising”, di Mark & Paul Engler. È un modello d’organizzazione che combina la potenza esplosiva ed a corto termine delle mobilitazioni di massa con la capacità di prendere decisioni collettive e di sostenere nel tempo la lotta delle strutture convenzionali, tipo ONG).
 
@@ -53,9 +53,9 @@ Vogliamo concentrarci sui sintomi di questo sistema tossico, ma vogliamo anche c
 - una democrazia di facciata, falsa ed in decadenza;
 - un settore dei media al servizio degli interessi di pochi ricchi, dei potenti e delle multinazionali.
 
-{{< figure src="/images/principles/bone.png" >}}
+{{< /collapse-entry >}}
 
-## 3. Abbiamo bisogno di una cultura rigenerativa
+{{< collapse-entry id="culture" title="3. Abbiamo bisogno di una cultura rigenerativa" img="/images/principles/bee.png" >}}
 
 Vogliamo creare una cultura che sia sana, resiliente ed adattabile.
 
@@ -71,9 +71,9 @@ Agire in un sistema di cultura rigenerativa significa volere e saper prendersi c
 
 Si tratta di relazioni che ci rendono completamente interdipendenti: le nostre relazioni con noi stessi e con le nostre storie personali, le nostre relazioni con ciò contro cui lottiamo, le nostre relazioni con gli altri giorno per giorno e le nostre relazioni come gruppo. La cura di sé significa anche prendersi cura della nostra parte più animale, la parte di noi stessi che risponde in modo istintivo alle situazioni stressanti con reazioni di attacco, di fuga o di congelamento (freezing).
 
-{{< figure src="/images/principles/bee.png" >}}
+{{< /collapse-entry >}}
 
-## 4. Lanciamo apertamente una sfida a noi stessi ed a questo sistema tossico
+{{< collapse-entry id="toxic" title="4. Lanciamo apertamente una sfida a noi stessi ed a questo sistema tossico" img="/images/principles/butterfly.png" >}}
 
 Lasciamo le nostre zone di comfort per agire per il cambiamento.
 
@@ -83,18 +83,17 @@ Tuttavia, non si tratta solo di andare per le strade e di agire, dobbiamo anche 
 
 Attribuiamo valore all’apportare cambiamenti al nostro stile di vita, come cambiare la nostra dieta, la meta delle nostre vacanze, gli stili di consumo e così via (tuttavia la responsabilità personale può essere sopravvalutata e si basa, in una certa misura, sul privilegio). Per tutte queste sfide chiediamo spazio, pazienza e disponibilità a provare cose nuove per verificare se ci aiutano a raggiungere i nostri obiettivi.
 
-{{< figure src="/images/principles/butterfly.png" >}}
+{{< /collapse-entry >}}
 
-
-## 5. Diamo valore alla riflessione ed all’apprendimento
+{{< collapse-entry id="learning" title="5. Diamo valore alla riflessione ed all’apprendimento" img="/images/principles/xr.png" >}}
 
 Seguiamo un ciclo che prevede azione, riflessione, apprendimento e pianificazione di ulteriori azioni. Impariamo da altri movimenti e contesti così come dalle nostre esperienze.
 
 Non sappiamo come cambieranno le cose, quindi siamo disposti a sperimentare ed imparare da ciò che facciamo. Attraverso continue domande, riflessioni ed imparando da ciò che ha funzionato in altre situazioni, miglioreremo ciò che facciamo e non resteremo bloccati in comportamenti ripetitivi. Questo è un processo attivo ed in continua evoluzione, che richiede tempo e stimoli affinché gli individui ed i gruppi possano riflettere su cosa è andato bene e perché, e su cosa sarebbe meglio fare diversamente in futuro.
 
-{{< figure src="/images/principles/xr.png" >}}
+{{< /collapse-entry >}}
 
-## 6. Accogliamo tutti ed ogni parte di ciascuno
+{{< collapse-entry id="welcome" title="6. Accogliamo tutti ed ogni parte di ciascuno" img="/images/principles/swallow.png" >}}
 
 Lavoriamo attivamente per creare spazi più sicuri ed accessibili.
 
@@ -106,9 +105,9 @@ La violenza fisica o l’incitamento alla violenza nei confronti degli altri non
 
 Riconosciamo anche che siamo esseri complessi ed esibiamo molte parti diverse di noi stessi in tempi diversi ed in circostanze diverse. Ad esempio, a volte potremmo essere premurosi, altre volte giudicanti ed altre volte negligentemente reattivi. Alcune di quelle parti sono parti di noi che siamo felici di avere, ed altre sono parti con cui stiamo lottando, o della cui esistenza non siamo nemmeno consapevoli fino a quando non si sono rivelate. Con questa conoscenza, ci avviciniamo l’un l’altro da un luogo di compassione e ci incoraggiamo a vicenda ad aumentare la nostra consapevolezza di noi stessi.
 
-{{< figure src="/images/principles/swallow.png" >}}
+{{< /collapse-entry >}}
 
-## 7. Cerchiamo attivamente di ridurre gli effetti del potere
+{{< collapse-entry id="mitigate" title="7. Cerchiamo attivamente di ridurre gli effetti del potere" img="/images/principles/skull.png" >}}
 
 Abbattiamo le gerarchie del potere per una partecipazione più equa.
 
@@ -133,9 +132,9 @@ La necessità di avere un database, dei social media ed un sito web, la raccolta
 
 È importante che ogni attivista rifletta su queste domande: se svolgi sempre un ruolo, puoi formare qualcun altro a farlo? Se qualcun altro sta assumendo la leadership in un ruolo, puoi imparare da lui/lei in modo da poterlo/a sostituire? Puoi sfidare te stesso ad assumere un ruolo più diretto anche se questo è qualcosa che non ti viene spontaneo fare? Ti prendi del tempo per ragionare su potere e privilegi? Hai una comprensione di come il potere ed il privilegio che detieni hanno un effetto sulle altre persone e sul movimento di cui fai parte?
 
-{{< figure src="/images/principles/skull.png" >}}
+{{< /collapse-entry >}}
 
-## 8. Evitiamo di biasimare ed incolpare
+{{< collapse-entry id="blaming" title="8. Evitiamo di biasimare ed incolpare" img="/images/principles/heart.png" >}}
 
 Viviamo in un sistema tossico, ma nessun singolo individuo è da condannare.
 
@@ -145,9 +144,9 @@ Sappiamo quali sono i comportamenti dannosi, sfruttatori o offensivi e non li to
 
 Abbracciamo il cambiamento che crea unità nella diversità; dobbiamo stabilire relazioni corrette tra di noi ed affrontare con consapevolezza le strutture che ci dividono, evitando trappole che provengono da giochi che possiamo inavvertitamente giocare. Accettiamo che le emozioni a volte debbano essere espresse, che possa essere necessario un momento di sfogo. Ascoltiamo e condividiamo le emozioni, per tornare ad una base di amore, rispetto e convivialità. Dobbiamo essere compassionevoli quando vengono commessi errori, perché gli errori sono opportunità di apprendimento. Cerchiamo modi per connetterci e comprenderci, come la pratica dell’ascolto attivo: ascoltarsi vicendevolmente, ad un livello profondo, è uno strumento potente. In particolare, dobbiamo ascoltare quelli di noi che provengono da gruppi le cui voci tendono ad essere messe a tacere.
 
-{{< figure src="/images/principles/heart.png" >}}
+{{< /collapse-entry >}}
 
-## 9. Siamo una rete non violenta
+{{< collapse-entry id="non-violent" title="9. Siamo una rete non violenta" img="/images/principles/thrush.png" >}}
 
 Utilizziamo strategie e tattiche non violente in quanto reputiamo siano il modo più efficace per apportare un cambiamento.
 
@@ -155,9 +154,9 @@ La nonviolenza mantiene vivo il nostro movimento. Usiamo la nonviolenza per mett
 
 Allo stesso tempo riconosciamo che molte persone e movimenti nel mondo affrontano la morte, torture, sfollamenti ed abusi. Non condanneremo coloro che difendono giustamente le loro famiglie e comunità attraverso l’uso della forza, soprattutto perché dobbiamo anche riconoscere che spesso è il nostro privilegio che ci consente di agire come agiamo. Siamo solidali con coloro che non hanno tale privilegio e quindi devono proteggersi con mezzi violenti; questo non significa che perdoniamo tutta la violenza, solo che comprendiamo che in alcuni casi può essere giustificata. Inoltre, non condanniamo altri movimenti sociali ed ambientali che scelgono di danneggiare la proprietà privata per proteggere sé stessi e la natura, ad esempio disabilitando una piattaforma di fracking o mettendo fuori servizio un centro di detenzione. I membri del nostro movimento, tuttavia, non agiranno in nome di Extinction Rebellion danneggiando la proprietà altrui, a causa dei rischi che correrebbero gli altri manifestanti, per associazione.
 
-{{< figure src="/images/principles/thrush.png" class="lg" >}}
+{{< /collapse-entry >}}
 
-## 10. Ci basiamo su autonomia e decentralizzazione
+{{< collapse-entry id="autonomy" title="10. Ci basiamo su autonomia e decentralizzazione" img="/images/principles/timer.png" >}}
 
 Creiamo collettivamente le strutture di cui abbiamo bisogno per sfidare il potere.
 
@@ -173,4 +172,4 @@ essi sono pienamente responsabili dei risultati e dovrebbero riflettere su di es
 
 Allo stesso tempo, come rete, Extinction Rebellion si auto-organizza per provvedere ai bisogni delle persone che vi partecipano, lavorando per fornire formazione in azioni strategiche per il cambiamento, educando noi stessi e gli altri su questioni relative al potere, al privilegio, a come creare una migliore accessibilità, prendersi cura dei nostri bisogni emotivi e trovare il tempo per costruire uno spirito di gruppo e per il divertimento.
 
-{{< figure src="/images/principles/timer.png" class="lg" >}}
+{{< /collapse-entry >}}

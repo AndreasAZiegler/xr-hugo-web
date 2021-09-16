@@ -15,64 +15,64 @@ Diese Prinzipien und Werte bringen und halten uns als Bewegung zusammen. Sie sin
 
 Alle, die diesen Prinzipien und Werten folgen, können im Namen von Extinction Rebellion in Aktion treten.
 
-## 1. Wir haben eine gemeinsame Vision der Veränderung
+{{< collapse-entry id="vision" title="1. Wir haben eine gemeinsame Vision der Veränderung" img="/images/principles/eyes.png" >}}
 
 Eine Welt zu schaffen, die auch für zukünftige Generationen lebenswert ist.
 
-{{< figure src="/images/principles/eyes.png" >}}
+{{< /collapse-entry >}}
 
-## 2. Unser Fokus liegt auf dem Erreichen des Notwendigen
+{{< collapse-entry id="mission" title="2. Unser Fokus liegt auf dem Erreichen des Notwendigen" img="/images/principles/bone.png" >}}
 
 Die 3,5 Prozent der Bevölkerung zu mobilisieren, die nötig sind, um Systemveränderungen zu erreichen.
 
-{{< figure src="/images/principles/bone.png" >}}
+{{< /collapse-entry >}}
 
-## 3. Wir brauchen eine Kultur der Regeneration
+{{< collapse-entry id="culture" title="3. Wir brauchen eine Kultur der Regeneration" img="/images/principles/bee.png" >}}
 
 Wir schaffen eine Kultur, die gesund, anpassungsfähig und belastbar ist.
 
-{{< figure src="/images/principles/bee.png" >}}
+{{< /collapse-entry >}}
 
-## 4. Wir stellen uns selbst und unser toxisches System offen in Frage
+{{< collapse-entry id="toxic" title="4. Wir stellen uns selbst und unser toxisches System offen in Frage" img="/images/principles/butterfly.png" >}}
 
 Dabei verlassen wir unsere Komfortzonen, um uns aktiv für Veränderungen einzusetzen.
 
-{{< figure src="/images/principles/butterfly.png" >}}
+{{< /collapse-entry >}}
 
-## 5. Reflexion und Lernen sind uns wichtig
+{{< collapse-entry id="learning" title="5. Reflexion und Lernen sind uns wichtig" img="/images/principles/xr.png" >}}
 
 Wir folgen einem Kreislauf aus Aktion, Reflexion, Lernen und dem Planen weiterer Aktionen. Wir entwickeln uns weiter, indem wir von anderen und aus eigenen Erfahrungen lernen.
 
-{{< figure src="/images/principles/xr.png" >}}
+{{< /collapse-entry >}}
 
-## 6. Alle sind willkommen – so wie sie sind
+{{< collapse-entry id="welcome" title="6. Alle sind willkommen – so wie sie sind" img="/images/principles/swallow.png" >}}
 
 Wir arbeiten aktiv daran, ein geschütztes und für alle zugängliches Umfeld zu schaffen.
 
 Verhalten, das Rassismus, Sexismus, Antisemitismus, Islamophobie, Homophobie, Behindertenfeindlichkeit, Klassendiskriminierung, Altersvorurteile und alle anderen Formen der Diskriminierung, einschließlich beleidigender Sprache, aufweist, akzeptieren wir weder persönlich noch online.
 
-{{< figure src="/images/principles/swallow.png" >}}
+{{< /collapse-entry >}}
 
-## 7. Wir überwinden hierarchische Machtstrukturen
+{{< collapse-entry id="mitigate" title="7. Wir überwinden hierarchische Machtstrukturen" img="/images/principles/skull.png" >}}
 
 Wir gleichen das Gefälle von Macht und Einfluss aktiv aus, um eine gerechte Teilhabe zu ermöglichen.
 
-{{< figure src="/images/principles/skull.png" >}}
+{{< /collapse-entry >}}
 
-## 8. Wir vermeiden Schuldzuweisungen und Beleidigungen
+{{< collapse-entry id="blaming" title="8. Wir vermeiden Schuldzuweisungen und Beleidigungen" img="/images/principles/heart.png" >}}
 
 Wir leben in einem toxischen System, doch daran trägt kein Mensch allein die Schuld.
 
-{{< figure src="/images/principles/heart.png" >}}
+{{< /collapse-entry >}}
 
-## 9. Wir sind ein gewaltfreies Netzwerk
+{{< collapse-entry id="non-violent" title="9. Wir sind ein gewaltfreies Netzwerk" img="/images/principles/thrush.png" >}}
 
 Wir nutzen gewaltfreie Strategien und Methoden als effektivstes Mittel, um Veränderungen herbeizuführen.
 
-{{< figure src="/images/principles/thrush.png" class="lg" >}}
+{{< /collapse-entry >}}
 
-## 10. Wir stützen uns auf Selbstbestimmung und Dezentralität
+{{< collapse-entry id="autonomy" title="10. Wir stützen uns auf Selbstbestimmung und Dezentralität" img="/images/principles/timer.png" >}}
 
 Gemeinschaftlich schaffen wir die notwendigen Strukturen, um bestehende Machtverhältnisse zu verändern.
 
-{{< figure src="/images/principles/timer.png" class="lg" >}}
+{{< /collapse-entry >}}

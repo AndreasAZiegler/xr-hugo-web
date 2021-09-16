@@ -14,18 +14,6 @@ draft: false
 # Our Principles and Values
 All are welcome who want to adhere to our principles and values:
 
-- [We have a shared vision of change](#1-we-have-a-shared-vision-of-change)
-  - [Our vision](#our-vision)
-- [We set our mission on what is necessary](#2-we-set-our-mission-on-what-is-necessary)
-- [We need a regenerative culture](#3-we-need-a-regenerative-culture)
-- [We openly challenge ourselves and our toxic system](#4-we-openly-challenge-ourselves-and-our-toxic-system)
-- [We value reflecting and learning](#5-we-value-reflecting-and-learning)
-- [We welcome everyone and every part of everyone](#6-we-welcome-everyone-and-every-part-of-everyone)
-- [We actively mitigate for power](#7-we-actively-mitigate-for-power)
-- [We avoid blaming and shaming](#8-we-avoid-blaming-and-shaming)
-- [We are a non-violent network](#9-we-are-a-non-violent-network)
-- [We are based on autonomy and decentralisation](#10-we-are-based-on-autonomy-and-decentralisation)
-
 {{< collapse-entry id="vision" title="1. We have a shared vision of change" img="/images/principles/eyes.png" >}}
 
 Creating a world that is fit for generations to come. Our duty is to create a world fit for the next seven generations to live in. 
@@ -42,7 +30,7 @@ Together, our rebellion is the gift this world needs. We are XR and you are us.
 
 {{< /collapse-entry >}}
 
-## 2. we set our mission on what is necessary
+{{< collapse-entry id="mission" title="2. we set our mission on what is necessary" img="/images/principles/bone.png" >}}
 
 Mobilising 3.5% of the population to achieve system change – using ideas such as “Momentum-driven organising” to achieve this.
 
@@ -62,9 +50,9 @@ We can focus on symptoms of this toxic system, yet we also we take opportunities
 - A fake and decaying democracy.
 - A media captured to the interests of exploitative rich people and corporations.
 
-{{< figure src="/images/principles/bone.png" >}}
+{{< /collapse-entry >}}
 
-## 3. we need a regenerative culture
+{{< collapse-entry id="culture" title="3. we need a regenerative culture" img="/images/principles/bee.png" >}}
 
 Creating a culture which is healthy, resilient and adaptable.
 
@@ -80,9 +68,9 @@ Regenerative culture includes a healthy focus on mutually supporting categories 
 
 It’s about relationships. Our relationships with ourselves and personal histories, our relationships with what we struggle against, our relationships with other individuals day to day, and our relationships as a group – these are completely interdependent. Self care is also about taking care of the animal parts of the self that respond instinctively to stressful situations with fight or flight or faint.
 
-{{< figure src="/images/principles/bee.png" >}}
+{{< /collapse-entry >}}
 
-## 4. we openly challenge ourselves and our toxic system
+{{< collapse-entry id="toxic" title="4. we openly challenge ourselves and our toxic system" img="/images/principles/butterfly.png" >}}
 
 Leaving our comfort zones to take action for change.
 
@@ -92,18 +80,17 @@ However we are not just about being out there and taking action, we must also re
 
 There is a value in us making changes in our own lives to reflect the changes needed, such as changing our diets, where we go on holiday and so on (however personal responsibility can be overstated and is based, to some extent, in privilege). For all of these challenges we ask for room, patience and willingness to try new things to see if they support our goals.
 
-{{< figure src="/images/principles/butterfly.png" >}}
+{{< /collapse-entry >}}
 
-## 5. we value reflecting and learning
+{{< collapse-entry id="learning" title="5. we value reflecting and learning" img="/images/principles/xr.png" >}}
 
 Following a cycle of action, reflection, learning, and planning for more action. Learning from other movements and contexts as well as our own experiences.
 
 We don’t know how things will change so we are willing to experiment and learn from what we do. Through ongoing questioning, reflection and learning about what has worked elsewhere we will improve what we do and not get stuck in repetitive behaviour. This is an active and ongoing process, requiring time and input for individuals and groups to think about what has gone well and why, what would be better to be done differently.
 
-{{< figure src="/images/principles/xr.png" >}}
+{{< /collapse-entry >}}
 
-
-## 6. we welcome everyone and every part of everyone
+{{< collapse-entry id="welcome" title="6. we welcome everyone and every part of everyone" img="/images/principles/swallow.png" >}}
 
 Working actively to create safer and more accessible spaces.
 
@@ -115,10 +102,10 @@ Physical violence or the incitement of violence towards others is not accepted. 
 
 We also recognise that we are complex beings and exhibit many different parts of ourselves at different times and in different circumstances. For example, sometimes we might be caring, at other times judgemental, and at other times carelessly reactive. Some of those parts are parts of us that we’re happy to bring, and some of those parts are parts that we’re struggling with, or perhaps not even aware they existed until they revealed themselves. With this knowledge, we approach each other from a place of compassion, and encourage each other to increase our own self-awareness.
 
-{{< figure src="/images/principles/swallow.png" >}}
+{{< /collapse-entry >}}
 
 
-## 7. we actively mitigate for power
+{{< collapse-entry id="mitigate" title="7. we actively mitigate for power" img="/images/principles/skull.png" >}}
 
 Breaking down hierarchies of power for more equitable participation.
 
@@ -142,9 +129,9 @@ In practical terms this means:
 
 Thinking about these questions is encouraged: If you always do a role, is it possible to train someone else to do it? If someone else is taking leadership on a role, can you learn from them so that you can step in? Can you challenge yourself to take on a more upfront role if this is something you don’t usually do? Do you take time to learn about power and privilege? Do you have an understanding of how the power and privilege you hold has an effect on other people and the movement you are part of?
 
-{{< figure src="/images/principles/skull.png" >}}
+{{< /collapse-entry >}}
 
-## 8. we avoid blaming and shaming
+{{< collapse-entry id="blaming" title="8. we avoid blaming and shaming" img="/images/principles/heart.png" >}}
 
 We live in a toxic system, but no one individual is to blame.
 
@@ -152,9 +139,9 @@ Blaming and shaming will not serve us in the long run. Whilst a specific campaig
 
 We embrace change that creates unity in diversity; we need to set right the relationships between us, avoiding the interpersonal traps that come from games we may inadvertently play and bringing awareness to the structures that would divide us. We accept that emotion sometimes needs to be expressed, that a period of venting can be necessary. We ask each other for good grace in how we share emotion and to return to a baseline of love, respect and conviviality. We need to be compassionate when mistakes are made. Mistakes are opportunities to learn. We look for ways to connect and understand. Listening deeply to each other is a powerful tool. We especially need to listen to those of us that come from groups whose voices tend to be silenced.
 
-{{< figure src="/images/principles/heart.png" >}}
+{{< /collapse-entry >}}
 
-## 9. we are a non-violent network
+{{< collapse-entry id="non-violent" title="9. we are a non-violent network" img="/images/principles/thrush.png" >}}
 
 Using non-violent strategy and tactics as the most effective way to bring about change.
 
@@ -162,9 +149,9 @@ Non-violence keeps our movement alive. We use non-violence to reveal the true pe
 
 At the same we also recognise that many people and movements in the world face death, displacement and abuse in defending what is theirs. We will not condemn those who justly defend their families and communities through the use of force, especially as we must also recognise that it is often our privilege which keeps us safe. We stand in solidarity with those whom have no such privilege to protect them and therefore must protect themselves through violent means; this does not mean we condone all violence, just that we understand in some cases it may be justified.  Also we do not condemn other social and environmental movements that choose to damage property in order to protect themselves and nature, for example disabling a fracking rig or putting a detention centre out of action. Our network, however, will not undertake significant property damage because of risks to other participants by association.
 
-{{< figure src="/images/principles/thrush.png" class="lg">}}
+{{< /collapse-entry >}}
 
-## 10. we are based on autonomy and decentralisation
+{{< collapse-entry id="autonomy" title="10. we are based on autonomy and decentralisation" img="/images/principles/timer.png" >}}
 
 We collectively create the structures we need to challenge power. Anyone who follows these core principles and values can take action in the name of Extinction Rebellion.
 
@@ -177,4 +164,4 @@ They are best to seek advice and feedback but they don’t need anyone’s permi
 They are fully responsible for outcomes and should reflect on them and how to improve in future. If anything goes wrong they should help to “clean up”.
 At the same time, as a network, Extinction Rebellion self-organises to provide for the needs of the people participating within it, working to provide training in strategic action for change, educating ourselves and each other around issues of power, privilege and how to decolonise, creating better accessibility, caring for our emotional needs in relation to working together, and making time for connection and fun.
 
-{{< figure src="/images/principles/timer.png" class="lg" >}}
+{{< /collapse-entry >}}

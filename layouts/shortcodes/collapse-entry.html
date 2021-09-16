@@ -5,12 +5,14 @@
 </h2>
 <div class="collapse" id="{{ .Get "id" }}">
   <div class="card card-body">
-    {{ .Inner | markdownify }}
+  
+    {{ .Inner | $.Page.RenderString }}
 
     {{ if .Get "img" }}
     <figure>
       <img src="{{ .Get "img" }}">
     </figure>
     {{ end }}
+		
   </div>
 </div>

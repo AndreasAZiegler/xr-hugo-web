@@ -18,65 +18,65 @@ Nous sommes… vous ! Vous êtes invité·e·s à nous rejoindre et à participe
 # NOS PRINCIPES
 Toute personne voulant adhérer à nos principes et valeurs est la bienvenue[^note1].
 
-### 1. NOUS PARTAGEONS UNE VISION DU CHANGEMENT
+{{< collapse-entry id="vision" title="1. NOUS PARTAGEONS UNE VISION DU CHANGEMENT" img="/images/principles/eyes.png" >}}
 
 En créant un monde adapté aux générations à venir.
 
-{{< figure src="/images/principles/eyes.png" >}}
+{{< /collapse-entry >}}
 
-### 2. NOUS AJUSTONS NOTRE MISSION À LA MESURE DE CE QUI EST NÉCESSAIRE
+{{< collapse-entry id="mission" title="2. NOUS AJUSTONS NOTRE MISSION À LA MESURE DE CE QUI EST NÉCESSAIRE" img="/images/principles/bone.png" >}}
 
 En mobilisant 3,5% de la population[^note2] – seuil à atteindre pour déclencher un changement de système – et en s'inspirant des idées comme celle de « Momentum-driven organizing »[^note3].
 
-{{< figure src="/images/principles/bone.png" >}}
+{{< /collapse-entry >}}
 
-### 3. NOUS AVONS BESOIN D’UNE CULTURE RÉGÉNÉRATRICE
+{{< collapse-entry id="culture" title="3. NOUS AVONS BESOIN D’UNE CULTURE RÉGÉNÉRATRICE" img="/images/principles/bee.png" >}}
 
 En créant une culture saine, résiliente et adaptable.
 
-{{< figure src="/images/principles/bee.png" >}}
+{{< /collapse-entry >}}
 
-### 4. NOUS NOUS REMETTONS NOUS-MÊMES EN QUESTION, AUTANT QUE CE SYSTÈME TOXIQUE
+{{< collapse-entry id="toxic" title="4. NOUS NOUS REMETTONS NOUS-MÊMES EN QUESTION, AUTANT QUE CE SYSTÈME TOXIQUE" img="/images/principles/butterfly.png" >}}
 
 En sortant de nos zones de confort pour devenir les acteur·ice·s du changement.
 
-{{< figure src="/images/principles/butterfly.png" >}}
+{{< /collapse-entry >}}
 
-### 5. NOUS VALORISONS LA RÉFLEXION ET L’APPRENTISSAGE
+{{< collapse-entry id="learning" title="5. NOUS VALORISONS LA RÉFLEXION ET L’APPRENTISSAGE" img="/images/principles/xr.png" >}}
 
 En suivant des cycles d’action, de réflexion, d’apprentissage, puis de planification pour de nouvelles actions. En apprenant des autres mouvements et contextes aussi bien que de nos propres expériences.
 
-{{< figure src="/images/principles/xr.png" >}}
+{{< /collapse-entry >}}
 
-### 6. NOUS ACCUEILLONS CHAQUE PERSONNE, ET CHACUNE DE SES FACETTES
+{{< collapse-entry id="welcome" title="6. NOUS ACCUEILLONS CHAQUE PERSONNE, ET CHACUNE DE SES FACETTES" img="/images/principles/swallow.png" >}}
 
 En travaillant activement pour créer des espaces sécurisants et inclusifs.
 
-{{< figure src="/images/principles/swallow.png" >}}
+{{< /collapse-entry >}}
 
-### 7. NOUS LIMITONS DÉLIBÉRÉMENT LES RAPPORTS DE POUVOIR
+{{< collapse-entry id="mitigate" title="7. NOUS LIMITONS DÉLIBÉRÉMENT LES RAPPORTS DE POUVOIR" img="/images/principles/skull.png" >}}
 
 En démantelant les hiérarchies de pouvoir pour une participation plus équitable.
 
-{{< figure src="/images/principles/skull.png" >}}
+{{< /collapse-entry >}}
 
-### 8. NOUS NE TENONS PAS DE DISCOURS MORALISATEURS NI CULPABILISANTS
+{{< collapse-entry id="blaming" title="8. NOUS NE TENONS PAS DE DISCOURS MORALISATEURS NI CULPABILISANTS" img="/images/principles/heart.png" >}}
 
 Nous vivons dans un système toxique, mais nul·le ne doit être accusé·e en tant qu’individu.
 
-{{< figure src="/images/principles/heart.png" >}}
+{{< /collapse-entry >}}
 
-### 9. NOUS SOMMES UN RÉSEAU NON-VIOLENT
+{{< collapse-entry id="non-violent" title="9. NOUS SOMMES UN RÉSEAU NON-VIOLENT" img="/images/principles/thrush.png" >}}
 
 En utilisant une stratégie et des tactiques non-violentes comme moyen le plus efficace de provoquer le changement.
 
-{{< figure src="/images/principles/thrush.png" class="lg" >}}
+{{< /collapse-entry >}}
 
-### 10. NOTRE MOUVEMENT EST FONDÉ SUR DES PRINCIPES D’AUTONOMIE ET DE DÉCENTRALISATION
+{{< collapse-entry id="autonomy" title="10. NOTRE MOUVEMENT EST FONDÉ SUR DES PRINCIPES D’AUTONOMIE ET DE DÉCENTRALISATION" img="/images/principles/timer.png" >}}
 
 Nous créons collectivement les structures nécessaires pour défier le pouvoir. Toute personne qui suit ces principes et valeurs essentiels peut agir au nom d’Extinction Rebellion.
 
-{{< figure src="/images/principles/timer.png" class="lg" >}}
+{{< /collapse-entry >}}
 
 
 [^note1]: Extinction Rebellion est un mouvement international. Ces principes et valeurs étant une traduction de l’anglais, il conviendra de toujours se reporter au texte original en cas de problème d’interprétation
