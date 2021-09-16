@@ -28,6 +28,10 @@ En créant un monde adapté aux générations à venir.
 
 En mobilisant 3,5% de la population[^note2] – seuil à atteindre pour déclencher un changement de système – et en s'inspirant des idées comme celle de « Momentum-driven organizing »[^note3].
 
+[^note2]: La notion de « 3,5% de la population » est expliquée dans le <a href='https://tube.extinctionrebellion.fr/videos/watch/cc5846f7-ad0b-4535-9b26-271753f9298b'>TEDx d'Erica Chenoweth</a> : « The success of nonviolent civil resistance » (en anglais) Erica Chenoweth, Ph.D., est professeure en Politiques publiques à la Harvard Kennedy School et au Radcliffe Institute for Advanced Studies aux USA. Cette personne ne croyait pas au succès des actions non-violentes. Elle a alors étudié plus de 100 cas de campagnes violentes et non-violentes de 1900 à 2006. Et elle a été époustouflée par les résultats de son étude qui se sont révélés à l’opposé de ses croyances. Non seulement les campagnes non-violentes parviennent à leurs fins deux fois plus souvent que les campagnes violentes, mais de plus leur efficacité s’accroît à mesure que nous nous rapprochons de notre époque actuelle. Elle a constaté qu’il suffit de mobiliser 3,5% de la population d’un État pour réussir une révolution non-violente. Et souvent, il a suffi de bien moins que cela.
+
+[^note3]: « Momentum-driven organizing » est un concept développé dans le livre « This is an uprising », co-écrit par Mark & Paul Engler. C’est un modèle d’organisation hybride qui combine la puissance explosive et à court terme des mobilisations de masse qu’il cherche à produire (type Occupy ou Nuit debout), avec la capacité à prendre des décisions collectives et à soutenir la lutte dans le temps qu’ont les structures classiques (types ONG). Ce type de mouvement est la clé de la stratégie globale d’Extinction Rebellion.
+
 {{< /collapse-entry >}}
 
 {{< collapse-entry id="culture" title="3. NOUS AVONS BESOIN D’UNE CULTURE RÉGÉNÉRATRICE" img="/images/principles/bee.png" >}}
@@ -78,10 +82,4 @@ Nous créons collectivement les structures nécessaires pour défier le pouvoir.
 
 {{< /collapse-entry >}}
 
-
 [^note1]: Extinction Rebellion est un mouvement international. Ces principes et valeurs étant une traduction de l’anglais, il conviendra de toujours se reporter au texte original en cas de problème d’interprétation
-
-[^note2]: La notion de « 3,5% de la population » est expliquée dans le <a href='https://tube.extinctionrebellion.fr/videos/watch/cc5846f7-ad0b-4535-9b26-271753f9298b'>TEDx d'Erica Chenoweth</a> : « The success of nonviolent civil resistance » (en anglais) Erica Chenoweth, Ph.D., est professeure en Politiques publiques à la Harvard Kennedy School et au Radcliffe Institute for Advanced Studies aux USA. Cette personne ne croyait pas au succès des actions non-violentes. Elle a alors étudié plus de 100 cas de campagnes violentes et non-violentes de 1900 à 2006. Et elle a été époustouflée par les résultats de son étude qui se sont révélés à l’opposé de ses croyances. Non seulement les campagnes non-violentes parviennent à leurs fins deux fois plus souvent que les campagnes violentes, mais de plus leur efficacité s’accroît à mesure que nous nous rapprochons de notre époque actuelle. Elle a constaté qu’il suffit de mobiliser 3,5% de la population d’un État pour réussir une révolution non-violente. Et souvent, il a suffi de bien moins que cela.
-
-
-[^note3]: « Momentum-driven organizing » est un concept développé dans le livre « This is an uprising », co-écrit par Mark & Paul Engler. C’est un modèle d’organisation hybride qui combine la puissance explosive et à court terme des mobilisations de masse qu’il cherche à produire (type Occupy ou Nuit debout), avec la capacité à prendre des décisions collectives et à soutenir la lutte dans le temps qu’ont les structures classiques (types ONG). Ce type de mouvement est la clé de la stratégie globale d’Extinction Rebellion.
