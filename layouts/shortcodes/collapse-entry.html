@@ -4,9 +4,9 @@
 </a>
 </h2>
 <div class="collapse" id="{{ .Get "id" }}">
-  <div class="card card-body">
+  <div class="accordion-body">
   
-    {{ .Inner | $.Page.RenderString }}
+    {{ .Inner | markdownify }}
 
     {{ if .Get "img" }}
     <figure>
